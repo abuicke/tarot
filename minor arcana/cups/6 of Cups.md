@@ -5,9 +5,12 @@ Key Word:
 1) Harmonious, positive emotion. Fullness of feeling, dynamic and well balanced.
 
 
+
 ### REVERSED ###
 
 1) Depression. Lack of feeling. Feelings of disconnection and disharmony with others.
+
+
 
 
 
