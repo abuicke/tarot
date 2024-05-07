@@ -1,18 +1,15 @@
 # 6 of Cups
 
 #### Key Word:
-
+<br>
 
 ### Upright
-
 
 1) Harmonious, positive emotion. Fullness of feeling, dynamic and well balanced.
 
 ### Reversed
 
-
 1) Depression. Lack of feeling. Feelings of disconnection and disharmony with others.
-
 
 ### Extra
 
