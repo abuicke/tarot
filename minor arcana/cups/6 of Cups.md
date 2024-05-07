@@ -1,7 +1,7 @@
 # 6 of Cups
 
 #### Key Word:
-
+<br>
 
 ### Upright
 
