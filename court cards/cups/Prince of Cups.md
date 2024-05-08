@@ -1,9 +1,9 @@
 # Prince of Cups
 
-**Key Word:** Passion
-**Rules:** 20° ♎︎ to 20° ♍︎
-**Planetary:** [Jupiter], Mars, Sun
-**Nature:** [Truce], Disappointment and Pleasure
+**Key Word:** Passion  
+**Rules:** 20° ♎︎ to 20° ♍︎  
+**Planetary:** [Jupiter], Mars, Sun  
+**Nature:** [Truce], Disappointment and Pleasure  
 
 
 ### Upright
