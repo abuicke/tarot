@@ -1,0 +1,3 @@
+Every 5 in the thoth tarot shows an averse pentagram. What is this trying to represent? Is it because pain leads us into matter? 
+
+>The central wand has become as heavy as lead. The winged disk which normally would indicate an upward swing into higher spheres now bears a star pointed downward. The center of the star is covered by five small overlapping disks. The eye of Horus has lost its clarity of vision.
