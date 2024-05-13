@@ -10,12 +10,12 @@ When placing this card down say "This crosses me"
 
 ## 3 - The Concious Attitude
 
-When placing this card down say "This is above me"
+When placing this card down say "This crowns me"
 
 
 ## 4 - The Unconscious
 
-When placing this card down say "This is below me"
+When placing this card down say "This is beneath me"
 
 Really the unconscious is what's pushing you forward. It's the unseen motivation that's driving you.
 
