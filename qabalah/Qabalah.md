@@ -11,4 +11,13 @@ Earth/Assiah - Embodying, Being (Acting)
 
 ## The Sephiroth
 
+Kether - 
+Chokmah - 
+Binah - 
+Chesed - Expanding
+Geburah - Destroying
 Tiphareth - Harmony
+Netzach - 
+Hod - 
+Yesod - 
+Malkuth - 
