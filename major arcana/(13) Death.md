@@ -12,7 +12,7 @@
 
 ### Reversed
 
-1) 
+1) Ressurection - reconstiution after a major transformation
 
 
 
