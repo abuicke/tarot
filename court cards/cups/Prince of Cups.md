@@ -4,6 +4,7 @@
 **Rules:** 20° ♎︎ to 20° ♍︎  
 **Planetary:** [Jupiter], Mars, Sun  
 **Nature:** [Truce], Disappointment and Pleasure  
+**Hexagram:** 61. Chung Fu/Inner Truth
 
 
 
@@ -27,5 +28,7 @@ Through fear of Disappointment he creates the intensity and passion needed to pu
 
 
 ### Extra
+
+
 
 
