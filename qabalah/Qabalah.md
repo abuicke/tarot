@@ -3,24 +3,24 @@
 
 ## The Elements & The Four Worlds
 
-Fire/Atziluth -  
+Fire/Atziluth - Creating, Generating, Inseminating (Creation)  
 Water/Briah - Grasping, Understanding, Knowing (Intuition)  
 Air/Yetzirah - Disecting, Examining, Categorizing (Mentation)  
-Earth/Assiah - Embodying, Being (Acting)  
+Earth/Assiah - Embodying, Being, Doing, (Crystallization)  
 
 
 ## The Sephiroth
 
-Kether -  
-Chokmah -  
-Binah -  
+Kether - Being  
+Chokmah - Creating  
+Binah - Understanding  
 Chesed - Expanding  
 Geburah - Destroying  
-Tiphareth - Harmony  
-Netzach -  
-Hod -  
-Yesod -  
-Malkuth -  
+Tiphareth - Harmonizing  
+Netzach - Feeling  
+Hod - Thinking  
+Yesod - Living  
+Malkuth - Existing  
 
 
 ## The Cards
