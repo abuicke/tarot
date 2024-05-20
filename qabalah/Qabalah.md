@@ -16,11 +16,11 @@ Chokmah - Creating
 Binah - Understanding  
 Chesed - Expanding  
 Geburah - Destroying  
-Tiphareth - Harmonizing  
+Tiphareth - Harmonizing, Experiencing  
 Netzach - Feeling  
-Hod - Thinking  
-Yesod - Living  
-Malkuth - Existing  
+Hod - Comprehending, Reflecting, Channelizing  
+Yesod - Living, Building, Structuring, Growing  
+Malkuth - Acting, Doing  
 
 
 ## The Cards
