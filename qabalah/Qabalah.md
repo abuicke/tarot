@@ -5,7 +5,7 @@
 
 Fire/Atziluth -  
 Water/Briah - Grasping, Understanding, Knowing (Intuition)  
-Air/Yetzirah - Disecting, Examining, Categorizing (Processing)  
+Air/Yetzirah - Disecting, Examining, Categorizing (Mentation)  
 Earth/Assiah - Embodying, Being (Acting)  
 
 
