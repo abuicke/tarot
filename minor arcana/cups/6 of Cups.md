@@ -1,6 +1,7 @@
 # 6 of Cups
 
-#### Key Word:
+#### Key Word:  
+#### Song: [Breakfast At Tiffany's by Deep Blue Something](https://www.youtube.com/watch?v=1ClCpfeIELw)  
 
 
 
