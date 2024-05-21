@@ -1,7 +1,7 @@
 # 7 of Disks
 
-#### Key Word: Unification  
-#### Song: [Sunny Afternoon by The Kinks](https://www.youtube.com/watch?v=TYIl6n_SRCI)  
+**Key Word:** Unification  
+**Song:** [Sunny Afternoon by The Kinks](https://www.youtube.com/watch?v=TYIl6n_SRCI)
 
 
 
