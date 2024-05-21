@@ -7,7 +7,7 @@
 
 ### Upright
 
-1) Harmonious, positive emotion. Fullness of feeling, dynamic and well balanced.
+1) Harmonious, positive emotion. Fullness of feeling, dynamic and well balanced.<sup>1</sup>
 2) Joyous, emotionally enriching experiences.
 3) Ease of connection with others.
 
@@ -21,4 +21,12 @@
 
 ### Extra
 
->*Get calm in thought. Our thoughts are the things with which we admit vibrations into our body which produce harmonious or inharmonious emotions. As we think, so we feel, and if these thoughts are harmonious, we respond constructively; if they are inharmonious, then destructive changes begin within our body.* - **The Psychology of the Solar Plexus and Subconscious Mind, Julia Seton**
+>*Get calm in thought. Our thoughts are the things with which we admit vibrations into our body which produce harmonious or inharmonious emotions. As we think, so we feel, and if these thoughts are harmonious, we respond constructively; if they are inharmonious, then destructive changes begin within our body.* - **The Psychology of the Solar Plexus and Subconscious Mind** by Julia Seton
+
+
+
+### Footnotes
+
+1. Example footnote
+
+
