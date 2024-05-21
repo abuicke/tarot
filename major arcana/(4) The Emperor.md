@@ -1,6 +1,7 @@
 # (IV) The Emperor 
 
-#### Key Word: Order
+**Key Word:** Command  
+**Song:** [Breakfast At Tiffany's by Deep Blue Something](https://www.youtube.com/watch?v=1ClCpfeIELw)
 
 
 
@@ -17,4 +18,13 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
