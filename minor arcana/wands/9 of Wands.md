@@ -25,3 +25,5 @@
 ### Footnotes
 
 1. Also referred to as the subjective and objective mind. See *The Psychology of the Solar Plexus* by Dr Julia Seton
+
+
