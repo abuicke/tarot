@@ -5,7 +5,7 @@
 
 ### Upright
 
-1) Morbid lustfulness
+1) Morbid lustfulness (pornography, degenerative sex)
 2) Compulsions
 
 
