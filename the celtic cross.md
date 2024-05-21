@@ -35,6 +35,8 @@ When placing this card down say "This is beneath me"
 
 Really the unconscious is what's pushing you forward. It's the unseen motivation that's driving you.
 
+In many cases the unconscious card will be reversed, indicating the lack of a certain quality or state is troubling you and driving you to act.
+
 
 
 ### 5 - The Past
