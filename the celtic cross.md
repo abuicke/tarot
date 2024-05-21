@@ -1,4 +1,15 @@
-## 1 - The Current Situation
+# The Celtic Cross
+
+## Notes
+
+-The elements of the cross aren't necessarily related causally when reading for a period of time, even though there may be a more subtle, indirect link. For example, the situation, the challenge and the immediate future may all be describing different independent events going on in the same time frame.
+
+
+
+## Positions
+
+
+### 1 - The Current Situation
 
 When placing this card down say "This covers me"
 
@@ -6,19 +17,19 @@ When placing this card down say "This covers me"
 
 
 
-## 2 - The Challenge/Conflict
+### 2 - The Challenge/Conflict
 
 When placing this card down say "This crosses me"
 
 
 
-## 3 - The Concious Attitude
+### 3 - The Concious Attitude
 
 When placing this card down say "This crowns me"
 
 
 
-## 4 - The Unconscious
+### 4 - The Unconscious
 
 When placing this card down say "This is beneath me"
 
@@ -26,30 +37,30 @@ Really the unconscious is what's pushing you forward. It's the unseen motivation
 
 
 
-## 5 - The Past
+### 5 - The Past
 
 When placing this card down say "This is behind me"
 
 
 
-## 6 - The Immediate Future
+### 6 - The Immediate Future
 
 When placing this card down say "This is before me"
 
 
 
-## 7 - My Energy/Influence
+### 7 - My Energy/Influence
 
 
 
-## 8 - The Outside Energy/Influence
+### 8 - The Outside Energy/Influence
 
 
 
-## 9 - Hopes & Fears
+### 9 - Hopes & Fears
 
 
 
-## 10 - The Ultimate Outcome
+### 10 - The Ultimate Outcome
 
 
