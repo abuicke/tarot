@@ -1,7 +1,7 @@
 # (IV) The Emperor 
 
 **Key Word:** Command  
-**Song:** [Breakfast At Tiffany's by Deep Blue Something](https://www.youtube.com/watch?v=1ClCpfeIELw)
+**Song:** [First Day Out by Donald Trump (HiRezTV)](https://www.youtube.com/watch?v=rMM2042bLzQ)
 
 
 
@@ -13,7 +13,7 @@
 
 ### Reversed
 
-1) 
+1) A lack of self-confidence.
 
 
 
