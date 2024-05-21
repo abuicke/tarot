@@ -14,6 +14,7 @@
 
 1) Ill health
 2) Poor sleep (sleep cycles/circadian rhythm disturbed)
+3) Exhaustion, tiredness, physical/mental fatigue.
 
 
 
