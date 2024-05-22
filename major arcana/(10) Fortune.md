@@ -1,6 +1,7 @@
 # (X) Fortune 
 
-#### Key Word:
+**Key Word:** Cycles  
+**Song:** [Circles by Post Malone](https://www.youtube.com/watch?v=jznXk9fOw7g)
 
 
 
@@ -17,4 +18,13 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
