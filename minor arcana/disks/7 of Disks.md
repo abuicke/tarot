@@ -13,7 +13,7 @@
 
 ### Reversed
 
-1) 
+1) Making strides towards a (physical) goal which has, as of yet, been unfulfilled, e.g. weight loss.
 
 
 
