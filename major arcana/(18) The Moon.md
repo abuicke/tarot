@@ -10,6 +10,7 @@
 1) Morbid lustfulness (pornography, degenerative sex)
 2) Compulsions
 3) Spiritual challenges (to overcome compulsions, to see them and the bring them into the light<sup>1</sup>)
+4) Resurfacing of repressed emotions. Experiencing repressed emotions consciously.
 
 
 
