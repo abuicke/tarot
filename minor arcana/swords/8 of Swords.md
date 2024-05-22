@@ -1,7 +1,7 @@
 # 8 of Swords
 
 **Key Word:** Insanity  
-**Song:** [Mind Playing Tricks On Me by Geto Boys](https://www.youtube.com/watch?v=TAqZb52sgpU)
+**Song:** [Mind Playing Tricks On Me by Geto Boys](https://www.youtube.com/watch?v=IJtHdkyo0hc)
 
 
 
