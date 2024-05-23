@@ -13,8 +13,8 @@
 
 ### Reversed
 
-1) Making strides towards a (physical) goal which has, as of yet, been unfulfilled, e.g. weight loss, saving money.
-2) Thinking positively about one's financial future.
+1) Making strides towards a (physical/material) goal which has, as of yet, been unfulfilled, e.g. weight loss, saving money.
+2) Positive expectations of the future.
 
 
 
