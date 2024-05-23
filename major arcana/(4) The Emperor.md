@@ -14,6 +14,8 @@
 ### Reversed
 
 1) A lack of self-confidence.
+2) A lack of control and self-discipline.
+3) A lack of positive pride in one's self.
 
 
 
