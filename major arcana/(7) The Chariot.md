@@ -1,12 +1,13 @@
-# (VII) The Chariot 
+# (VII) The Chariot
 
-#### Key Word:
+**Key Word:**   
+**Song:** 
 
 
 
 ### Upright
 
-1) 
+1) New opportunities.
 
 
 
@@ -17,4 +18,13 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
