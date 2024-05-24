@@ -25,7 +25,9 @@
 >
 >**The Psychology of the Solar Plexus and Subconscious Mind** by Julia Seton
 
-
+>*A person who vibrates is actually a wise person because all great people who come up with great statements experience life first as a vibration. Then it becomes an emotion. Vibration overtakes thought, and then thought moves along with that experience. That's why there's beauty in that thought; there's poetry in it. It's not a mathematical arrangement of words or purely logical. It has a rhythm, a flow. It's very interesting that there's such darkness around something as simple as your own feeling and life energy. Positively embracing your own life energy means you can't be manipulated.*
+>
+>[**We are electric beings. We are not thought beings at all.**](https://www.youtube.com/watch?v=1-YYuhyN910) - Satya Ji
 
 ### Footnotes
 
