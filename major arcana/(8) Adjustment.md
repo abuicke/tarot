@@ -15,6 +15,7 @@
 
 1) Off balance, not your normal self.
 2) Focusing on external control instead of internal equanimity
+3) Loss of center, disorientation due to loss of one's fundamental guiding principal.
 
 
 
