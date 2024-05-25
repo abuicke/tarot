@@ -14,6 +14,7 @@
 ### Reversed
 
 1) Off balance, not your normal self.
+2) Focusing on external control instead of internal equanimity
 
 
 
