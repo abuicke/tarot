@@ -17,6 +17,7 @@
 3) Exhaustion, tiredness, physical/mental fatigue.
 4) Physical tension, stress.
 5) Depression resulting from physical unwellness.
+6) Physical issues (injury, infection etc.)
 
 
 
