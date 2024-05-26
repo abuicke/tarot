@@ -29,6 +29,8 @@
 >
 >**The Psychology of the Solar Plexus and Subconscious Mind** by Julia Seton
 
+
+
 ### Footnotes
 
 1. "You have power over your mind - not outside events. Realize this, and you will find strength." - **Marcus Aurelius**, *Meditations*, Book 6, Chapter 8
