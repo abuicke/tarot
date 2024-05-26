@@ -26,7 +26,7 @@
 >
 >**Visions: Notes of the Seminar Given in 1930-1934, Vol. II, pp. 1272-73** by Carl Jung
 
-**Question:** Does The Moon signifiy the connection between the etheric body and the emotions? If so, it signifies the deepest buried feelings within us. The etheric body being the source of raw, instinctual impulses on the level of fight-or-flight and sexual arousal (all forms of nervous system arousal I believe, which ties it in clearly with trauma, not least because the etheric body is also where memory is stored). It represents how these primitive instincts rise up into the domain of conscious (or partially conscious) feeling. It also establishes the relation between feeling and form. Also consider that this Atu's ascribed letter, Qoph, represents the back of the head, the autonomic and and instinctual processes in man.
+**Question:** Does The Moon signify the connection between the etheric body and the emotions? If so, it signifies the deepest buried feelings within us. The etheric body being the source of raw, instinctual impulses on the level of fight-or-flight and sexual arousal (all forms of nervous system arousal I believe, which ties it in clearly with trauma, not least because the etheric body is also where memory is stored). It represents how these primitive instincts rise up into the domain of conscious (or partially conscious) feeling. It also establishes the relation between feeling and form. Also consider that this Atu's ascribed letter, Qoph, represents the back of the head, the autonomic and and instinctual processes in man.
 
 
 
