@@ -1,7 +1,7 @@
 # (VIII) Adjustment
 
-#### Key Word: Truth  
-#### Hexagrams: 42, Yi (Increase/Augment); 61, Chung Fu (Inner Truth) 
+**Key Word:** Truth  
+**Hexagrams:** 42, Yi (Increase/Augment); 61, Chung Fu (Inner Truth)
 
 
 
