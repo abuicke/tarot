@@ -20,7 +20,7 @@
 
 ### Extra
 
->*The very essence of physical reality is ***Change***, nothing is constant* - [Sadhguru](https://www.youtube.com/shorts/wHUd94T4enk)
+>*The very essence of physical reality is ***Change***, nothing is constant.* - [Sadhguru](https://www.youtube.com/shorts/wHUd94T4enk)
 
 
 
