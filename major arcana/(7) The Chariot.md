@@ -7,8 +7,8 @@
 
 ### Upright
 
-1) New opportunities.
-2) Spirituality, success in meditation.
+1) **New opportunities**.
+2) Spirituality, **success in meditation**.
 
 
 
