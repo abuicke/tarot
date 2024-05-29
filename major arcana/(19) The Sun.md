@@ -9,7 +9,7 @@
 ### Upright
 
 1) **Enlightenment**
-2) **Penetrarting** clearly into one's self
+2) **Penetrating** clearly into one's self
 3) **Illuminating** a previously cloudy or not understood situation
 
 
