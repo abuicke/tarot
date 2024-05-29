@@ -1,18 +1,20 @@
 # (XIII) Death 
 
-#### Key Word:
+**Key Word:** Transform  
+**Song:**   
+**Hexagrams:** 
 
 
 
 ### Upright
 
-1) 
+1) An evolution in consciousness<sup>1<sup>
 
 
 
 ### Reversed
 
-1) Ressurection - reconstiution after a major transformation
+1) Resurrection - reconstitution after a major transformation
 
 
 
@@ -20,12 +22,12 @@
 
 >*As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)*
 >
->**Mirror of the Soul** by Gerd Ziegler
+>**Gerd Ziegler**, *Mirror of the Soul*
 
 
 
 ### Footnotes
 
-1.
+1. "The old personality slain to complete the transfer of consciousness to Tiphereth." - *Liber Theta*
 
 
