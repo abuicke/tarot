@@ -43,11 +43,14 @@ Chokmah - Wisdom
 Binah - Intuition  
 Chesed -   
 Geburah - Will  
-Tiphareth - Excitement, Happiness, (Being in) Flow  
-Netzach - Passion (when combined with Yesod/Impulses becomes Desire), Imagination  
+Tiphareth - Consciousness, Excitement, Happiness, (Being in) Flow  
+Netzach - Passion  
 Hod - Intellect  
 Yesod - Impulses  
 Malkuth - Matter  
+
+Netzach + Tiphareth (Passion + Vision) = Imagination
+Netzach + Yesod (Impulses + Passion) = Desire
 
 ## The Sephiroth (of the physical body)
 
