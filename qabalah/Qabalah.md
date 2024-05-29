@@ -49,6 +49,19 @@ Hod - Intellect
 Yesod - Impulses  
 Malkuth - Matter  
 
+## The Sephiroth (of the physical body)
+
+Kether -   
+Chokmah -   
+Binah -   
+Chesed -   
+Geburah -   
+Tiphareth - Solar Plexus  
+Netzach -   
+Hod -   
+Yesod -   
+Malkuth -   
+
 ## The Cards
 
 Trumps are paths on the Tree. Pips are sephiroth. Court cards are triads (except in the case of the princesses).
