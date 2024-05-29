@@ -2,7 +2,7 @@
 
 **Key Word:** Enlightenment  
 **Song:** [Sunlight feat. Years & Years by The Magician](https://www.youtube.com/watch?v=TFXlWfzW9Uo)  
-**Hexagrams:** 30. Li/The Clinging, Fire  
+**Hexagrams:** 30, Li/The Clinging, Fire  
 
 
 
