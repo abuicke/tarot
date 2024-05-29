@@ -9,7 +9,7 @@ Air/Yetzirah - Disecting, Examining, Categorizing (Mentation)
 Earth/Assiah - Embodying, Being, Doing, (Crystallization)  
 
 
-## The Sephiroth (of the macrocosm)
+## The Sephiroth
 
 Kether - Being  
 Chokmah - Creating  
@@ -23,7 +23,7 @@ Yesod - Living, Building, Structuring, Growing
 Malkuth - Acting, Doing  
 
 
-## The Sephiroth (of the microcosm)
+## The Sephiroth (of the human being)
 
 Kether - Higher Self  
 Chokmah -   
@@ -43,13 +43,13 @@ Chokmah - Wisdom
 Binah - Intuition  
 Chesed -   
 Geburah - Will  
-Tiphareth - Consciousness, Excitement, Happiness, (Being in) Flow  
+Tiphareth - Synchronicity, Flow state  
 Netzach - Passion  
 Hod - Intellect  
 Yesod - Impulses  
 Malkuth - Matter  
 
-Netzach + Tiphareth (Passion + Vision) = Imagination
+Netzach + Hod (Passion + Intellect) = Imagination
 Netzach + Yesod (Impulses + Passion) = Desire
 
 ## The Sephiroth (of the physical body)
@@ -64,6 +64,19 @@ Netzach -
 Hod -   
 Yesod -   
 Malkuth -   
+
+## The Sephiroth (of manifestation)
+
+Kether -   
+Chokmah -   
+Binah -   
+Chesed -   
+Geburah -   
+Tiphareth - Akash  
+Netzach - Magnetism  
+Hod -   
+Yesod - Electricity  
+Malkuth - Matter  
 
 ## The Cards
 
