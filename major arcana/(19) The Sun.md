@@ -22,7 +22,9 @@
 
 ### Extra
 
-
+>Human life on earth is conditioned and unfree, and when man recognizes this limitation and makes himself dependent upon the harmonious and beneficent forces of the cosmos, he achieves **success**.
+>
+> *The Book of Changes* (3rd Edition), pp. 293-94
 
 
 
