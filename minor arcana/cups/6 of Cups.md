@@ -16,8 +16,7 @@
 ### Reversed
 
 1) Depression. Lack of feeling. Feelings of disconnection and disharmony with others.
-2) Finding it difficult to get in-step with others. Struggling to flow with other people.
-3) Feeling anxiety and fear when trying to connect with others.
+2) Experiencing anxiety and fear when trying to relate to others emotionally.
 
 
 
