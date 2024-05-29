@@ -24,9 +24,9 @@
 
 ### Extra
 
->When you are angry, everything feels unjust, you know, isn't it? Every small thing you think some great injustice is happening to you when you are angry. 
+>When you are angry, everything feels unjust, you know, isn't it? Every small thing you think some great injustice is happening to you when you are angry.<sup>3</sup>
 >
->**Sadhguru**, [*5 Mystical Spaces of Agastya, The Great Indian Sage*](https://www.youtube.com/watch?v=wv-aai4rw5I&t=411s)<sup>3</sup>
+>**Sadhguru**, [*5 Mystical Spaces of Agastya, The Great Indian Sage*](https://www.youtube.com/watch?v=wv-aai4rw5I&t=411s)
 
 
 
