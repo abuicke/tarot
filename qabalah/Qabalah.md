@@ -41,16 +41,17 @@ Malkuth - Physical Body
 Kether - Peace  
 Chokmah - Wisdom  
 Binah - Intuition  
-Chesed -   
+Chesed - Memory  
 Geburah - Will  
-Tiphareth - Synchronicity, Flow state  
+Tiphareth - Consciousness, Synchronicity, Flow state  
 Netzach - Passion  
 Hod - Intellect  
 Yesod - Impulses  
 Malkuth - Matter  
 
-Netzach + Hod (Passion + Intellect) = Imagination
-Netzach + Yesod (Impulses + Passion) = Desire
+Netzach + Tiphareth (Passion + Consciousness) = Imagination ??
+Netzach + Hod (Passion + Intellect) = Imagination ??
+Netzach + Yesod (Passion + Impulses) = Desire
 
 ## The Sephiroth (of the physical body)
 
@@ -62,8 +63,8 @@ Geburah -
 Tiphareth - Solar Plexus  
 Netzach -   
 Hod -   
-Yesod -   
-Malkuth -   
+Yesod - Genitals  
+Malkuth - 
 
 ## The Sephiroth (of manifestation)
 
@@ -72,12 +73,13 @@ Chokmah -
 Binah -   
 Chesed -   
 Geburah -   
-Tiphareth - Akash  
+Tiphareth - Space (Akash)  
 Netzach - Magnetism  
-Hod -   
-Yesod - Electricity  
-Malkuth - Matter  
+Hod - Electricity  
+Yesod - Electromagnetism  
+Malkuth - Matter
 
 ## The Cards
 
-Trumps are paths on the Tree. Pips are sephiroth. Court cards are triads (except in the case of the princesses).
+Trumps are paths on the Tree. Pips are sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
+
