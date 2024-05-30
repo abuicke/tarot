@@ -1,6 +1,6 @@
 # (XIII) Death 
 
-**Key Word:** Transform  
+**Key Word:** Transformation<sup>1</sup>  
 **Song:**   
 **Hexagrams:** 
 
@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) An evolution in consciousness<sup>1<sup>
+1) An evolution in consciousness<sup>2<sup>
 
 
 
@@ -28,6 +28,7 @@
 
 ### Footnotes
 
-1. "The old personality slain to complete the transfer of consciousness to Tiphereth." - *Liber Theta*
+1. [The Most Powerful Transformation](https://www.youtube.com/shorts/KukVbQo-7KQ)
+2. "The old personality slain to complete the transfer of consciousness to Tiphereth." - *Liber Theta*
 
 
