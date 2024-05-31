@@ -2,6 +2,10 @@
 
 Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
+<p align="center">
+	<img src="https://i.imgur.com/VUHv0Me.png" alt="Tree of Life" width="50%"/>
+</p>
+
 ## The Elements & The Four Worlds
 
 Fire/Atziluth - Creating, Generating, Inseminating (Creation)  
