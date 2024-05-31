@@ -53,7 +53,7 @@ Chesed - Karma (as memory)
 Geburah - Karma (as destiny)  
 Tiphareth - The Mental Plane  
 Netzach - The Astral Plane  
-Hod -/  
+Hod -  
 Yesod - The Etheric Plane  
 Malkuth - Material Reality  
 
