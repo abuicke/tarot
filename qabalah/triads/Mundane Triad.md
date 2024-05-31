@@ -30,8 +30,12 @@ Simply by being present throughout the day this can be achieved, as many things 
 
 The [catharsis practices of Satya Ji](https://www.satyaspeaks.net/catharsis) will serve a person well in this work.
 
+
+
 ## Footnotes
 
 1. "Force meets Form, especially the influx of unbounded Vital Force into mental structures, either to invigorate or shatter them." - *Liber Theta*, (XVI) The Tower
 2. Also referred to as a thought-form, or an energy-form. Pay special attention to the word "form" here, and it's connection with Yesod.
 3. This tension has its physical correlate in the tense muscles of the body, which store stress in the same way. See: *The Body Keeps The Score* by Bessel van der Kolk, *The Middle Pillar* by Israel Regardie, *The One Year Manual* by Israel Regardie and *New Wings for Daedalus* by Israel Regardie.
+
+
