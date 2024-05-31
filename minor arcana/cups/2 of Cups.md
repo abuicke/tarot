@@ -1,7 +1,7 @@
 # 2 of Cups
 
 **Key Word:** Love  
-**Song:** [Lovin' You by Minnie Riperton](https://www.youtube.com/watch?v=KhaUnHJjS8A)
+**Song:** [Kiss Me by Sixpence None the Richer](https://www.youtube.com/watch?v=hII0JXUJNDo)
 
 
 
