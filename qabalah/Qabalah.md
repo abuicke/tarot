@@ -47,8 +47,8 @@ Malkuth - Acting, Doing
 ## The Sephiroth (of the macrocosm)
 
 Kether -   
-Chokmah -   
-Binah - The Causal Plane  
+Chokmah - The Great Father  
+Binah - The Great Mother, The Causal Plane  
 Chesed - Karma (as memory)  
 Geburah - Karma (as destiny)  
 Tiphareth - The Mental Plane  
@@ -75,12 +75,12 @@ Malkuth -
 Kether - Higher Self  
 Chokmah -   
 Binah - Causal Body  
-Chesed -   
+Chesed - Karmic Memory  
 Geburah -   
 Tiphareth - Holy Guardian Angel, Mental Body  
 Netzach - Astral Body  
 Hod - Mind (The faculty of self-referentiality)  
-Yesod - Etheric Body  
+Yesod - Etheric Body, Human Memory  
 Malkuth - Physical Body  
 
 
