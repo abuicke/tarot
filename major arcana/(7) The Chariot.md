@@ -9,6 +9,7 @@
 
 1) **New opportunities**.
 2) Spirituality, **success in meditation**.
+3) **Destiny**, the feeling of being guided along the right path.
 
 
 
