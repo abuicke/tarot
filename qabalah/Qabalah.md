@@ -2,7 +2,7 @@
 
 Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
-<center">
+<center>
     <img src="https://i.imgur.com/VUHv0Me.png" alt="Tree of Life" width="50%"/>
 </center>
 
