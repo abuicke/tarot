@@ -5,9 +5,11 @@
 
 Fire/Atziluth - Creating, Generating, Inseminating (Creation)  
 Water/Briah - Grasping, Understanding, Knowing (Intuition)  
-Air/Yetzirah - Disecting, Examining, Categorizing (Mentation)  
+Air/Yetzirah - Dissecting, Examining, Categorizing (Mentation)  
 Earth/Assiah - Embodying, Being, Doing, (Crystallization)  
 
+## Fire 🔥
+>The fundamental attributes of the Fiery principle are heat and expansion - **Franz Bardon**, *Initiation Into Hermetics*
 
 ## The Sephiroth
 
@@ -36,35 +38,67 @@ Hod - Mind
 Yesod - Etheric Body  
 Malkuth - Physical Body  
 
+
 ## The Sephiroth (of the human experience)
 
-Kether - Peace  
+Kether - Peace, Existence  
 Chokmah - Wisdom  
 Binah - Intuition  
 Chesed - Memory  
 Geburah - Will  
-Tiphareth - Consciousness, Synchronicity, Flow state  
-Netzach - Passion  
-Hod - Intellect  
-Yesod - Impulses  
-Malkuth - Matter  
+Tiphareth - Consciousness, Presence, Meaning, Synchronicity, Flow  
+Netzach - Passion, Emotions  
+Hod - Intellect, Thoughts  
+Yesod - Impulses, Compulsions  
+Malkuth - Embodiment  
 
 Netzach + Tiphareth (Passion + Consciousness) = Imagination ??
 Netzach + Hod (Passion + Intellect) = Imagination ??
 Netzach + Yesod (Passion + Impulses) = Desire
 
-## The Sephiroth (of the physical body)
 
-Kether -   
+## The Sephiroth (of the chakra system)
+
+Kether - Sahasrara  
 Chokmah -   
 Binah -   
 Chesed -   
 Geburah -   
-Tiphareth - Solar Plexus  
+Tiphareth - Anahata  
 Netzach -   
 Hod -   
+Yesod - Swadhisthana  
+Malkuth - Muladhara  
+
+
+## The Sephiroth (of the five koshas)<sup>1</sup>
+
+Kether -   
+Chokmah - Anandamaya Kosha (Chia)  
+Binah - Vijnanamaya Kosha (Neshamah)  
+Chesed - Manomaya Kosha (Ruach)  
+Geburah -/  
+Tiphareth -/  
+Netzach -/  
+Hod -/  
+Yesod - Pranamaya Kosha (Nephesh)  
+Malkuth - Annamaya Kosha (Guph)  
+
+
+## The Sephiroth (of the physical body)
+
+Kether - Brain  
+Chokmah - Face  
+Binah - Back of the head  
+Chesed - Heart  
+Geburah - Liver  
+Tiphareth - Solar Plexus  
+Netzach - Kidneys  
+Hod -   
 Yesod - Genitals  
-Malkuth - 
+Malkuth - Feet
+
+(I really took a stab in the dark with this one. The only attribution I'm sure of is Tiphareth/Solar Plexus)
 
 ## The Sephiroth (of manifestation)
 
@@ -74,12 +108,17 @@ Binah -
 Chesed -   
 Geburah -   
 Tiphareth - Space (Akash)  
-Netzach - Magnetism  
-Hod - Electricity  
+Netzach - Electricity  
+Hod - Magnetism  
 Yesod - Electromagnetism  
 Malkuth - Matter
 
+
 ## The Cards
 
-Trumps are paths on the Tree. Pips are sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
+Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
+
+
+## Footnotes
+1. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 
