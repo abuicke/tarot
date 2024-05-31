@@ -88,9 +88,9 @@ Malkuth - Physical Body
 
 Kether - Peace, Existence  
 Chokmah - Wisdom  
-Binah - Intuition  
-Chesed - Memory  
-Geburah - Will  
+Binah - Intuition, Deep Sleep  
+Chesed - Memory, Divine Revelation  
+Geburah - Will, Destiny  
 Tiphareth - Consciousness, Presence, Meaning, Synchronicity, Flow  
 Netzach - Passion, Emotions  
 Hod - Intellect, Thoughts  
@@ -148,8 +148,8 @@ Malkuth - Feet
 ## The Sephiroth (of manifestation)
 
 Kether -   
-Chokmah -   
-Binah -   
+Chokmah - Logos  
+Binah - Sacred Geometry  
 Chesed -   
 Geburah -   
 Tiphareth - Space (Akash)  
