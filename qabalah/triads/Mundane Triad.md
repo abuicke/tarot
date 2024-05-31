@@ -32,6 +32,12 @@ The [catharsis practices of Satya Ji](https://www.satyaspeaks.net/catharsis) wil
 
 
 
+## Extras
+
+[Removing Negative Energy by Swami Sarvapriyananda](https://www.youtube.com/watch?v=YTyrdo0oaYs)
+
+
+
 ## Footnotes
 
 1. "Force meets Form, especially the influx of unbounded Vital Force into mental structures, either to invigorate or shatter them." - *Liber Theta*, (XVI) The Tower
