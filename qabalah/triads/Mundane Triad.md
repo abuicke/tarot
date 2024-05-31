@@ -10,7 +10,7 @@ Thoughts (Hod) come from emotions (Netzach) that *can't be held*<sup>1</sup>.
 
 When you start to have a feeling (Netzach), you will see that as soon as you begin to resist it, or pull away from it, immediately thoughts (Hod) will begin to arise (usually in the form of excuses, or blame)—and a thought held in the mind along with an emotion will create an energy<sup>2<sup>.
 
-The three Buddhist kleshas are the three ways in which we respond to emotions which are not fully owned. We either become avoidant (make an excuse), hostile (blame an external factor) or desirous (fantasise about the object of our desire, believing an external factor will put us at peace).
+The three Buddhist kleshas are the three ways in which we respond to emotions which are not fully owned. We either become avoidant (make an excuse), hostile (blame an external factor) or desirous (fantasize about the object of our desire, believing an external factor will put us at peace).
 
 When a thought is combined with an emotion to become an energy: avoidance and excuse making becomes self-deception and delusion, hostility becomes hatred, and desire becomes perversion.
 
