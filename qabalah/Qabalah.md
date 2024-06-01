@@ -34,13 +34,13 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 Kether - Being  
 Chokmah - Creating  
-Binah - Understanding  
-Chesed - Expanding  
-Geburah - Destroying  
+Binah - Understanding, Forming  
+Chesed - Expanding, Establishing, Ordering, Structuring  
+Geburah - Destroying, Shaping, Bounding  
 Tiphareth - Harmonizing, Experiencing  
 Netzach - Feeling  
 Hod - Comprehending, Reflecting, Channelizing  
-Yesod - Living, Building, Structuring, Growing  
+Yesod - Living, Building, Growing  
 Malkuth - Acting, Doing  
 
 
@@ -56,6 +56,21 @@ Netzach - The Astral Plane
 Hod -  
 Yesod - The Etheric Plane  
 Malkuth - Material Reality  
+
+
+## The Sephiroth (of manifestation)
+
+Kether - Space  
+Chokmah - Energy  
+Binah - Time  
+Chesed - Entropy, The Laws of Physics  
+Geburah -   
+Tiphareth - Causality  
+Netzach - Electricity  
+Hod - Magnetism  
+Yesod - Electromagnetism  
+Malkuth - Matter
+
 
 ## The Sephiroth (between the worlds)
 
@@ -87,14 +102,14 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - Peace, Existence  
-Chokmah - Wisdom  
-Binah - Intuition, Deep Sleep  
+Chokmah - Perception, Wisdom  
+Binah - Intuition, Deep Sleep, Bliss  
 Chesed - Memory, Divine Revelation  
 Geburah - Will, Destiny  
 Tiphareth - Consciousness, Presence, Meaning, Synchronicity, Flow  
 Netzach - Passion, Emotions  
 Hod - Intellect, Thoughts  
-Yesod - Impulses, Compulsions  
+Yesod - Impulses, Compulsions, Drives  
 Malkuth - Embodiment  
 
 Netzach + Tiphareth (Passion + Consciousness) = Imagination ??
@@ -102,28 +117,42 @@ Netzach + Hod (Passion + Intellect) = Imagination ??
 Netzach + Yesod (Passion + Impulses) = Desire
 
 
+## The Sephiroth (of society)
+
+Kether - God (The Church)  
+Chokmah - Eternity<sup>2</sup>, Divine Mandate  
+Binah - Art & Culture  
+Chesed - Law and Order  
+Geburah - Conquest  
+Tiphareth - Coopperation, Morality  
+Netzach - Celebration, Revelry  
+Hod - Education  
+Yesod - Socialization  
+Malkuth - Safety  
+
+
 ## The Sephiroth (of the chakra system)
 
 Kether - Sahasrara  
 Chokmah -   
-Binah -   
+Binah - Vishuddhi (Gateway)  
 Chesed -   
 Geburah -   
-Tiphareth - Anahata  
+Tiphareth - Anahata (Nexus) 
 Netzach -   
 Hod -   
 Yesod - Swadhisthana  
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>1</sup>
+## The Sephiroth (of the five koshas)<sup>3</sup>
 
-Kether -   
+Kether - Atman  
 Chokmah - Anandamaya Kosha (Chia)  
 Binah - Vijnanamaya Kosha (Neshamah)  
-Chesed - Manomaya Kosha (Ruach)  
-Geburah -/  
-Tiphareth -/  
+Chesed -\  
+Geburah -\  
+Tiphareth -Manomaya Kosha (Ruach)  
 Netzach -/  
 Hod -/  
 Yesod - Pranamaya Kosha (Nephesh)  
@@ -134,7 +163,7 @@ Malkuth - Annamaya Kosha (Guph)
 
 Kether - Brain  
 Chokmah - Face  
-Binah - Back of the head  
+Binah - Throat  
 Chesed - Heart  
 Geburah - Liver  
 Tiphareth - Solar Plexus  
@@ -145,19 +174,6 @@ Malkuth - Feet
 
 (I really took a stab in the dark with this one. The only attribution I'm sure of is Tiphareth/Solar Plexus)
 
-## The Sephiroth (of manifestation)
-
-Kether -   
-Chokmah - Logos  
-Binah - Sacred Geometry  
-Chesed -   
-Geburah -   
-Tiphareth - Space (Akash)  
-Netzach - Electricity  
-Hod - Magnetism  
-Yesod - Electromagnetism  
-Malkuth - Matter
-
 
 ## The Cards
 
@@ -166,5 +182,6 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-2. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+2. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+3. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 
