@@ -33,7 +33,7 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 ## The Sephiroth
 
 Kether - Being  
-Chokmah - Creating  
+Chokmah - Creating, Witnessing  
 Binah - Understanding, Forming  
 Chesed - Expanding, Establishing, Ordering, Structuring  
 Geburah - Destroying, Shaping, Bounding  
@@ -47,13 +47,13 @@ Malkuth - Acting, Doing
 ## The Sephiroth (of the macrocosm)
 
 Kether -   
-Chokmah - The Great Father  
-Binah - The Great Mother, The Causal Plane  
+Chokmah - The Great Father, The Causal Plane  
+Binah - The Great Mother  
 Chesed - Karma (as memory)  
 Geburah - Karma (as destiny)  
 Tiphareth - The Mental Plane  
 Netzach - The Astral Plane  
-Hod -  
+Hod - Universal Mind? 
 Yesod - The Etheric Plane  
 Malkuth - Material Reality  
 
@@ -63,8 +63,8 @@ Malkuth - Material Reality
 Kether - Space  
 Chokmah - Energy  
 Binah - Time  
-Chesed - Entropy, The Laws of Physics  
-Geburah -   
+Chesed - Entropy  
+Geburah - Conservation<sup>2</sup>  
 Tiphareth - Causality  
 Netzach - Electricity  
 Hod - Magnetism  
@@ -87,9 +87,9 @@ Malkuth -
 
 ## The Sephiroth (of the human being)
 
-Kether - Higher Self  
-Chokmah -   
-Binah - Causal Body  
+Kether - Higher Self, Atman  
+Chokmah - Causal Body  
+Binah - Bliss Body  
 Chesed - Karmic Memory  
 Geburah -   
 Tiphareth - Holy Guardian Angel, Mental Body  
@@ -120,7 +120,7 @@ Netzach + Yesod (Passion + Impulses) = Desire
 ## The Sephiroth (of society)
 
 Kether - God (The Church)  
-Chokmah - Eternity<sup>2</sup>, Divine Mandate  
+Chokmah - Eternity<sup>3</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
 Geburah - Conquest  
@@ -134,18 +134,18 @@ Malkuth - Safety
 ## The Sephiroth (of the chakra system)
 
 Kether - Sahasrara  
-Chokmah -   
+Chokmah - Ajna  
 Binah - Vishuddhi (Gateway)  
 Chesed -   
 Geburah -   
-Tiphareth - Anahata (Nexus) 
+Tiphareth - Anahata (Nexus)  
 Netzach -   
 Hod -   
 Yesod - Swadhisthana  
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>3</sup>
+## The Sephiroth (of the five koshas)<sup>4</sup>
 
 Kether - Atman  
 Chokmah - Anandamaya Kosha (Chia)  
@@ -182,6 +182,7 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-2. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-3. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+2. See First Law of Thermodynamics (Law of Energy Conservation) 
+3. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+4. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 
