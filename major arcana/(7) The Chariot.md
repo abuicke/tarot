@@ -1,6 +1,6 @@
 # (VII) The Chariot
 
-**Key Word:**   
+**Key Word:** Destiny  
 **Song:** 
 
 
