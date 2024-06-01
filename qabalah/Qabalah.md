@@ -123,7 +123,7 @@ Kether - God (The Church)
 Chokmah - Eternity<sup>4</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
-Geburah - Conquest  
+Geburah - Conquest, Military  
 Tiphareth - Coopperation, Morality  
 Netzach - Celebration, Revelry  
 Hod - Education  
