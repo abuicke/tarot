@@ -33,7 +33,7 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 ## The Sephiroth
 
 Kether - Being  
-Chokmah - Creating, Witnessing  
+Chokmah - Creating, Witnessing<sup>2</sup>  
 Binah - Understanding, Forming  
 Chesed - Expanding, Establishing, Ordering, Structuring  
 Geburah - Destroying, Shaping, Bounding  
@@ -64,7 +64,7 @@ Kether - Space
 Chokmah - Energy  
 Binah - Time  
 Chesed - Entropy  
-Geburah - Conservation<sup>2</sup>  
+Geburah - Conservation<sup>3</sup>  
 Tiphareth - Causality  
 Netzach - Electricity  
 Hod - Magnetism  
@@ -120,7 +120,7 @@ Netzach + Yesod (Passion + Impulses) = Desire
 ## The Sephiroth (of society)
 
 Kether - God (The Church)  
-Chokmah - Eternity<sup>3</sup>, Divine Mandate  
+Chokmah - Eternity<sup>4</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
 Geburah - Conquest  
@@ -145,7 +145,7 @@ Yesod - Swadhisthana
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>4</sup>
+## The Sephiroth (of the five koshas)<sup>5</sup>
 
 Kether - Atman  
 Chokmah - Anandamaya Kosha (Chia)  
@@ -182,7 +182,8 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-2. See First Law of Thermodynamics (Law of Energy Conservation) 
-3. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-4. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+2. From the point of view of the third-eye, seeing and creating are one and the same.
+3. See First Law of Thermodynamics (Law of Energy Conservation) 
+4. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+5. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 
