@@ -140,14 +140,14 @@ Chesed -
 Geburah -   
 Tiphareth - Anahata (Nexus)  
 Netzach -   
-Hod -   
+Hod - Manipura  
 Yesod - Swadhisthana  
 Malkuth - Muladhara  
 
 
 ## The Sephiroth (of the five koshas)<sup>5</sup>
 
-Kether - Atman  
+Kether - Atman (Yechidah) 
 Chokmah - Anandamaya Kosha (Chia)  
 Binah - Vijnanamaya Kosha (Neshamah)  
 Chesed -\  
