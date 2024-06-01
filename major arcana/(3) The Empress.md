@@ -14,7 +14,7 @@
 
 ### Reversed
 
-1) Ill health, lethargy, grossness of appearance, slothfulness, low-energy, layabout.
+1) Ill health, lethargy, grossness of appearance, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices).
 
 
 
