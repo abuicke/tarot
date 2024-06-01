@@ -1,6 +1,8 @@
 # (III) The Empress
 
-#### Key Word: Growth
+**Key Word:** Growth  
+**Song:**   
+**Hexagrams:** 
 
 
 
@@ -12,9 +14,18 @@
 
 ### Reversed
 
-1) Ill health
+1) Ill health, lethargy, grossness of appearance, slothfulness, low-energy, layabout.
 
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
