@@ -17,12 +17,12 @@
 
 ### Extra
 
->*As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)*
+>As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)<sup>1</sup>
 >
->**Mirror of the Soul** by Gerd Ziegler
+>**Gerd Ziegler**, *Mirror of the Soul*
 
 
 
 ### Footnotes
 
-1. 
+1. I have so far not found this to be true.
