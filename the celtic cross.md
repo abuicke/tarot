@@ -51,11 +51,11 @@ When placing this card down say "This is before me"
 
 
 
-### 7 - My Energy/Influence
+### 7 - My Energy/Influence (On the Sitaution)
 
 
 
-### 8 - The Outside Energy/Influence
+### 8 - Outside Energy/Influence (On The Situation)
 
 
 
