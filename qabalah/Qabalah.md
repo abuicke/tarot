@@ -104,9 +104,9 @@ Malkuth - Physical Body
 Kether - Peace, Existence  
 Chokmah - Perception, Wisdom  
 Binah - Intuition, Deep Sleep, Bliss  
-Chesed - Memory, Divine Revelation  
+Chesed - Memory, Love, Divine Revelation  
 Geburah - Will, Destiny  
-Tiphareth - Consciousness, Presence, Meaning, Synchronicity, Flow  
+Tiphareth - Consciousness, Individuality, Presence, Meaning, Synchronicity, Flow  
 Netzach - Passion, Emotions  
 Hod - Intellect, Thoughts  
 Yesod - Impulses, Compulsions, Drives  
@@ -123,12 +123,12 @@ Kether - God (The Church)
 Chokmah - Eternity<sup>4</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
-Geburah - Conquest, Military  
-Tiphareth - Coopperation, Morality  
-Netzach - Celebration, Revelry  
+Geburah - Conquest, Military, Imperialism  
+Tiphareth - Coopperation, Morality, Social Fabric  
+Netzach - Celebration, Revelry, Community, Customs  
 Hod - Education  
 Yesod - Socialization  
-Malkuth - Safety  
+Malkuth - Safety, Resources, Physical Structures  
 
 
 ## The Sephiroth (of the chakra system)
