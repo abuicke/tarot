@@ -2,7 +2,7 @@
 
 **Key Word:** Destruction  
 **Song:** [Bodies by Drowning Pool](https://www.youtube.com/watch?v=04F4xlWSFh0)  
-**Hexagrams:** 
+**Hexagrams:** 51, Chen/The Arousing (Shock, Thunder)
 
 
 ### Upright
