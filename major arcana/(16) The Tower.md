@@ -1,7 +1,8 @@
 # (XVI) The Tower 
 
 **Key Word:** Destruction  
-**Song:** [Bodies by Drowning Pool](https://www.youtube.com/watch?v=04F4xlWSFh0)
+**Song:** [Bodies by Drowning Pool](https://www.youtube.com/watch?v=04F4xlWSFh0)  
+**Hexagrams:** 
 
 
 ### Upright
