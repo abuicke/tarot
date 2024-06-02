@@ -1,6 +1,8 @@
 # 5 of Disks
 
-#### Key Word:
+**Key Word:**   
+**Song:**   
+**Hexagrams:** 39, Chien/Obstruction; [59, Huan/Dispersion (Dissolution)]
 
 
 
@@ -17,4 +19,14 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
+
 
