@@ -14,7 +14,7 @@
 
 ### Reversed
 
-1) Ill health, lethargy, grossness of appearance, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices).
+1) Ill health, lethargy, grossness of appearance, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices), bad mood, negative thinking.<sup>1</sup>
 
 
 
@@ -26,6 +26,6 @@
 
 ### Footnotes
 
-1. 
+1. I'm trying to convey a general murkiness. The situation has become unnatractive on every level—ugly thoughts, ugly mood, ugly feelings, ugly habits, poor hygiene. It's the ugliness and spiritual grime that accompanies depression. A feeling of being low-vibration, energetically heavy and unclean.
 
 
