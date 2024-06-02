@@ -37,4 +37,3 @@
 3. See the old name of the this card—*Justice*.
 
 
-
