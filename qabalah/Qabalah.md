@@ -47,14 +47,14 @@ Malkuth - Acting, Doing
 ## The Sephiroth (of the macrocosm)
 
 Kether -   
-Chokmah - The Great Father, The Causal Plane  
+Chokmah - The Causal Plane  
 Binah - The Great Mother  
-Chesed - Karma (as memory)  
-Geburah - Karma (as destiny)  
+Chesed - Karma (as cause)  
+Geburah - Karma (as effect)  
 Tiphareth - The Mental Plane  
-Netzach - The Astral Plane  
-Hod - Universal Mind? 
-Yesod - The Etheric Plane  
+Netzach -   
+Hod -   
+Yesod - The Astral Plane  
 Malkuth - Material Reality  
 
 
@@ -113,20 +113,6 @@ Yesod - Impulses, Compulsions, Drives
 Malkuth - Embodiment  
 
 
-## The Sephiroth (of society)
-
-Kether - God (The Church)  
-Chokmah - Eternity<sup>4</sup>, Divine Mandate  
-Binah - Art & Culture  
-Chesed - Law and Order  
-Geburah - Conquest, Military, Imperialism  
-Tiphareth - Coopperation, Morality, Social Fabric  
-Netzach - Celebration, Revelry, Community, Customs  
-Hod - Education  
-Yesod - Socialization  
-Malkuth - Safety, Resources, Physical Structures  
-
-
 ## The Sephiroth (of the chakra system)
 
 Kether - Sahasrara  
@@ -141,7 +127,7 @@ Yesod - Swadhisthana
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>5</sup>
+## The Sephiroth (of the five koshas)<sup>4</sup>
 
 Kether - Atman (Yechidah) 
 Chokmah - Anandamaya Kosha (Chia)  
@@ -171,6 +157,20 @@ Malkuth - Feet
 (I really took a stab in the dark with this one. The only attribution I'm sure of is Tiphareth/Solar Plexus)
 
 
+## The Sephiroth (of society)
+
+Kether - God (The Church)  
+Chokmah - Eternity<sup>5</sup>, Divine Mandate  
+Binah - Art & Culture  
+Chesed - Law and Order  
+Geburah - Conquest, Military, Imperialism  
+Tiphareth - Coopperation, Morality, Social Fabric  
+Netzach - Celebration, Revelry, Community, Customs  
+Hod - Education  
+Yesod - Socialization  
+Malkuth - Safety, Resources, Physical Structures  
+
+
 ## The Cards
 
 Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
@@ -180,6 +180,6 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. From the point of view of the third-eye, seeing and creating are one and the same.
 3. See First Law of Thermodynamics (Law of Energy Conservation) 
-4. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-5. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+4. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+5. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
 
