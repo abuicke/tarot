@@ -50,12 +50,12 @@ Malkuth - Acting, Doing
 
 When dealing with Chesed and Geburah, we are really dealing with the aspects of Chokmah and Binah that exert influence below the Abyss, e.g. Shakti is the abstract feminine principle repesented by Binah, while Durga is her manifestion below the Abyss in the form of Gevurah, the fierce aspect of Shakti that combats evil and restores dharma (cosmic order).
 
-Kether -   
-Chokmah - The Causal Plane, The Great Father  
+Kether - Brahma  
+Chokmah - The Causal Plane, The Great Father, Shiva  
 Binah - The Causal Plane, The Great Mother, Shakti, Kali  
-Chesed - Karma (as cause)  
+Chesed - Karma (as cause), Vishnu  
 Geburah - Karma (as effect), Durga, Cosmic Order  
-Tiphareth - The Mental Plane  
+Tiphareth - The Mental Plane, Christ, Rama  
 Netzach - The Astral Plane  
 Hod - The Astral Plane  
 Yesod - The Etheric Plane  
