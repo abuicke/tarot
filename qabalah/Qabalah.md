@@ -48,11 +48,13 @@ Malkuth - Acting, Doing
 
 ## The Sephiroth (of the macrocosm)
 
+When dealing with Chesed and Geburah, we are really dealing with the aspects of Chokmah and Binah that exert influence below the Abyss, e.g. Shakti is the abstract feminine principle repesented by Binah, while Durga is her manifestion below the Abyss in the form of Gevurah, the fierce aspect of Shakti that combats evil and restores dharma (cosmic order).
+
 Kether -   
 Chokmah - The Causal Plane, The Great Father  
-Binah - The Causal Plane, The Great Mother  
+Binah - The Causal Plane, The Great Mother, Shakti, Kali  
 Chesed - Karma (as cause)  
-Geburah - Karma (as effect)  
+Geburah - Karma (as effect), Durga, Cosmic Order  
 Tiphareth - The Mental Plane  
 Netzach - The Astral Plane  
 Hod - The Astral Plane  
@@ -106,7 +108,7 @@ Malkuth - Physical Body
 
 Kether - Peace, Existence  
 Chokmah - Perception, Wisdom, Life  
-Binah - Intuition, Deep Sleep, Love, Bliss  
+Binah - Intuition, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 Chesed - Divine Revelation, Joy, Memory (as karma)  
 Geburah - Will, Destiny, Pain  
 Tiphareth - Consciousness, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
