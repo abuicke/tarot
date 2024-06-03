@@ -49,15 +49,15 @@ Malkuth - Acting, Doing
 ## The Sephiroth (of the macrocosm)
 
 Kether -   
-Chokmah - The Causal Plane  
-Binah - The Great Mother  
+Chokmah - The Causal Plane, The Great Father  
+Binah - The Causal Plane, The Great Mother  
 Chesed - Karma (as cause)  
 Geburah - Karma (as effect)  
 Tiphareth - The Mental Plane  
-Netzach -   
-Hod -   
-Yesod - The Astral Plane  
-Malkuth - Material Reality  
+Netzach - The Astral Plane  
+Hod - The Astral Plane  
+Yesod - The Etheric Plane  
+Malkuth - The Physical Plane  
 
 
 ## The Sephiroth (of manifestation)
@@ -135,9 +135,9 @@ Malkuth - Muladhara
 Kether - Atman  
 Chokmah - Anandamaya Kosha (as wisdom)  
 Binah - Anandamaya Kosha (as bliss)  
-Chesed -  
-Geburah -  
-Tiphareth -Vijnanamaya Kosha  
+Chesed - Anandamaya Kosha (as karma), Vijnanamaya Kosha (as insight)  
+Geburah - Vijnanamaya Kosha (as understanding)  
+Tiphareth - Vijnanamaya Kosha (as intellect)  
 Netzach - Manomaya Kosha (as emotion)  
 Hod - Manomaya Kosha (as thought)  
 Yesod - Pranamaya Kosha  
