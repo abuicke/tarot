@@ -103,18 +103,14 @@ Malkuth - Physical Body
 
 Kether - Peace, Existence  
 Chokmah - Perception, Wisdom  
-Binah - Intuition, Deep Sleep, Bliss  
+Binah - Intuition, Deep Sleep, Bliss, Mourning, Grief, Heartbreak  
 Chesed - Memory, Love, Divine Revelation  
 Geburah - Will, Destiny  
-Tiphareth - Consciousness, Individuality, Presence, Meaning, Synchronicity, Flow  
-Netzach - Passion, Emotions  
-Hod - Intellect, Thoughts  
+Tiphareth - Consciousness, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
+Netzach - Passion, Emotions, Desire  
+Hod - Conception, Intellect, Thoughts  
 Yesod - Impulses, Compulsions, Drives  
 Malkuth - Embodiment  
-
-Netzach + Tiphareth (Passion + Consciousness) = Imagination ??
-Netzach + Hod (Passion + Intellect) = Imagination ??
-Netzach + Yesod (Passion + Impulses) = Desire
 
 
 ## The Sephiroth (of society)
