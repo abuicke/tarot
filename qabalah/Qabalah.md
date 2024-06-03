@@ -85,6 +85,7 @@ Hod -
 Yesod -   
 Malkuth -   
 
+
 ## The Sephiroth (of the human being)
 
 Kether - Higher Self, Atman  
