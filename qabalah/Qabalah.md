@@ -32,7 +32,7 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 ## The Sephiroth
 
-It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the preceeding qualities in each sephirah.
+It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the qualities a sephirah has inherrented from each of its parents, which it will express in its own way.
 
 Kether - Being  
 Chokmah - Creating, Witnessing<sup>2</sup>  
