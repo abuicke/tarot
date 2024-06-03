@@ -103,7 +103,7 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - Peace, Existence  
-Chokmah - Perception, Wisdom  
+Chokmah - Perception, Wisdom, Life  
 Binah - Intuition, Deep Sleep, Bliss, Mourning, Grief, Heartbreak  
 Chesed - Memory, Love, Divine Revelation  
 Geburah - Will, Destiny  
