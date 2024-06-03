@@ -91,13 +91,13 @@ Malkuth -
 ## The Sephiroth (of the human being)
 
 Kether - Higher Self, Atman  
-Chokmah - Causal Body  
-Binah - Bliss Body  
+Chokmah - Causal Body (as wisdom)  
+Binah - Causal Body (as bliss)  
 Chesed - Karmic Memory  
 Geburah - Karmic Destiny  
 Tiphareth - Holy Guardian Angel, Mental Body  
 Netzach - Astral Body  
-Hod - Mind (The faculty of self-referentiality)  
+Hod - Astral Body, Mind (The faculty of self-referentiality)  
 Yesod - Etheric Body, Human Memory  
 Malkuth - Physical Body  
 
@@ -132,16 +132,16 @@ Malkuth - Muladhara
 
 ## The Sephiroth (of the five koshas)<sup>4</sup>
 
-Kether - Atman (Yechidah) 
-Chokmah - Anandamaya Kosha (Chia)  
-Binah - Vijnanamaya Kosha (Neshamah)  
-Chesed -\  
-Geburah -\  
-Tiphareth -Manomaya Kosha (Ruach)  
-Netzach -/  
-Hod -/  
-Yesod - Pranamaya Kosha (Nephesh)  
-Malkuth - Annamaya Kosha (Guph)  
+Kether - Atman  
+Chokmah - Anandamaya Kosha (as wisdom)  
+Binah - Anandamaya Kosha (as bliss)  
+Chesed -  
+Geburah -  
+Tiphareth -Vijnanamaya Kosha  
+Netzach - Manomaya Kosha (as emotion)  
+Hod - Manomaya Kosha (as thought)  
+Yesod - Pranamaya Kosha  
+Malkuth - Annamaya Kosha  
 
 
 ## The Sephiroth (of the physical body)
@@ -183,6 +183,6 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. From the point of view of the third-eye, seeing and creating are one and the same.
 3. See First Law of Thermodynamics (Law of Energy Conservation) 
-4. [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+4. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 5. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
 
