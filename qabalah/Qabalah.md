@@ -32,6 +32,8 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 ## The Sephiroth
 
+It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the preceeding qualities in each sephirah.
+
 Kether - Being  
 Chokmah - Creating, Witnessing<sup>2</sup>  
 Binah - Understanding, Forming  
@@ -104,13 +106,13 @@ Malkuth - Physical Body
 
 Kether - Peace, Existence  
 Chokmah - Perception, Wisdom, Life  
-Binah - Intuition, Deep Sleep, Bliss, Mourning, Grief, Heartbreak  
-Chesed - Memory, Love, Divine Revelation, Joy  
+Binah - Intuition, Deep Sleep, Love, Bliss  
+Chesed - Divine Revelation, Joy, Memory (as karma)  
 Geburah - Will, Destiny, Pain  
 Tiphareth - Consciousness, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
 Netzach - Passion, Emotions, Desire  
-Hod - Conception, Intellect, Thoughts  
-Yesod - Impulses, Compulsions, Drives  
+Hod - Conception, Intellect, Thoughts, Self-Awareness  
+Yesod - Impulses, Compulsions, Drives, Memory (as retained impressions, samskaras)  
 Malkuth - Embodiment  
 
 
