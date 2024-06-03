@@ -91,7 +91,7 @@ Kether - Higher Self, Atman
 Chokmah - Causal Body  
 Binah - Bliss Body  
 Chesed - Karmic Memory  
-Geburah -   
+Geburah - Karmic Destiny  
 Tiphareth - Holy Guardian Angel, Mental Body  
 Netzach - Astral Body  
 Hod - Mind (The faculty of self-referentiality)  
