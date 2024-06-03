@@ -105,8 +105,8 @@ Malkuth - Physical Body
 Kether - Peace, Existence  
 Chokmah - Perception, Wisdom, Life  
 Binah - Intuition, Deep Sleep, Bliss, Mourning, Grief, Heartbreak  
-Chesed - Memory, Love, Divine Revelation  
-Geburah - Will, Destiny  
+Chesed - Memory, Love, Divine Revelation, Joy  
+Geburah - Will, Destiny, Pain  
 Tiphareth - Consciousness, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
 Netzach - Passion, Emotions, Desire  
 Hod - Conception, Intellect, Thoughts  
