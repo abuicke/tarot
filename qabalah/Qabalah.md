@@ -176,6 +176,20 @@ Yesod - Socialization
 Malkuth - Safety, Resources, Physical Structures  
 
 
+## The Sephiroth (of geometry)
+
+Kether - Point  
+Chokmah - Line  
+Binah - Triangle  
+Chesed -   
+Geburah -   
+Tiphareth - Circle  
+Netzach -   
+Hod -   
+Yesod -   
+Malkuth - Cube
+
+
 ## The Cards
 
 Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
