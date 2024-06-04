@@ -2,7 +2,7 @@
 
 Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
-<img src="https://i.imgur.com/BjmdL2b.png" alt="Tree of Life" width="50%"/>
+<img src="https://github.com/abuicke/tarot/blob/master/%D0%B0ssets/qabalah/tree%20of%20life.png" alt="Tree of Life" width="50%"/>
 
 ## The Elements & The Four Worlds
 
