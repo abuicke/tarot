@@ -55,8 +55,8 @@ Chokmah - The Causal Plane, The Great Father, Shiva
 Binah - The Causal Plane, The Great Mother, Shakti, Kali  
 Chesed - Karma (as cause), Vishnu  
 Geburah - Karma (as effect), Durga, Cosmic Order  
-Tiphareth - The Mental Plane, Christ, Rama  
-Netzach - The Astral Plane  
+Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama)  
+Netzach - The Astral Plane, Indra, Kama  
 Hod - The Astral Plane  
 Yesod - The Etheric Plane  
 Malkuth - The Physical Plane  
