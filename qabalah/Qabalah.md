@@ -36,7 +36,7 @@ It is important to note that the Sephiroth do not exist independently, one is bu
 
 Kether - Being  
 Chokmah - Creating, Witnessing<sup>2</sup>  
-Binah - Understanding, Forming  
+Binah - Understanding, Forming, Limiting  
 Chesed - Expanding, Establishing, Ordering, Structuring  
 Geburah - Destroying, Shaping, Bounding  
 Tiphareth - Harmonizing, Experiencing  
@@ -195,6 +195,13 @@ Malkuth - Square
 Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
 
 
+## The Plain English Qabalah
+
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed. The Eternity of Kether becomes Cyclicity, in its manifest counterpart of Tiphareth<sup>7</sup>; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah.
+
+<img src="https://raw.githubusercontent.com/abuicke/tarot/master/%D0%B0ssets/qabalah/plain%20english%20qabalah.jpg" alt="Plain English Tree if Life" width="50%"/>
+
+
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. From the point of view of the third-eye, seeing and creating are one and the same.
@@ -202,5 +209,5 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 4. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
 5. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 6. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-
+7. See *Liber 777*, row 6 column 187, second formula.
 
