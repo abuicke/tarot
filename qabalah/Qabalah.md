@@ -40,9 +40,9 @@ Binah - Understanding, Forming
 Chesed - Expanding, Establishing, Ordering, Structuring  
 Geburah - Destroying, Shaping, Bounding  
 Tiphareth - Harmonizing, Experiencing  
-Netzach - Feeling  
+Netzach - Feeling, Decomposing  
 Hod - Comprehending, Reflecting, Channelizing  
-Yesod - Living, Building, Growing  
+Yesod - Coordinating, Living, Building, Growing  
 Malkuth - Acting, Doing  
 
 
