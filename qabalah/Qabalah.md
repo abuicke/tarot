@@ -113,7 +113,7 @@ Chesed - Divine Revelation, Joy, Memory (as karma), Luck, Good Fortune, Good Kar
 Geburah - Will, Destiny, Pain, Misfortune, Bad Karma  
 Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Enlightenment, Synchronicity, Flow  
 Netzach - Passion, Emotions, Desire  
-Hod - Conception, Intellect, Thoughts, Self-Awareness  
+Hod - Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - Impulses, Compulsions, Drives, Memory (as retained impressions, samskaras)  
 Malkuth - Embodiment  
 
