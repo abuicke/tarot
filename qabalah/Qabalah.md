@@ -107,11 +107,11 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - Peace, Existence  
-Chokmah - Awareness, Wisdom, Life  
+Chokmah - Awareness<sup>4</sup>, Wisdom, Life  
 Binah - Intuition, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 Chesed - Divine Revelation, Joy, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - Will, Destiny, Pain, Misfortune, Bad Karma  
-Tiphareth - Consciousness, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
+Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
 Netzach - Passion, Emotions, Desire  
 Hod - Conception, Intellect, Thoughts, Self-Awareness  
 Yesod - Impulses, Compulsions, Drives, Memory (as retained impressions, samskaras)  
@@ -132,7 +132,7 @@ Yesod - Swadhisthana
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>4</sup>
+## The Sephiroth (of the five koshas)<sup>5</sup>
 
 Kether - Atman  
 Chokmah - Anandamaya Kosha (as wisdom)  
@@ -165,7 +165,7 @@ Malkuth - Feet
 ## The Sephiroth (of society)
 
 Kether - God (The Church)  
-Chokmah - Eternity<sup>5</sup>, Divine Mandate  
+Chokmah - Eternity<sup>6</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
 Geburah - Conquest, Military, Imperialism  
@@ -199,6 +199,7 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. From the point of view of the third-eye, seeing and creating are one and the same.
 3. See First Law of Thermodynamics (Law of Energy Conservation) 
-4. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
-5. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+4. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
+5. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+6. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
 
