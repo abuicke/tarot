@@ -111,7 +111,7 @@ Chokmah - Awareness<sup>4</sup>, Wisdom, Life
 Binah - Intuition, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 Chesed - Divine Revelation, Joy, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - Will, Destiny, Pain, Misfortune, Bad Karma  
-Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Enlightenment, Synchronicity, Flow  
+Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Enlightenment, Synchronicity, Flow, Jungian Self (the union of opposites)  
 Netzach - Passion, Emotions, Desire  
 Hod - Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - Impulses, Compulsions, Drives, Memory (as retained impressions, samskaras)  
