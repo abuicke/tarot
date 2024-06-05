@@ -53,8 +53,8 @@ When dealing with Chesed and Geburah, we are really dealing with the aspects of 
 Kether - Brahma  
 Chokmah - The Causal Plane, The Great Father, Shiva  
 Binah - The Causal Plane, The Great Mother, Shakti, Kali, Sacred Geometry  
-Chesed - Karma (as cause), Vishnu  
-Geburah - Karma (as effect), Durga, Cosmic Order  
+Chesed - Karma (as cause), Vishnu, Comsmic Order (upholding the good)  
+Geburah - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropic—arising from Chesed)  
 Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama)  
 Netzach - The Astral Plane, Indra, Kama  
 Hod - The Astral Plane  
@@ -107,7 +107,7 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - Peace, Existence  
-Chokmah - Perception, Wisdom, Life  
+Chokmah - Awareness, Wisdom, Life  
 Binah - Intuition, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 Chesed - Divine Revelation, Joy, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - Will, Destiny, Pain, Misfortune, Bad Karma  
