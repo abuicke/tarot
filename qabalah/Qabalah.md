@@ -66,11 +66,11 @@ Malkuth - The Physical Plane
 
 Kether - Space  
 Chokmah - Energy  
-Binah - Time  
+Binah - Time, Causality  
 Chesed - Entropy  
 Geburah - Conservation<sup>3</sup>  
-Tiphareth - Causality  
-Netzach - Electricity  
+Tiphareth - Light (invisible)  
+Netzach - Electricity, Light (spectrum)  
 Hod - Magnetism  
 Yesod - Electromagnetism  
 Malkuth - Matter
@@ -111,7 +111,7 @@ Chokmah - Awareness<sup>4</sup>, Wisdom, Life
 Binah - Intuition, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 Chesed - Divine Revelation, Joy, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - Will, Destiny, Pain, Misfortune, Bad Karma  
-Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Synchronicity, Flow  
+Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Enlightenment, Synchronicity, Flow  
 Netzach - Passion, Emotions, Desire  
 Hod - Conception, Intellect, Thoughts, Self-Awareness  
 Yesod - Impulses, Compulsions, Drives, Memory (as retained impressions, samskaras)  
