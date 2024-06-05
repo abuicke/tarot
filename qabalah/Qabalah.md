@@ -187,7 +187,7 @@ Tiphareth - Circle
 Netzach - Position (Cooridinate)  
 Hod - Magnitude  
 Yesod - Matrix  
-Malkuth - Cube
+Malkuth - Square  
 
 
 ## The Cards
