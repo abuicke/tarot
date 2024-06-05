@@ -203,3 +203,4 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 5. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 6. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
 
+
