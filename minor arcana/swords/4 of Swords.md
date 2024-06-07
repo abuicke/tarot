@@ -1,7 +1,7 @@
 # 4 of Swords
 
 **Key Word:** Truce  
-**Song:**   
+**Song:** [Ride by Lana Del Rey](https://www.youtube.com/watch?v=Py_-3di1yx0)  
 **Hexagrams:** 
 
 
