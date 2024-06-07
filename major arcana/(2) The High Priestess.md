@@ -1,12 +1,12 @@
 # (II) The High Priestess 
 
-#### Key Word:
+#### Key Word: Intuition
 
 
 
 ### Upright
 
-1) 
+1) The clear, quiet invoice inside a person which tells them with absolute surity exactly what to do, what will happen, or what has happened.
 
 
 
