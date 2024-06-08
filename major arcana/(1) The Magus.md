@@ -1,6 +1,8 @@
-# (I) The Magus 
+# (I) The Magus
 
-#### Key Word:
+**Key Word:**   
+**Song:**   
+**Hexagrams:** 
 
 
 
@@ -17,4 +19,13 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
