@@ -6,7 +6,7 @@
 
 ### Upright
 
-1) 
+1) Enjoying a lot of communcation
 
 
 
