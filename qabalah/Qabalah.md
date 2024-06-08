@@ -106,16 +106,16 @@ Malkuth - Physical Body
 
 ## The Sephiroth (of the human experience)
 
-Kether - Peace, Existence  
-Chokmah - Awareness<sup>4</sup>, Wisdom, Life  
-Binah - Intuition, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
-Chesed - Divine Revelation, Joy, Memory (as karma), Luck, Good Fortune, Good Karma  
-Geburah - Will, Destiny, Pain, Misfortune, Bad Karma  
-Tiphareth - Consciousness<sup>4</sup>, Individuality, Presence, Meaning, Experience, Enlightenment, Synchronicity, Flow, Jungian Self (the union of opposites)  
-Netzach - Passion, Emotions, Desire  
-Hod - Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
-Yesod - Impulses, Compulsions, Drives, Memory (as retained impressions, samskaras)  
-Malkuth - Embodiment  
+Kether - **Peace**, Existence  
+Chokmah - **Awareness**<sup>4</sup>, Wisdom, Life  
+Binah - **Intuition**, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
+Chesed - **Joy**, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
+Geburah - **Pain**, Will, Destiny, Misfortune, Bad Karma  
+Tiphareth - **Consciousness**<sup>4</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow, Jungian Self (the union of opposites)  
+Netzach - **Experience**, Passion, Emotions, Desire  
+Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
+Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
+Malkuth - **Embodiment**  
 
 
 ## The Sephiroth (of the chakra system)
