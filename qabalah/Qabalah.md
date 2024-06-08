@@ -109,13 +109,27 @@ Malkuth - Physical Body
 Kether - **Peace**, Existence  
 Chokmah - **Awareness**<sup>4</sup>, Wisdom, Life  
 Binah - **Intuition**, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
-Chesed - **Joy**, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
+Chesed - **Joy**, Compassion, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - **Pain**, Will, Destiny, Misfortune, Bad Karma  
-Tiphareth - **Consciousness**<sup>4</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow, Jungian Self (the union of opposites)  
+Tiphareth - **Consciousness**<sup>4</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 Netzach - **Experience**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**  
+
+
+## The Sephiroth (of the human psyche)
+
+Kether -   
+Chokmah -   
+Binah -   
+Chesed -  
+Geburah -   
+Tiphareth - Jungian Self (the union of opposites)  
+Netzach -   
+Hod -   
+Yesod - Subconscious  
+Malkuth - Unconscious  
 
 
 ## The Sephiroth (of the chakra system)
