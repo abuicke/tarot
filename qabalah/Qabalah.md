@@ -106,11 +106,11 @@ Malkuth - Physical Body
 
 ## The Sephiroth (of the human experience)
 
-Kether - **Peace**, Existence  
-Chokmah - **Awareness**<sup>4</sup>, Wisdom, Life  
-Binah - **Intuition**, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
-Chesed - **Joy**, Compassion, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
-Geburah - **Pain**, Will, Destiny, Misfortune, Bad Karma  
+Kether - **Existence**, Peace  
+Chokmah - **Awareness**<sup>4</sup>, Wisdom, Life, Love (as divine union)  
+Binah - **Intuition**, Deep Sleep, Love (as divine ecstasy), Bliss, Heartbreak, Grief, Sorrow  
+Chesed - **Love (as joy)**, Compassion, Mercy, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
+Geburah - **Pain**, Discipline, Will, Destiny, Misfortune, Bad Karma  
 Tiphareth - **Consciousness**<sup>4</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 Netzach - **Experience**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
