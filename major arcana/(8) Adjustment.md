@@ -32,8 +32,8 @@
 
 ### Footnotes
 
-1. "You have power over your mind - not outside events. Realize this, and you will find strength." - **Marcus Aurelius**, *Meditations*, Book 6, Chapter 8
-2. "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." - **Marcus Aurelius**, *Meditations*, Book 8, Chapter 47
+1. "You have power over your mind - not outside events. Realize this, and you will find strength." - **Marcus Aurelius**, *Meditations* (Book 6, Chapter 8)
+2. "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." - **Marcus Aurelius**, *Meditations* (Book 8, Chapter 47)
 3. See the old name of the this card—*Justice*.
 
 
