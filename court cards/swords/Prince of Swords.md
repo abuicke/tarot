@@ -1,6 +1,6 @@
 # Prince of Swords
 
-**Key Word:**   
+**Key Word:** Mentation  
 **Rules:** 20° ♑︎ to 20° ♒︎  
 **Planetary:** [Sun], Venus, Mercury  
 **Nature:** [Power], Defeat and Success  
@@ -9,9 +9,15 @@
 
 ### Upright
 
-1) Crystalizing a new vision (the prism) for the future, not limited by the past (the small thought entities being cut away which are dragging the chariot in many disparate directions).
+This card represents mental activity, the imaginative activities of the mind which can either dominate and waste energy in many meanignless directions, or be utilised to shape a clear, multi-faceted vision. It all depends on one's ability to let go of, *cut away* (the sword), whatever thoughts are not useful, and combine those that are into a single unifying idea (the prism).
+
+>The figure of this Prince is clothed with closely woven armour adorned with definite device, and the chariot which bears him suggests (even more closely) geometrical ideas. This chariot is drawn by winged children, looking and leaping irresponsibly in any direction that takes their fancy; they are not reined, but perfectly capricious. The chariot consequently is easy enough to move, but quite unable to progress in any definite direction except by accident. This is a perfect picture of the Mind.
+>
+>**Aleister Crowley**, *The Book of Thoth* (pp. 161-162)
+
+1) Crystalizing a new vision (the prism) for the future, not limited by the past (the children).
 2) Cutting, decisive intellect.
-3) Trying to establish a clear vision for the future (the prism), despite the noise of the mind (the fairies which are pulling the chariot in many disparate directions).
+3) Trying to establish a clear vision for the future (the prism), despite the noise of the mind (the children).
 4) Overthinking
 
 
