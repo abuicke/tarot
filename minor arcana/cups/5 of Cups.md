@@ -9,7 +9,7 @@
 ### Upright
 
 1) Clearing out old emotional energies
-2) Feelings of **depression**—although intermittent and pointed, as opposed to something like the endless cruel suffering of the 8 or 9 of Swords.
+2) Negative feelings, frustration, depression, agitation, anxiety, bad mood, simmering anger, ruminating on past negative experiences.
 
 
 
