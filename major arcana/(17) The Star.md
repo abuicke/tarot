@@ -1,7 +1,8 @@
 # (XVII) The Star 
 
 **Key Word:** Renewal  
-**Song:** 
+**Song:**   
+**Hexagrams:** 23. Bo/The Cleansing<sup>1<sup>
 
 
 
@@ -25,6 +26,6 @@
 
 ### Footnotes
 
-1. 
+1. Taken from *The Occult I Ching* by Maja D'Aoust. It appears to have a quite a different meaning (and name) in *The Book of Changes* by Richard Wilhelm.
 
 
