@@ -1,4 +1,4 @@
-# Queen of Cups
+# Queen of Swords
 
 **Key Word:** Perspective  
 **Rules:** 20° ♍︎ to 20° ♎︎  
