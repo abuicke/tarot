@@ -2,7 +2,7 @@
 
 **Key Word:**   
 **Song:**   
-**Hexagrams:** 
+**Hexagrams:** 28. Ta Kuo/Preponderance of the Great
 
 
 

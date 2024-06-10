@@ -4,7 +4,7 @@
 **Rules:** 20° ♍︎ to 20° ♎︎  
 **Planetary:** [Virgo], Moon, Saturn  
 **Nature:** [Wealth], Peace and Sorrow  
-**Hexagram:** 28. Ta Kuo/Preponderance of the Great, 20. Kuan/Contemplation (View)<sup>1</sup>
+**Hexagram:** 20. Kuan/Contemplation (View)<sup>1</sup>
 
 
 
