@@ -9,7 +9,7 @@
 ### Upright
 
 1) **Trapped/Imprisoned**—esp. in the physical body (restrained mobility, pain).<sup>1</sup>
-2) **Hampered by physical limitation**.
+2) Hampered by **physical limitation**.
 
 
 
