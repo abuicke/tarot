@@ -35,4 +35,4 @@
 ### Footnotes
 
 1. "This is the hexagram of the divine feminine in that it provides us with an all inclusive mind. Nothing is discarded, and all things come into view with no limitations." - **Maja D'Aoust**, *The Occult I Ching* (p. 146)
-2. "In her hand is a man’s severed head: she is the 'Liberator of the Mind', ensuring that intellect responds to higher governance rather than signals from the body." - *Liber Theta*
+2. "In her hand is a man’s severed head: she is the 'Liberator of the Mind', ensuring that intellect responds to higher governance rather than signals from the body." - *Liber Theta* (p. 71)
