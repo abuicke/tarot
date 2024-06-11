@@ -32,7 +32,7 @@ If one looks at the image, it can be seen through intimation and intuition how t
 >
 >**Aleister Crowley**, *Liber AL vel Legis* (II:58)
 
-<img src="https://raw.githubusercontent.com/abuicke/tarot/master/%D0%B0ssets/the%20lovers/sri%20yantra.jpg" alt="Sri Yantra" width="75%"/> 
+<img src="https://raw.githubusercontent.com/abuicke/tarot/master/major%20arcana/(6)%20The%20Lovers/sri%20yantra.jpg" alt="Sri Yantra" width="75%"/> 
 
 #### Consciousness vs Awareness
 
