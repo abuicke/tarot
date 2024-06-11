@@ -223,7 +223,19 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## The Plain English Qabalah
 
-Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed. The Eternity of Kether becomes Cyclicity, in its manifest counterpart of Tiphareth<sup>8</sup>; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure, from Binah; while Geburah is the manifest counterpart Chokmah's energy below the Abyss, which is Force.
+Kether - Eternity
+Chokmah - Infinity
+Binah - Limitation
+Chesed - Expansion
+Geburah - Contraction
+Tiphareth - Cyclicity
+Netzach - Charge
+Hod - Polarization
+Yesod - Stablilty
+Malkuth - Activity
+
+
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed. The Eternity of Kether becomes Cyclicity, in its manifest counterpart of Tiphareth<sup>8</sup>; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure, from Binah; while Geburah is the manifest counterpart of Chokmah's energy below the Abyss as Force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/plain%20english%20qabalah.png" alt="Plain English Tree if Life" width="90%"/>
 
