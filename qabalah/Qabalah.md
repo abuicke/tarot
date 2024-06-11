@@ -237,7 +237,7 @@ Malkuth - Activity
 **Nun - Decomposition, Change**  
 Call to mind the image of pure invisible "white" light coming apart into the colour spectrum. These are all the emotions, all the gods of antiquity. They quite literally "colour" our consciousness (Tiphareth), so as to emphasise one aspect and hide its opposite, exactly as a coloured lens does. In a single moment, one person can become our enemy (colured by anger) and another can appear to use as the love of our life (coloured by lust and fantasy).
 
-**The Supernal Triad and the Moral Triad**
+**The Supernal Triad and the Moral Triad**  
 Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed. The Eternity of Kether becomes Cyclicity<sup>8</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure, from Binah; while Geburah is the manifest counterpart of Chokmah's energy below the Abyss as Force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/plain%20english%20qabalah.png" alt="Plain English Tree if Life" width="90%"/>
