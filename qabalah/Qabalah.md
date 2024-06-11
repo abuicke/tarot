@@ -167,13 +167,13 @@ Malkuth - Annamaya Kosha
 Kether - Brain  
 Chokmah - Face, Eyes  
 Binah - Throat, Mouth, Tongue, Larynx  
-Chesed -   
-Geburah -   
-Tiphareth - Heart, Solar Plexus, Blood  
-Netzach - Kidneys  
-Hod -   
-Yesod - Genitals, The Nervous System  
-Malkuth - Feet, Bones
+Chesed - Lungs (inhalation)  
+Geburah - Lungs (exhalation)  
+Tiphareth - Heart, Blood, Solar Plexus  
+Netzach - Digestive System (decomposition)  
+Hod - Digestive system (assimilation)  
+Yesod - Genitals, Nervous System  
+Malkuth - Feet, Bones, Skin
 
 
 ## The Sephiroth (of society)
