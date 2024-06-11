@@ -69,10 +69,10 @@ Chokmah - Energy
 Binah - Time<sup>3</sup>, Causality  
 Chesed - Entropy  
 Geburah - Conservation<sup>4</sup>  
-Tiphareth - Light (invisible)  
+Tiphareth - Electromagnetic field, Light (invisible)  
 Netzach - Electricity, Light (spectrum)  
 Hod - Magnetism  
-Yesod - Electromagnetism  
+Yesod - Charged Particles  
 Malkuth - Matter
 
 
@@ -109,10 +109,10 @@ Malkuth - Physical Body
 Kether - **Existence**, Peace  
 Chokmah - **Awareness**<sup>5</sup>, Wisdom, Life, Love (as divine union)  
 Binah - **Intuition**, Deep Sleep, Love (as divine ecstasy), Bliss, Heartbreak, Grief, Sorrow  
-Chesed - **Love (as joy)**, Compassion, Mercy, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
-Geburah - **Pain**, Discipline, Will, Destiny, Misfortune, Bad Karma  
+Chesed - **Love (as joy)**, Compassion, Mercy, Divine Revelation, Breathing In, Memory (as karma), Luck, Good Fortune, Good Karma  
+Geburah - **Pain**, Discipline, Will, Destiny, Breathing Out, Misfortune, Bad Karma  
 Tiphareth - **Consciousness**<sup>5</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
-Netzach - **Experience**, Passion, Emotions, Desire  
+Netzach - **Experience (Qualia)**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**  
