@@ -236,14 +236,14 @@ Malkuth - Activity
 
 ### The Plain English Paths
 
-**(VI) Zayin - Choices**  
+**Zayin - Choices**  
 >Consciousness is awareness with choices
 >
 >**Tom Campbell**
 
-**(VII) Cheth - Boundaries**
+**Cheth - Boundaries**
 
-**(XIII) Nun - Decomposition, Change**  
+**Nun - Decomposition, Change**  
 Call to mind the image of pure invisible "white" light coming apart into the colour spectrum. These are all the emotions, all the gods of antiquity. They quite literally "colour" our consciousness (Tiphareth), so as to emphasise one aspect and hide its opposite, exactly as a coloured lens does. In a single moment, one person can become our enemy (colured by anger) and another can appear to use as the love of our life (coloured by lust and fantasy).
 
 ### The Abyss and the Triads
