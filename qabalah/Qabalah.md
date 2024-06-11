@@ -223,15 +223,15 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## The Plain English Qabalah
 
-Kether - Eternity
-Chokmah - Infinity
-Binah - Limitation
-Chesed - Expansion
-Geburah - Contraction
-Tiphareth - Cyclicity
-Netzach - Charge
-Hod - Polarization
-Yesod - Stablilty
+Kether - Eternity  
+Chokmah - Infinity  
+Binah - Limitation  
+Chesed - Expansion  
+Geburah - Contraction  
+Tiphareth - Cyclicity  
+Netzach - Charge  
+Hod - Polarization  
+Yesod - Stablilty  
 Malkuth - Activity
 
 
