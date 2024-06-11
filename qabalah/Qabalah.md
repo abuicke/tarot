@@ -42,7 +42,7 @@ Geburah - Destroying, Shaping, Bounding
 Tiphareth - Harmonizing, Experiencing  
 Netzach - Feeling, Decomposing  
 Hod - Comprehending, Reflecting, Channelizing  
-Yesod - Coordinating, Living, Building, Growing  
+Yesod - Living, Building, Growing  
 Malkuth - Acting, Doing  
 
 
@@ -66,9 +66,9 @@ Malkuth - The Physical Plane
 
 Kether - Space  
 Chokmah - Energy  
-Binah - Time, Causality  
+Binah - Time<sup>3</sup>, Causality  
 Chesed - Entropy  
-Geburah - Conservation<sup>3</sup>  
+Geburah - Conservation<sup>4</sup>  
 Tiphareth - Light (invisible)  
 Netzach - Electricity, Light (spectrum)  
 Hod - Magnetism  
@@ -107,11 +107,11 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - **Existence**, Peace  
-Chokmah - **Awareness**<sup>4</sup>, Wisdom, Life, Love (as divine union)  
+Chokmah - **Awareness**<sup>5</sup>, Wisdom, Life, Love (as divine union)  
 Binah - **Intuition**, Deep Sleep, Love (as divine ecstasy), Bliss, Heartbreak, Grief, Sorrow  
 Chesed - **Love (as joy)**, Compassion, Mercy, Divine Revelation, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - **Pain**, Discipline, Will, Destiny, Misfortune, Bad Karma  
-Tiphareth - **Consciousness**<sup>4</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
+Tiphareth - **Consciousness**<sup>5</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 Netzach - **Experience**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
@@ -146,7 +146,7 @@ Yesod - Swadhisthana
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>5</sup>
+## The Sephiroth (of the five koshas)<sup>6</sup>
 
 Kether - Atman  
 Chokmah - Anandamaya Kosha (as wisdom)  
@@ -179,7 +179,7 @@ Malkuth - Feet
 ## The Sephiroth (of society)
 
 Kether - God (The Church)  
-Chokmah - Eternity<sup>6</sup>, Divine Mandate  
+Chokmah - Eternity<sup>7</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
 Geburah - Conquest, Military, Imperialism  
@@ -211,7 +211,7 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## The Plain English Qabalah
 
-Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed. The Eternity of Kether becomes Cyclicity, in its manifest counterpart of Tiphareth<sup>7</sup>; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure, from Binah; while Geburah is the manifest counterpart Chokmah's energy below the Abyss, which is Force.
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed. The Eternity of Kether becomes Cyclicity, in its manifest counterpart of Tiphareth<sup>8</sup>; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure, from Binah; while Geburah is the manifest counterpart Chokmah's energy below the Abyss, which is Force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/%D0%B0ssets/qabalah/plain%20english%20qabalah.jpg" alt="Plain English Tree if Life" width="50%"/>
 
@@ -219,9 +219,10 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. From the point of view of the third-eye, seeing and creating are one and the same.
-3. See First Law of Thermodynamics (Law of Energy Conservation) 
-4. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
-5. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
-6. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-7. See *Liber 777*, row 6 column 187, second formula.
+3. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
+4. See First Law of Thermodynamics (Law of Energy Conservation) 
+5. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
+6. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+7. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+8. See *Liber 777*, row 6 column 187, second formula.
 
