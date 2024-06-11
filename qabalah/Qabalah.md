@@ -216,6 +216,20 @@ Yesod - Matrix
 Malkuth - Square  
 
 
+## The Sephiroth (of human knowledge and culture)
+
+Kether - Revelation  
+Chokmah - Contemplation  
+Binah - Mathematics  
+Chesed - History  
+Geburah - Warfare  
+Tiphareth - Music  
+Netzach - Poetry  
+Hod - Philosophy  
+Yesod - Comedy  
+Malkuth - Martial Arts
+
+
 ## The Cards
 
 Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certain ways energy flows across the tree (except in the case of the princesses).
