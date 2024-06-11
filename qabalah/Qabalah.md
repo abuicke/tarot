@@ -32,8 +32,6 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 ## The Sephiroth
 
-It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the qualities a sephirah has inherrented from each of its parents, which it will express in its own way.
-
 Kether - Being  
 Chokmah - Creating, Witnessing<sup>2</sup>  
 Binah - Understanding, Forming, Limiting  
@@ -45,10 +43,10 @@ Hod - Comprehending, Reflecting, Channelizing
 Yesod - Living, Building, Growing  
 Malkuth - Acting, Doing  
 
+It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the qualities a sephirah has inherrented from each of its parents, which it will express in its own way.
+
 
 ## The Sephiroth (of the macrocosm)
-
-When dealing with Chesed and Geburah, we are really dealing with the aspects of Chokmah and Binah that exert influence below the Abyss, e.g. Shakti is the abstract feminine principle repesented by Binah, while Durga is her manifestion below the Abyss in the form of Gevurah, the fierce aspect of Shakti that combats evil and restores dharma (cosmic order).
 
 Kether - Brahma  
 Chokmah - The Causal Plane, The Great Father, Shiva  
@@ -60,6 +58,8 @@ Netzach - The Astral Plane, Indra, Kama
 Hod - The Astral Plane  
 Yesod - The Etheric Plane  
 Malkuth - The Physical Plane  
+
+When dealing with Chesed and Geburah, we are really dealing with the aspects of Chokmah and Binah that exert influence below the Abyss, e.g. Shakti is the abstract feminine principle repesented by Binah, while Durga is her manifestion below the Abyss in the form of Gevurah, the fierce aspect of Shakti that combats evil and restores dharma (cosmic order).
 
 
 ## The Sephiroth (of manifestation)
@@ -107,17 +107,19 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - **Existence**, Peace  
-Chokmah - **Awareness**<sup>5</sup>, Wisdom, Life, Love (as divine union)  
-Binah - **Intuition**, Deep Sleep, Love (as divine ecstasy), Bliss, Heartbreak, Grief, Sorrow  
-Chesed - **Love (as joy)**, Compassion, Mercy, Divine Revelation, Breathing In, Memory (as karma), Luck, Good Fortune, Good Karma  
-Geburah - **Pain**, Discipline, Will, Destiny, Breathing Out, Misfortune, Bad Karma  
+Chokmah - **Awareness**<sup>5</sup>, Wisdom, Life  
+Binah - **Intuition**, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
+Chesed - **Joy**, Compassion, Mercy, Divine Revelation, Breathing In, Good Health, Memory (as karma), Luck, Good Fortune, Good Karma  
+Geburah - **Pain**, Discipline, Will, Destiny, Breathing Out, Poor Health, Misfortune, Bad Karma  
 Tiphareth - **Consciousness**<sup>5</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 Netzach - **Experience (Qualia)**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**  
 
-The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is eletrically charged, feeling an overwhelmimg draw towards whatever it is that's attracting them (sex being the most powerful). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction.
+It should be noted that terms such as *Joy* and *Pain* do not only refer to emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced at different levels, such as in emotion (Netzach), thought (Hod) or instinctual drives (Yesod); but they exist as independent aspects of experience.
+
+The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is eletrically charged, feeling an overwhelmimg draw towards the object of their attraction (sexual attraction being the most powerful, and the quintessence of this sphere). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction. This etheric/electric body is also hiw trauma is "stored in the body", impressions left by past experiences which have the ability to replay as painful aversions at any moment.
 
 
 ## The Sephiroth (of the human psyche)
