@@ -234,8 +234,12 @@ Hod - Polarization
 Yesod - Stablilty  
 Malkuth - Activity
 
+#### The Plain English Paths
+
 **Nun - Decomposition, Change**  
 Call to mind the image of pure invisible "white" light coming apart into the colour spectrum. These are all the emotions, all the gods of antiquity. They quite literally "colour" our consciousness (Tiphareth), so as to emphasise one aspect and hide its opposite, exactly as a coloured lens does. In a single moment, one person can become our enemy (colured by anger) and another can appear to use as the love of our life (coloured by lust and fantasy).
+
+#### The Abyss and the Triads
 
 **The Supernal Triad and the Moral Triad**  
 Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>8</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
