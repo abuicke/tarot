@@ -68,12 +68,14 @@ Kether - Space
 Chokmah - Energy  
 Binah - Time<sup>3</sup>, Causality  
 Chesed - Entropy  
-Geburah - Conservation<sup>4</sup>  
+Geburah - Physics, Force, Conservation<sup>4</sup>  
 Tiphareth - Electromagnetic field, Light (invisible)  
 Netzach - Electricity, Light (spectrum)  
 Hod - Magnetism  
 Yesod - Charged Particles  
 Malkuth - Matter
+
+There's a quality of Geburah which is "the corrective nature of physics", probably best termed simply as *Physics*, which I have labeled it here. The bounding, limiting, shaping nature of Binah, becomes the violent correcting force of Geburah below the Abyss. It's the fall of an apple due to gravity, it's the flow of electricity from positive to negative, heat from hot to cold. It is the first Law of Thermodynamics.
 
 
 ## The Sephiroth (between the worlds)
