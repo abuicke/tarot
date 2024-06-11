@@ -117,6 +117,8 @@ Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, S
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**  
 
+The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is eletrically charged, feeling an overwhelmimg draw towards whatever it is that's attracting them (sex being the most powerful). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction.
+
 
 ## The Sephiroth (of the human psyche)
 
@@ -163,17 +165,15 @@ Malkuth - Annamaya Kosha
 ## The Sephiroth (of the physical body)
 
 Kether - Brain  
-Chokmah - Face  
-Binah - Throat  
-Chesed - Heart  
-Geburah - Liver  
-Tiphareth - Solar Plexus  
+Chokmah - Face, Eyes  
+Binah - Throat, Mouth, Tongue, Larynx  
+Chesed -   
+Geburah -   
+Tiphareth - Heart, Solar Plexus, Blood  
 Netzach - Kidneys  
 Hod -   
-Yesod - Genitals  
-Malkuth - Feet
-
-(I really took a stab in the dark with this one. The only attribution I'm sure of is Tiphareth/Solar Plexus)
+Yesod - Genitals, The Nervous System  
+Malkuth - Feet, Bones
 
 
 ## The Sephiroth (of society)
@@ -225,4 +225,5 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 6. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 7. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
 8. See *Liber 777*, row 6 column 187, second formula.
+
 
