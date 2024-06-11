@@ -77,6 +77,14 @@ Malkuth - Matter
 
 There's a quality of Geburah which is "the corrective nature of physics", probably best termed simply as *Physics*, which I have labeled it here. The bounding, limiting, shaping nature of Binah, becomes the violent correcting force of Geburah below the Abyss. It's the fall of an apple due to gravity, it's the flow of electricity from positive to negative, heat from hot to cold. It is the first Law of Thermodynamics.
 
+>This much I do know—that there is a power or a first cause, or an Intelligence which permeates every atom of matter, and embraces every unit of energy perceptible to man; that this Infinite Intelligence converts acorns into oak trees, causes water to flow downhill in response to the law of gravity, follows night with day, and winter with summer, each maintaining its proper place and relationship to the other. This Intelligence may aid in transmuting one's desires into concrete or material form. I have this knowledge because I have experimented with it and have experienced it.
+>
+>**Naploean Hill**, *Outwitting The Devil* (pp. 48-49)
+
+>“Do what thou wilt…” is to bid Stars to shine, Vines to bear grapes, Water to seek its level; man is the only being in Nature that has striven to set himself at odds with himself.
+>
+>**Aleistery Crowley**, *Book 4, Part III: Magick in Theory and Practice* (p. 241)
+
 
 ## The Sephiroth (between the worlds)
 
