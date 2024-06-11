@@ -127,9 +127,9 @@ Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, S
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**  
 
-It should be noted that terms such as *Joy* and *Pain* do not only refer to emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced at different levels, such as in emotion (Netzach), thought (Hod) or instinctual drives (Yesod); but they exist as independent aspects of experience.
+It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced at different levels, such as in emotion (Netzach), thought (Hod) or instinctual drives (Yesod); but they exist as independent principles.
 
-The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is eletrically charged, feeling an overwhelmimg draw towards the object of their attraction (sexual attraction being the most powerful, and the quintessence of this sphere). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction. This etheric/electric body is also hiw trauma is "stored in the body", impressions left by past experiences which have the ability to replay as painful aversions at any moment.
+The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is electrically charged, feeling an overwhelmimg draw towards the object of their attraction (sexual attraction being the most powerful, and the quintessence of this sphere). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction. This etheric/electric body is also how trauma is "stored in the body", impressions left by past experiences which have the ability to replay as painful aversions at any moment.
 
 
 ## The Sephiroth (of the human psyche)
@@ -243,8 +243,8 @@ Malkuth - Activity
 
 **Cheth - Boundaries**
 
-**Nun - Decomposition, Change**  
-Call to mind the image of pure invisible "white" light coming apart into the colour spectrum. These are all the emotions, all the gods of antiquity. They quite literally "colour" our consciousness (Tiphareth), so as to emphasise one aspect and hide its opposite, exactly as a coloured lens does. In a single moment, one person can become our enemy (colured by anger) and another can appear to use as the love of our life (coloured by lust and fantasy).
+**Nun - Decomposition, Change, Imagination**  
+Call to mind the image of pure invisible "white" light coming apart into the colour spectrum. These are all the emotions, all the gods of antiquity. They quite literally "colour" our consciousness (Tiphareth), so as to emphasise one aspect and hide its opposite, exactly as a coloured lens does. In a single moment, one person can become our enemy (colured by anger) and another can appear to us as the love of our life (coloured by lust and fantasy).
 
 ### The Abyss and the Triads
 
