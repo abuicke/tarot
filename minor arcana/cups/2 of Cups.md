@@ -1,7 +1,8 @@
 # 2 of Cups
 
 **Key Word:** Love  
-**Song:** [Kiss Me by Sixpence None the Richer](https://www.youtube.com/watch?v=hII0JXUJNDo)
+**Song:** [Kiss Me by Sixpence None the Richer](https://www.youtube.com/watch?v=hII0JXUJNDo)  
+**Hexagrams:** 
 
 
 
@@ -13,7 +14,7 @@
 
 ### Reversed
 
-1) 
+1) Conflict with family
 
 
 
