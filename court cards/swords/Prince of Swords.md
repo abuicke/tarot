@@ -18,7 +18,8 @@ This card represents mental activity, the imaginative activities of the mind whi
 1) Crystalizing a new vision (the prism) for the future, not limited by the past (the children).
 2) Cutting, decisive intellect.
 3) Trying to establish a clear vision for the future (the prism), despite the noise of the mind (the children).
-4) Overthinking
+4) Overthinking  
+5) Oscillating between approaches, but then struggling to implement any of them.
 
 
 
