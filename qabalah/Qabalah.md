@@ -155,7 +155,7 @@ Chesed - Love (as joy)
 Tiphareth - Love (as meaning)  
 Netzach - Love (as attraction, excitement, human love)  
 Hod - Love (as idolization)  
-Yesod - Love (as lust)  
+Yesod - Love (as lust, reproductive drive)  
 Malkuth - Love (as sex)
 
 
