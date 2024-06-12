@@ -146,6 +146,19 @@ Yesod - Subconscious
 Malkuth - Unconscious  
 
 
+## The Sephiroth (of love)
+
+Kether - 
+Chokmah - Love (as divine union)  
+Binah - Love (as bliss)  
+Chesed - Love (as joy)  
+Tiphareth - Love (as meaning)  
+Netzach - Love (as excitment)  
+Hod - Love (as idolization)  
+Yesod - Love (as lust)  
+Malkuth - Love (as sex)
+
+
 ## The Sephiroth (of the chakra system)
 
 Kether - Sahasrara  
