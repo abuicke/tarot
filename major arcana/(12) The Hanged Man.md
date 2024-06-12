@@ -1,6 +1,6 @@
 # (XII) The Hanged Man
 
-**Key Word:**   
+**Key Word:** Impasse  
 **Song:**   
 **Hexagrams:** 
 
@@ -10,6 +10,7 @@
 
 1) **Release**
 2) **Giving up**. Seeing that no more progress can be made in the current state or situation.
+3) Reaching an **impasse**.
 
 
 
