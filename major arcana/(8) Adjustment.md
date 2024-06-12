@@ -28,6 +28,10 @@
 >
 >**Sadhguru**, [*5 Mystical Spaces of Agastya, The Great Indian Sage*](https://www.youtube.com/watch?v=wv-aai4rw5I&t=411s)
 
+>example quote for sighting an edition of a book
+>
+>**Israel Regardie**, *A Garden Pomegranates* (3rd Edition, p. xxv)
+
 
 
 ### Footnotes
