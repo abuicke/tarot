@@ -127,7 +127,7 @@ Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, S
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**
 
-#### Qlipoth
+### Qlipoth
 
 Kether -   
 Chokmah -   
