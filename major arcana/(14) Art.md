@@ -1,7 +1,7 @@
 # (XIV) Art
 
-**Key Word:**   
-**Song:**   
+**Key Word:** Iteration  
+**Song:** [Fast Car by Tracy Chapman](https://www.youtube.com/watch?v=AIOAlaACuv4)  
 **Hexagrams:** 28. Ta Kuo/Preponderance of the Great
 
 
@@ -9,6 +9,7 @@
 ### Upright
 
 1) The Holy Guardian Angel
+2) The process of shaping (something) through trial and error.
 
 
 
