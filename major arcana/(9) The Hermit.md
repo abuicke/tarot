@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) 
+1) The belief that things are happening as they should.
 
 
 
