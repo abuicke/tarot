@@ -125,7 +125,20 @@ Tiphareth - **Consciousness**<sup>5</sup>, Individuality, Presence, Meaning, Enl
 Netzach - **Experience (Qualia)**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
-Malkuth - **Embodiment**  
+Malkuth - **Embodiment**
+
+#### Qlipoth
+
+Kether -   
+Chokmah -   
+Binah -   
+Chesed - Mania  
+Geburah - Cruelty  
+Tiphareth - Fanaticism (Ideological Possession)  
+Netzach - Gluttony  
+Hod - Narcissism  
+Yesod - Hedonism  
+Malkuth - Suicide
 
 It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced at different levels, such as in emotion (Netzach), thought (Hod) or instinctual drives (Yesod); but they exist as independent principles.
 
