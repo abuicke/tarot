@@ -10,6 +10,7 @@
 
 1) The Holy Guardian Angel
 2) The process of shaping (something) through trial and error.
+3) Willing to push through difficulties (for the sake of continuous improvement).
 
 
 
