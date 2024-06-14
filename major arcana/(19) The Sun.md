@@ -31,6 +31,14 @@
 >
 >**Israel Regardie**, *A Garden Pomegranates* (3rd Edition, p. xxv)
 
+>One thing at a time. In fact, in your whole life, you are doing only one thing at a time. If you can be fully present with one thing at a time, you will be like the sun and manage so much. What overwhelms you are the thoughts of other things to be done, which keep you from being present.
+>
+>If your life is only about being in this moment, it becomes so expansive. However, we tend to think of efficiency as a linear process, not like the sun expanding in every direction by being present. The linear mind accomplishes very little, and you might think, "Oh, I'm doing so much, I'm working so much, there's so much to do."
+>
+>The sun doesn't think about where it's going; it just keeps shining by being in one place.
+>
+>**Satya Ji**, [*Just One Thing At A Time*](https://www.youtube.com/watch?v=DwBXUYFn8Qo)
+
 
 
 ### Footnotes
