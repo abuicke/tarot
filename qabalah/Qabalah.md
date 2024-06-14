@@ -53,7 +53,7 @@ Chokmah - The Causal Plane, The Great Father, Shiva
 Binah - The Causal Plane, The Great Mother, Shakti, Kali, Sacred Geometry  
 Chesed - Karma (as cause), Vishnu, Comsmic Order (upholding the good)  
 Geburah - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropic—arising from Chesed)  
-Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama)  
+Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>3</sup>  
 Netzach - The Astral Plane, Indra, Kama  
 Hod - The Astral Plane  
 Yesod - The Etheric Plane  
@@ -66,9 +66,9 @@ When dealing with Chesed and Geburah, we are really dealing with the aspects of 
 
 Kether - Space  
 Chokmah - Energy  
-Binah - Time<sup>3</sup>, Causality  
+Binah - Time<sup>4</sup>, Causality  
 Chesed - Entropy  
-Geburah - Physics, Force, Conservation<sup>4</sup>  
+Geburah - Physics, Force, Conservation<sup>5</sup>  
 Tiphareth - Electromagnetic field, Light (invisible)  
 Netzach - Electricity, Light (spectrum)  
 Hod - Magnetism  
@@ -117,11 +117,11 @@ Malkuth - Physical Body
 ## The Sephiroth (of the human experience)
 
 Kether - **Existence**, Peace  
-Chokmah - **Awareness**<sup>5</sup>, Wisdom, Life  
+Chokmah - **Awareness**<sup>6</sup>, Wisdom, Life  
 Binah - **Intuition**, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 Chesed - **Joy**, Compassion, Mercy, Divine Revelation, Breathing In, Good Health, Memory (as karma), Luck, Good Fortune, Good Karma  
 Geburah - **Pain**, Discipline, Will, Destiny, Breathing Out, Poor Health, Misfortune, Bad Karma  
-Tiphareth - **Consciousness**<sup>5</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
+Tiphareth - **Consciousness**<sup>6</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 Netzach - **Experience (Qualia)**, Passion, Emotions, Desire  
 Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
@@ -186,7 +186,7 @@ Yesod - Swadhisthana
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>6</sup>
+## The Sephiroth (of the five koshas)<sup>7</sup>
 
 Kether - Atman  
 Chokmah - Anandamaya Kosha (as wisdom)  
@@ -217,7 +217,7 @@ Malkuth - Feet, Bones, Skin
 ## The Sephiroth (of society)
 
 Kether - God (The Church)  
-Chokmah - Eternity<sup>7</sup>, Divine Mandate  
+Chokmah - Eternity<sup>8</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
 Geburah - Conquest, Military, Imperialism  
@@ -289,7 +289,7 @@ Call to mind the image of pure invisible "white" light coming apart into the col
 ### The Abyss and the Triads
 
 **The Supernal Triad and the Moral Triad**  
-Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>8</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>9</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/plain%20english%20qabalah.png" alt="Plain English Tree if Life" width="90%"/>
 
@@ -297,11 +297,12 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. From the point of view of the third-eye, seeing and creating are one and the same.
-3. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
-4. See First Law of Thermodynamics (Law of Energy Conservation) 
-5. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
-6. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
-7. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-8. See *Liber 777*, row 6 column 187, second formula.
+3. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational etrernal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition, p. 13)
+4. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
+5. See First Law of Thermodynamics (Law of Energy Conservation) 
+6. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
+7. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+8. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+9. See *Liber 777*, row 6 column 187, second formula.
 
 
