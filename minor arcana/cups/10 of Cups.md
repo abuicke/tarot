@@ -10,6 +10,7 @@
 
 1) Passive indulgence.
 2) Addiction, sloth, overeating.
+3) Bad habits
 
 
 
