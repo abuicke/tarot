@@ -2,7 +2,7 @@
 
 **Key Word:** Enlightenment  
 **Song:** [Sunlight feat. Years & Years by The Magician](https://www.youtube.com/watch?v=TFXlWfzW9Uo)  
-**Hexagrams:** 25. Wu Wang/The Innocence (The Unexpected) , 30. Li/The Clinging, Fire; 58. Tui/The Joyous, Lake
+**Hexagrams:** 25. Wu Wang/The Innocence (The Unexpected), 30. Li/The Clinging, Fire, 58. Tui/The Joyous, Lake
 
 
 
@@ -23,7 +23,7 @@
 
 ### Extra
 
->Human life on earth is conditioned and unfree, and when man recognizes this limitation and makes himself dependent upon the harmonious and beneficent forces of the cosmos, he achieves **success**.
+>Human life on earth is conditioned and unfree, and when man recognizes this limitation and makes himself dependent upon the harmonious and beneficent forces of the cosmos, he achieves success.
 >
 >*The Book of Changes* (3rd Edition, pp. 293-94)
 
