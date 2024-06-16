@@ -20,9 +20,15 @@
 
 ### Extra
 
->*The very essence of physical reality is ***Change***, nothing is constant.* - [Sadhguru](https://www.youtube.com/shorts/wHUd94T4enk)
+>The very essence of physical reality is change, nothing is constant.
+>
+>**Sadhguru**, [*Why Do We Resist Change?*](https://www.youtube.com/shorts/wHUd94T4enk)
 
 [The Origins of the Infinity Symbol](https://www.youtube.com/watch?v=w7BO_dfwuLo)<sup>1</sup>
+
+>In an expanding universe, time is on the side of the outcast.
+>
+>**Quentin Crisp**, *The Naked Civil Servant*
 
 
 
