@@ -11,7 +11,7 @@
 1) **Enlightenment**
 2) Penetrating clearly into one's self
 3) **Illuminating** a previously cloudy or not understood situation
-4) Joy, optimism, positive outlook
+4) **Joy**, optimism, positive outlook
 
 
 
