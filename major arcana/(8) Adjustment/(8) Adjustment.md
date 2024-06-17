@@ -32,6 +32,10 @@
 >
 >**Israel Regardie**, *A Garden Pomegranates* (3rd Edition, p. xxv)
 
+>example bible quote
+>
+>*John 8:12*
+
 
 
 ### Footnotes
