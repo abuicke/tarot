@@ -11,7 +11,7 @@
 ### Upright
 
 1) A broader perspective.
-2) Perceiving with a detatched<sup>2<sup> awareness.
+2) Perceiving with a detatched<sup>2</sup> awareness.
 3) A greater awareness of one's moods, attitudes, unconscious habits, (negative) thought patterns and biases.
 
 
