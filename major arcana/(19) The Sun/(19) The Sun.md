@@ -39,6 +39,10 @@
 >
 >**Satya Ji**, [*Just One Thing At A Time*](https://www.youtube.com/watch?v=DwBXUYFn8Qo)
 
+>I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+>
+>*John 8:12*
+
 
 
 ### Footnotes
