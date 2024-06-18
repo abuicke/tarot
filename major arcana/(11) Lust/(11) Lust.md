@@ -1,12 +1,14 @@
 # (XI) Lust 
 
-#### Key Word:
+**Key Word:** Embrace  
+**Song:**   
+**Hexagrams:** 
 
 
 
 ### Upright
 
-1) 
+1) Embracing life as it is (good and bad)<sup>1</sup>.
 
 
 
@@ -17,4 +19,13 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. This would make sense Qabalistically, given that Chesed and Geburah are quite literally *the good and the bad*.
+
 
