@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) Negative thinking; paranoia.
+1) (Incessant) negative thinking; paranoia.
 
 
 
