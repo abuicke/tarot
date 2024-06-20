@@ -42,16 +42,16 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 ## The Sephiroth
 
-Kether - Being  
-Chokmah - Creating, Witnessing<sup>3</sup>  
-Binah - Understanding, Forming, Limiting  
-Chesed - Expanding, Establishing, Ordering, Structuring  
-Geburah - Destroying, Shaping, Bounding  
-Tiphareth - Harmonizing, Experiencing  
-Netzach - Feeling, Decomposing  
-Hod - Comprehending, Reflecting, Channelizing  
-Yesod - Living, Building, Growing  
-Malkuth - Acting, Doing  
+Kether - **Being**  
+Chokmah - **Creating**, Witnessing<sup>3</sup>  
+Binah - **Understanding**, Forming, Limiting  
+Chesed - **Expanding**, Establishing, Ordering, Structuring  
+Geburah - **Destroying**, Shaping, Bounding  
+Tiphareth - **Harmonizing**, Experiencing  
+Netzach - **Feeling**, Decomposing  
+Hod - **Comprehending**, Reflecting, Channelizing  
+Yesod - **Living**, Building, Growing  
+Malkuth - **Acting**, Doing  
 
 It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the qualities a sephirah has inherited from each of its parents, which it will express in its own way.
 
