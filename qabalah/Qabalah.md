@@ -35,9 +35,9 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 
 ## The Three Gunas<sup>2</sup>
-**Tamas (Inertia)** - Earth, Durga, Kali, Satan; Pillar of Severity (Boaz); Power, Immortality (of the body), Strength;  
-**Rajas (Activity)** - Sun, Lakshmi, Lucifer; Pillar of Mercy (Jachin); Wealth, Passion, Life  
-**Sattva (Dissolution)** - Moon, Saraswati, Christ; Pillar of Mildness (Consciousness); Knowing, Transcendence, Immortality (of the spirit)
+**Tamas (Inertia)** - Earth, Durga, Kali, Satan; Pillar of Severity (Boaz); The Fixed Signs; Power, Immortality (of the body), Strength;  
+**Rajas (Activity)** - Sun, Lakshmi, Lucifer; Pillar of Mercy (Jachin); The Cardinal Signs; Wealth, Passion, Life  
+**Sattva (Dissolution)** - Moon, Saraswati, Christ; Pillar of Mildness (Consciousness); The Mutable Signs; Knowing, Transcendence, Immortality (of the spirit)
 
 
 ## The Sephiroth
