@@ -338,6 +338,6 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 7. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
 8. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 9. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-10. See *Liber 777*, row 6 column 187, second formula.
+10. See *Liber 777*, row 6, column 187, second formula.
 
 
