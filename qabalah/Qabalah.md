@@ -35,9 +35,9 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 
 ## The Three Gunas<sup>2</sup>
-**Tamas (Inertia)** - Earth, Durga, Kali; Power, Immortality (of the body), Strength;  
-**Rajas (Activity)** - Sun, Lakshmi; Wealth, Passion, Life  
-**Sattva (Dissolution)** - Moon, Saraswati; Knowledge, Knowing, Transcendence, Immortality (of the spirit)
+**Tamas (Inertia)** - Earth, Durga, Kali, Satan; Power, Immortality (of the body), Strength;  
+**Rajas (Activity)** - Sun, Lakshmi, Lucifer; Wealth, Passion, Life  
+**Sattva (Dissolution)** - Moon, Saraswati, Christ; Knowledge, Knowing, Transcendence, Immortality (of the spirit)
 
 
 ## The Sephiroth
