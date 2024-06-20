@@ -113,11 +113,11 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 
 >This much I do know—that there is a power or a first cause, or an Intelligence which permeates every atom of matter, and embraces every unit of energy perceptible to man; that this Infinite Intelligence converts acorns into oak trees, causes water to flow downhill in response to the law of gravity, follows night with day, and winter with summer, each maintaining its proper place and relationship to the other. This Intelligence may aid in transmuting one's desires into concrete or material form. I have this knowledge because I have experimented with it and have experienced it.
 >
->**Napoleon Hill**, *Outwitting The Devil* (pp. 48-49)
+>**Napoleon Hill**, *Outwitting The Devil*, pp. 48-49
 
 >“Do what thou wilt…” is to bid Stars to shine, Vines to bear grapes, Water to seek its level; man is the only being in Nature that has striven to set himself at odds with himself.
 >
->**Aleister Crowley**, *Book 4, Part III: Magick in Theory and Practice* (p. 241)
+>**Aleister Crowley**, *Book 4, Part III: Magick in Theory and Practice*, p. 241
 
 
 ## The Sephiroth (between the worlds)
@@ -332,7 +332,7 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
 2. Based on [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
 3. From the point of view of the third-eye, seeing and creating are one and the same.
-4. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition, p. 13)
+4. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition), p. 13
 5. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
 6. See First Law of Thermodynamics (Law of Energy Conservation) 
 7. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
