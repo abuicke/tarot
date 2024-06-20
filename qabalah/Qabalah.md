@@ -9,7 +9,7 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 **Fire/Atziluth** - Creating, Generating, Inseminating (Creation)  
 **Water/Briah** - Grasping, Understanding, Knowing (Intuition)  
 **Air/Yetzirah** - Dissecting, Examining, Categorizing (Mentation)  
-**Earth/Assiah** - Embodying, Being, Doing, (Crystallization)  
+**Earth/Assiah** - Embodying, Being, Doing (Crystallization)  
 
 
 ## Fire/Light/Yang 🔥
