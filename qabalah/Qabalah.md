@@ -21,7 +21,9 @@ The fundamental attributes of the Watery principle are coldness and contraction.
 
 
 ## Air 💨
->In its position as a mediator, the Airy principle has acquired from Fire the attribute of warmth and from Water the attribute of moisture - **Franz Bardon**, *Initiation Into Hermetics*
+>In its position as a mediator, the Airy principle has acquired from Fire the attribute of warmth and from Water the attribute of moisture
+>
+>**Franz Bardon**, *Initiation Into Hermetics*
 
 According to Bardon, this is a virtual element. It comes about only as the interaction between the real elements of Fire and Water.
 
