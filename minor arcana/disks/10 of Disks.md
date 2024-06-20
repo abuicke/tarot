@@ -1,7 +1,7 @@
 # 10 of Disks
 
 **Key Word:** Wealth<sup>1</sup>  
-**Song:** [Juicy by Biggie Smalls](https://www.youtube.com/watch?v=_JZom_gVfuw)  
+**Song:** [Juicy](https://www.youtube.com/watch?v=_JZom_gVfuw) by Biggie Smalls  
 **Hexagrams:** 
 
 
