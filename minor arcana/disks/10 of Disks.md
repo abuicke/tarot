@@ -32,6 +32,16 @@ Years later, the two friends meet again. The wealthy friend is surprised to see 
 >
 >**Pema Chödrön**, *When Things Fall Apart* (3rd Edition), p. 133
 
+>Compared to any other flower, a lily blooms fastest, you know? Within about an hour’s time, from an uninteresting bud, it becomes a spectacular flower. How many of you took time to sit there for an hour and watch it actually opening up?
+>
+>"No, watching a flower bloom? We got more important things to do. Because if we have time, we will go into our room and open the computer and watch a video, why will I sit and watch a goddamn flower blooming?"
+>
+>That is the reason why you don’t flower for a long time, because you do not know how to pay attention to the smallest detail of your life. If you do not know how to pay attention to this breath, what is there to watch? Then you're missing the whole point.
+>
+>So it is because of this that spiritual process seems to be sitting up there in the sky. It is not sitting up there in the sky; it is very earthy. It is something that every human being can do, but most never ever do.
+>
+>**Sadhguru**, [*3 basic qualities of existence*](https://www.youtube.com/watch?v=MsklzXQN27M)
+
 
 
 ### Footnotes
