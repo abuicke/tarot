@@ -10,4 +10,4 @@ Malkuth is the death of each suit, but in the 10 of Disks there is an opportunit
 
 ### Footnotes
 
-1. See Princess of Disks
+1. "This card is in fact a hieroglyph of the cycle of regeneration."
