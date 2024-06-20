@@ -13,7 +13,9 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 
 ## Fire/Light/Yang 🔥
->The fundamental attributes of the Fiery principle are heat and expansion - **Franz Bardon**, *Initiation Into Hermetics*
+>The fundamental attributes of the Fiery principle are heat and expansion
+>
+>**Franz Bardon**, *Initiation Into Hermetics*
 
 
 ## Water/Darkness/Yin 💧
