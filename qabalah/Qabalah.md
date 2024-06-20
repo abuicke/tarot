@@ -35,9 +35,9 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 
 ## The Three Gunas<sup>2</sup>
-**Tamas (Inertia)** - Earth, Durga, Kali, Satan; Power, Immortality (of the body), Strength;  
-**Rajas (Activity)** - Sun, Lakshmi, Lucifer; Wealth, Passion, Life  
-**Sattva (Dissolution)** - Moon, Saraswati, Christ; Knowledge, Knowing, Transcendence, Immortality (of the spirit)
+**Tamas (Inertia)** - Earth, Durga, Kali, Satan; Pillar of Severity (Boaz); Power, Immortality (of the body), Strength;  
+**Rajas (Activity)** - Sun, Lakshmi, Lucifer; Pillar of Mercy (Jachin); Wealth, Passion, Life  
+**Sattva (Dissolution)** - Moon, Saraswati, Christ; Pillar of Mildness (Consciousness); Knowing, Transcendence, Immortality (of the spirit)
 
 
 ## The Sephiroth
@@ -306,7 +306,7 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-2. From [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
+2. Based on [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
 3. From the point of view of the third-eye, seeing and creating are one and the same.
 4. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition, p. 13)
 5. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
