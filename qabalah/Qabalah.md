@@ -36,7 +36,7 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 ## The Three Gunas<sup>2</sup>
 
-####Tamas (Inertia)
+#### Tamas (Inertia)
 
 Earth  
 Durga, Kali  
@@ -45,7 +45,7 @@ Pillar of Severity (Boaz)
 The Fixed Signs  
 Power, Immortality (of the body), Strength
 
-####Rajas (Activity)
+#### Rajas (Activity)
 
 Sun  
 Lakshmi  
@@ -54,7 +54,7 @@ Pillar of Mercy (Jachin)
 The Cardinal Signs  
 Wealth, Passion, Life  
 
-####Sattva (Dissolution)
+#### Sattva (Dissolution)
 
 Moon  
 Saraswati  
