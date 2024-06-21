@@ -41,6 +41,8 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 Earth  
 Durga, Kali  
 Satan  
+The Queens of the Tarot
+Alchemical Salt
 Pillar of Severity (Boaz)  
 The Fixed Signs  
 Power, Immortality (of the body), Strength
@@ -50,6 +52,8 @@ Power, Immortality (of the body), Strength
 Sun  
 Lakshmi  
 Lucifer  
+The Knights of the Tarot
+Alchemical Sulphur
 Pillar of Mercy (Jachin)  
 The Cardinal Signs  
 Wealth, Passion, Life  
@@ -59,6 +63,8 @@ Wealth, Passion, Life
 Moon  
 Saraswati  
 Christ  
+The Princes of the Tarot
+Alchemical Mercury
 Pillar of Mildness (Consciousness)  
 The Mutable Signs  
 Knowing, Transcendence, Immortality (of the spirit)
@@ -83,8 +89,8 @@ It is important to note that the Sephiroth do not exist independently, one is bu
 ## The Sephiroth (of the macrocosm)
 
 Kether - Brahma  
-Chokmah - The Causal Plane, The Great Father, Shiva  
-Binah - The Causal Plane, The Great Mother, Shakti, Kali, Sacred Geometry  
+Chokmah - The Causal Plane, The Great Father, Shiva, Lingam  
+Binah - The Causal Plane, The Great Mother, Shakti, Kali, Sacred Geometry, Yoni  
 Chesed - Karma (as cause), Vishnu, Cosmic Order (upholding the good)  
 Geburah - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropic—arising from Chesed)  
 Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>4</sup>  
@@ -274,6 +280,10 @@ Netzach - Position (Coordinate)
 Hod - Magnitude  
 Yesod - Matrix  
 Malkuth - Square  
+
+>[In] Binah... is expressed the symbolism of Understanding. The idea has become fertilized; the triangle has been formulated. In each case, the idea is of a certain stability which can never be upset, but from which a child can issue.
+>
+>**Aleister Crowley**, *The Book of Thoth* (Weiser, 2009), p. 178
 
 
 ## The Sephiroth (of human knowledge and culture)
