@@ -13,6 +13,7 @@
 1) A broader perspective.
 2) Perceiving with a detached<sup>2</sup> awareness.
 3) A greater awareness of one's moods, attitudes, automatic reactions, unconscious habits, (negative) thought patterns and biases.
+4) Perceiving with a more balanced, objective, peaceful awareness—along with the ability to accept what is seen.
 
 
 
