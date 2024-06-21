@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) (Incessant) negative thoughts, paranoia, catastrophic thinking.
+1) (Incessant) negative thoughts, paranoia, catastrophic thinking, anxiety.
 
 
 
