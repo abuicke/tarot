@@ -44,5 +44,15 @@
 
 ## Court Cards in Order of the Zodiac
 
-
-
+- Queen of **Wands**   rules 20° ♓︎ to 20° ♈︎
+- Prince of **Disks**  rules 20° ♈︎ to 20° ♉︎
+- Knight of **Swords** rules 20° ♉︎ to 20° ♊︎
+- Queen of **Cups**    rules 20° ♊︎ to 20° ♋︎
+- Prince of **Wands**  rules 20° ♋︎ to 20° ♌︎
+- Knight of **Disks**  rules 20° ♌︎ to 20° ♍︎
+- Queen of **Swords**  rules 20° ♍︎ to 20° ♎︎
+- Prince of **Cups**   rules 20° ♎︎ to 20° ♏︎
+- Knight of **Wands**  rules 20° ♏︎ to 20° ♐︎
+- Queen of **Disks**   rules 20° ♐︎ to 20° ♑︎
+- Prince of **Swords** rules 20° ♑︎ to 20° ♒︎
+- Knight of **Cups**   rules 20° ♒︎ to 20° ♓︎
