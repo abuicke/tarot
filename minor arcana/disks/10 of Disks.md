@@ -30,7 +30,7 @@ Years later, the two friends meet again. The wealthy friend is surprised to see 
 >
 >So the story goes that Marpa made his final gift of gold to his teacher Naropa, but he kept a little back—just as we always do. And there was a reasonable explanation for this: he had to travel home, and he needed a little gold—just a little. But Naropa said, "Do you think you can buy me with your deception?" So Marpa gave him all of it. Naropa threw the gold up into the air and said, "The whole world is gold to me." At that point Marpa realized the nature of reality more vividly than ever before.
 >
->**Pema Chödrön**, *When Things Fall Apart* (3rd Edition), p. 133
+>**Pema Chödrön**, *When Things Fall Apart* (Shambala, 2000), p. 133
 
 >Compared to any other flower, a lily blooms fastest, you know? Within about an hour’s time, from an uninteresting bud, it becomes a spectacular flower. How many of you took time to sit there for an hour and watch it actually opening up?
 >

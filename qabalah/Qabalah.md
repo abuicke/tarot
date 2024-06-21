@@ -15,7 +15,7 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 ## Fire/Light/Yang 🔥
 >The fundamental attributes of the Fiery principle are heat and expansion
 >
->**Franz Bardon**, *Initiation Into Hermetics*
+>**Franz Bardon**, *Initiation Into Hermetics* (New Leaf, 2016), p. 27
 
 
 ## Water/Darkness/Yin 💧
@@ -23,9 +23,9 @@ The fundamental attributes of the Watery principle are coldness and contraction.
 
 
 ## Air 💨
->In its position as a mediator, the Airy principle has acquired from Fire the attribute of warmth and from Water the attribute of moisture
+>In its position as a mediator, the Airy principle has acquired from Fire the attribute of warmth and from Water the attribute of moisture.
 >
->**Franz Bardon**, *Initiation Into Hermetics*
+>**Franz Bardon**, *Initiation Into Hermetics* (New Leaf, 2016), p. 29
 
 According to Bardon, this is a virtual element. It comes about only as the interaction between the real elements of Fire and Water.
 
@@ -119,11 +119,11 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 
 >This much I do know—that there is a power or a first cause, or an Intelligence which permeates every atom of matter, and embraces every unit of energy perceptible to man; that this Infinite Intelligence converts acorns into oak trees, causes water to flow downhill in response to the law of gravity, follows night with day, and winter with summer, each maintaining its proper place and relationship to the other. This Intelligence may aid in transmuting one's desires into concrete or material form. I have this knowledge because I have experimented with it and have experienced it.
 >
->**Napoleon Hill**, *Outwitting The Devil*, pp. 48-49
+>**Napoleon Hill**, *Outwitting The Devil* (Sound Wisdom, 2020), pp. 48-49
 
 >“Do what thou wilt…” is to bid Stars to shine, Vines to bear grapes, Water to seek its level; man is the only being in Nature that has striven to set himself at odds with himself.
 >
->**Aleister Crowley**, *Book 4, Part III: Magick in Theory and Practice*, p. 241
+>**Aleister Crowley**, *Magick in Theory and Practice* (Celephaïs Press, 2019), p. 241
 
 
 ## The Sephiroth (between the worlds)

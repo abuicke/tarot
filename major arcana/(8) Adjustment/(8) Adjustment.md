@@ -30,7 +30,7 @@
 
 >example quote for sighting an edition of a book
 >
->**Israel Regardie**, *A Garden Pomegranates* (3rd Edition), p. xxv
+>**Israel Regardie**, *A Garden Pomegranates* (Llewellyn, 1995), p. xxv
 
 >example bible quote
 >
