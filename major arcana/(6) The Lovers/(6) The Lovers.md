@@ -1,7 +1,7 @@
 # (VI) The Lovers
 
 **Key Word:** Choices  
-**Song:** [Empty Cans by The Streets](https://www.youtube.com/watch?v=z2i0Nw3NDBU)  
+**Song:** [Empty Cans](https://www.youtube.com/watch?v=z2i0Nw3NDBU) by The Streets  
 **Hexagrams:** 31, Hsien/Influence (Wooing)
 
 
