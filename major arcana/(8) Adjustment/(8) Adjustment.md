@@ -1,7 +1,7 @@
 # (VIII) Adjustment
 
 **Key Word:** Truth  
-**Song:** [song example](https://www.youtube.com/watch?v=_JZom_gVfuw) by artist  
+**Song:**   
 **Hexagrams:** 42. Yi (Increase/Augment), 61. Chung Fu (Inner Truth)
 
 
