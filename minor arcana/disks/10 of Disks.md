@@ -1,6 +1,6 @@
 # 10 of Disks
 
-**Key Word:** Wealth<sup>1</sup>  
+**Key Word:** Wealth<sup>1, 2</sup>  
 **Song:** [Juicy by Biggie Smalls](https://www.youtube.com/watch?v=_JZom_gVfuw)  
 **Hexagrams:** 
 
@@ -47,15 +47,6 @@ Years later, the two friends meet again. The wealthy friend is surprised to see 
 ### Footnotes
 
 1. [*Wealth*](https://www.youtube.com/watch?v=bZWeFtgEAEk) by Chris Rock
-
-The Ten of Disks is called Wealth. Here again is written this constantly
-recurring doctrine, that as soon as one gets to the bottom one finds oneself at
-the top; and Wealth is given to Mercury in Virgo. When wealth accumulates
-beyond a certain point, it must either become completely inert and cease to be
-wealth, or call in the aid of intelligence to use it rightly. This must necessarily
-happen i~ spheres which have nothing whatever to do with material
-possessions, as such. In this way, Carnegie establishes a Library, Rockefeller
-endows Research, simply because there is nothing else to do.
-But all this doctrine lies behind the card; it is the inner meaning of the card.
+2. "The Ten of Disks is called Wealth. Here again is written this constantly recurring doctrine, that as soon as one gets to the bottom one finds oneself at the top; and Wealth is given to Mercury in Virgo. When wealth accumulates beyond a certain point, it must either become completely inert and cease to be wealth, or call in the aid of intelligence to use it rightly. This must necessarily happen in spheres which have nothing whatever to do with material possessions, as such. In this way, Carnegie establishes a Library, Rockefeller endows Research, simply because there is nothing else to do. But all this doctrine lies behind the card; it is the inner meaning of the card." - **Aleister Crowley**, *The Book of Thoth* (Weiser, 2008), p. 188
 
 
