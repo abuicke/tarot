@@ -4,24 +4,24 @@ The Celtic Cross is a well known ten card tarot spread popularized by A. E. Wait
 
 - There are three cards related directly to the situation at hand
 
-	- **1** the situation as it currently stands
-	- **2** the challenge
-	- **10** the final outcome
+	- **1**: the situation as it currently stands
+	- **2**: the challenge
+	- **10**: the final outcome
 
 - Two cards related to time
 
-	- **5** the past
-	- **6** the immediate future
+	- **5**: the past
+	- **6**: the immediate future
 	
 - Two cards related to perception (the feminine aspect of the reading)
 
-	- **3** your conscious perception of the situation, the lens through which you're interpreting events; or, what you are consciously focused on
-	- **4** your unconscious perception of the situation, what you don't realise is on your mind, influencing how you're interpreting you're experience
+	- **3**: your conscious perception of the situation, the lens through which you're interpreting events; or, what you are consciously focused on
+	- **4**: your unconscious perception of the situation, what you don't realise is on your mind, influencing how you're interpreting you're experience
 
 - Two cards related to influence (the masculine aspect of the reading)
 
-	- **7** your influence, how you are affecting the situation
-	- **8** external influences, how the situation is being influenced outside of your control
+	- **7**: your influence, how you are affecting the situation
+	- **8**: external influences, how the situation is being influenced outside of your control
 
 - and one card, **9**, which is your hopes and fears. The direction you hope you are going in, or fear you might be heading towards.
 
