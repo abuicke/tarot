@@ -1,6 +1,6 @@
 # The Celtic Cross
 
-The Celtic Cross is a well known ten card tarot spread popularized by A. E. Waite in his *Pictorial Key to the Tarot* from which later writers have drawn extensively<sup>1</sup> and composed of a ten-card layout (with an additional eleventh card which I have added).
+The Celtic Cross is a well known ten card tarot spread popularized by A. E. Waite in his *Pictorial Key to the Tarot* from which later writers have drawn extensively<sup>1</sup>. I have added an eleventh card to this spread, as can be seen below.
 
 - There are three cards related to the situation itself
 
