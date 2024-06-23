@@ -2,7 +2,7 @@
 
 The Celtic Cross is a well known ten card tarot spread popularized by A. E. Waite in his *Pictorial Key to the Tarot*<sup>1</sup>.
 
-- There are three cards related directly to the situation the querent is interested in
+- There are three cards related directly to the situation being asked about
 
 	- **1** the situation as it currently stands
 	- **2** the challenge
@@ -13,17 +13,17 @@ The Celtic Cross is a well known ten card tarot spread popularized by A. E. Wait
 	- **5** the past
 	- **6** the immediate future
 	
-- Two cards related to the querent's perceptions (the feminine aspect of the reading)
+- Two cards related to perception (the feminine aspect of the reading)
 
-	- **3** their conscious perception of the situation, the lens through which they're interpreting events; or what the querent is consciously focused on
-	- **4** their unconscious perception of the situation, what they don't realise is on their mind, influencing what they're seeing; what the querent doesn't realise they're focused on, but is nonetheless drawing their attention and affecting their perspective without them realising
+	- **3** your conscious perception of the situation, the lens through which you're interpreting events; or, what you are consciously focused on
+	- **4** your unconscious perception of the situation, what you don't realise is on your mind, influencing how you're interpreting you're experience
 
-- Two cards related to influence, how the situation is being affected by the querent and by outside circumstance (the masculine aspect of the reading)
+- Two cards related to influence (the masculine aspect of the reading)
 
-	- **7** the querent's influence, how they are affecting the situation
-	- **8** external influences, how the situation is being influenced outside of the querent's control
+	- **7** your influence, how you are affecting the situation
+	- **8** external influences, how the situation is being influenced outside of your control
 
-and finally **9**, which is the querent's hopes and fears. The direction the querent hopes they are going in, or fear they might be heading towards.
+and finally **9**, which is your hopes and fears. The direction you hope you are going in, or fear you might be heading towards.
 
 
 
@@ -33,6 +33,8 @@ and finally **9**, which is the querent's hopes and fears. The direction the que
 
 #### When placing this card down say *This covers me*
 
+The current state of the situation the querent is asking about.
+
 You don't necessarily feel the situation; it's the circumstances that everything else is arising from or happening around and shouldn't implicitly be considered as some future incident that is going to take place. It may be a pre-existing situation that's now having a significant influence, or bears importance to the question being asked.
 
 
@@ -41,13 +43,15 @@ You don't necessarily feel the situation; it's the circumstances that everything
 
 #### When placing this card down say *This crosses me*
 
+The change or friction the querent will experience in relation to the situation developing.
+
 
 
 ### 3 - The Conscious Mind/Attitude
 
 #### When placing this card down say *This crowns me*
 
-This card can represent your mindset, how you're looking at the world; but it can also be what you're mind is focused on. For example, a person could receive 8 of Swords in this position, which may indicate they're perceptions will be scattered and overwhelming, or it may indicate they are reflecting on a challenge which will have these qualities. Thinking *about* an 8 of Swords type situation as opposed to adopting it as your perspective. 
+The querent's mindset, how you're looking at the world; but it can also be what you're mind is focused on. For example, a person could receive 8 of Swords in this position, which may indicate they're perceptions will be scattered and overwhelming, or it may indicate they are reflecting on a challenge which will have these qualities. Thinking *about* an 8 of Swords type situation as opposed to adopting it as your perspective. 
 
 
 
