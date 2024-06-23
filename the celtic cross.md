@@ -1,6 +1,6 @@
 # The Celtic Cross
 
-The Celtic Cross is a well known Tarot spread first devised by The Hermetic Order of the Golden Dawn<sup>FIND EDITION AND PAGE WITH INSTRUCTIONS IN THE BLACK BRICK</sup> and composed of a ten-card layout (with an additional eleventh card which I have added).
+The Celtic Cross is a well known ten card tarot spread popularized by A. E. Waite in his *Pictorial Key to the Tarot* from which later writers have drawn extensively<sup>1</sup> and composed of a ten-card layout (with an additional eleventh card which I have added).
 
 - There are three cards related to the situation itself
 
@@ -15,8 +15,8 @@ The Celtic Cross is a well known Tarot spread first devised by The Hermetic Orde
 	
 - Two cards related to the querent's perceptions (the feminine aspect of the reading)
 
-	- **3** their conscious perception of the situation, the lens through which they're interpreting events
-	- **4** their unconscious perception of the situation, what they don't realise is on their mind, influencing what they're seeing
+	- **3** their conscious perception of the situation, the lens through which they're interpreting events; or what the querent is consciously focused on
+	- **4** their unconscious perception of the situation, what they don't realise is on their mind, influencing what they're seeing; what the querent doesn't realise they're focused on, but is nonetheless drawing their attention and affecting their perspective without them realising
 
 - Two cards related to influence, how the situation is being affected by the querent and by outside circumstance (the masculine aspect of the reading)
 
@@ -98,5 +98,11 @@ This is the theme of the whole reading. When a card appears in the reverse in th
 ## Reading for a period of time
 
 The elements of the cross aren't necessarily related causally when reading for a period of time, even though there may be a more subtle, indirect link. For example, the situation, the challenge and the immediate future may all be describing different independent events going on in the same time frame.
+
+
+
+### Footnotes
+
+1. *Complete Golden Dawn System of Magic*, Volume Two: The Importance of Divination (New Falcon, 1995), p. 2
 
 
