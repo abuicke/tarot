@@ -85,6 +85,10 @@ Malkuth - **Acting**, Doing
 
 It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the qualities a sephirah has inherited from each of its parents, which it will express in its own way.
 
+>Yesod...brings the Energy back into balance. [It] represents always the fullest development of the Force in its relation with the Forces above it. The Nine may be considered as the best that can be obtained from the type involved, regarded from a practical and material standpoint.
+>
+>**Aleister Crowley**, *The Book of Thoth* (Weiser, 2009), pp. 193 - 194
+
 
 ## The Sephiroth (of the macrocosm)
 
