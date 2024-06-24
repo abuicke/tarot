@@ -42,8 +42,8 @@ Years later, the two friends meet again. The wealthy friend is surprised to see 
 >
 >**Sadhguru**, [*3 basic qualities of existence*](https://www.youtube.com/watch?v=MsklzXQN27M)
 
-><sup>**19**</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
-><sup>**20**</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+><sup>**19**</sup> Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:  
+><sup>**20**</sup> But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:  
 ><sup>**21**</sup> For where your treasure is, there will your heart be also.
 >
 >*Matthew 6:19-21 (KJV)*
