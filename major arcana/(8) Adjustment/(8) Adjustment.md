@@ -32,9 +32,15 @@
 >
 >**Israel Regardie**, *A Garden Pomegranates* (Llewellyn, 1995), p. xxv
 
->example bible quote
+><sup>**19**</sup> multiverse
+><sup>**20**</sup> bible
+><sup>**21**</sup> quote
 >
->*John 8:12*
+>Matthew 6:19-21 (KJV)
+
+>single verse bible quote
+>
+>*John 8:12 (KJV)*
 
 
 
