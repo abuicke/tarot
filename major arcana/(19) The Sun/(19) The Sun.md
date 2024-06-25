@@ -18,6 +18,7 @@
 ### Reversed
 
 1) Dissociation
+2) Depression
 2) An unhappy turn of events (what seemed promising is now not going as hoped)
 
 
@@ -48,6 +49,6 @@
 
 ### Footnotes
 
-1.
+1. 
 
 
