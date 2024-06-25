@@ -60,3 +60,5 @@
 
 1. "Force meets Form, especially the influx of unbounded Vital Force into mental structures, either to invigorate or shatter them." - *Liber Theta* (College of Thelema, 2012), p. 29
 2. I have so far not found this to be true.
+
+
