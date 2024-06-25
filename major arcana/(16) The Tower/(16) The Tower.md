@@ -8,7 +8,9 @@
 ### Upright
 
 1) The current situation is torn down, destroyed.
-2) 
+2) Allowing your true feelings about a situation to overwhelm and destroy your mental conception of it. This is assuming your mental conception is somehow not aligned with the reality.<sup>1</sup>
+3) Grief, the grieving process
+
 
 
 ### Reversed
@@ -18,7 +20,7 @@
 
 ### Extra
 
->As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)<sup>1</sup>
+>As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)<sup>2</sup>
 >
 >**Gerd Ziegler**, *Mirror of the Soul*
 
@@ -54,4 +56,5 @@
 
 ### Footnotes
 
-1. I have so far not found this to be true.
+1. "Force meets Form, especially the influx of unbounded Vital Force into mental structures, either to invigorate or shatter them." - *Liber Theta* (College of Thelema, 2012), p. 29
+2. I have so far not found this to be true.
