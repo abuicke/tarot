@@ -10,14 +10,14 @@
 
 1) **Guided from within** - not being cast about by external circumstances. Think of a perfectly balanced gyroscope ([Bender carrying nitroglycerin soufflé](https://www.youtube.com/watch?v=7ztF8lqZjHI)).
 2) **Regaining your centre**, regaining a sense of stability and self-ownership.
-3) **Seeing that your reactions come from inside of you**, they are not forced on you by the outside world.<sup>1,2</sup>
+3) Seeing that your reactions come from inside of you, they are not forced on you by the outside world.<sup>1,2</sup>
 
 
 
 ### Reversed
 
-1) **Off balance**, not your normal self.
-2) **Focusing on external control** instead of internal equanimity
+1) Off balance, not your normal self.
+2) Focusing on external control instead of internal equanimity.
 3) **Loss of centre**, disorientation due to loss of one's fundamental guiding principal.
 
 
