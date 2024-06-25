@@ -44,5 +44,6 @@
 2. "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." - **Marcus Aurelius**, *Meditations* (Book 8, Chapter 47)
 3. See the old name of the this card—*Justice*.
 4. [*Example footnote of how to reference a video in footnotes*](https://www.youtube.com/watch?v=fj2uWxn_8SQ) by Satya Ji
+5. "quoting Liber Theta" - *Liber Theta* (College of Thelema, 2012), p. 29
 
 
