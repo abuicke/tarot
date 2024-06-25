@@ -5,17 +5,19 @@
 **Hexagrams:** 51, Chen/The Arousing (Shock, Thunder)
 
 
+
 ### Upright
 
 1) The current situation is torn down, destroyed.
-2) Allowing your true feelings about a situation to overwhelm and destroy your mental conception of it. This is assuming your mental conception is somehow not aligned with the reality.<sup>1</sup>
-3) Grief, the grieving process
+2) Allowing your true feelings about a situation to overwhelm and destroy your mental conception of it. This is assuming your mental conception is somehow not aligned with the reality<sup>1</sup>.
+3) Grief, the grieving process.
 
 
 
 ### Reversed
 
 1) 
+
 
 
 ### Extra
