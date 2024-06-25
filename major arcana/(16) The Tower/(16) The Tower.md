@@ -24,15 +24,15 @@
 
 >He goes, "Right, right" He goes "Tom?"
 >
->I go, "Yeah?".
+>I go, "Yeah?"
 >
->He goes "Did you ah... did you... do you remember the floods?"
+>He goes, "Did you ah... did you... do you remember the floods?"
 >
->I went "Whu... wha... what? In Oxford?"
+>I went, "Whu... wha... what? In Oxford?"
 >
 >"Yeah, the floods. Do you remember the floods?"
 >
->I was like "Ye... yeah".
+>I was like, "Ye... yeah".
 >
 >"Do you remember that boy who got his foot stuck in the grate, and the river kept rising, and it kept rising, and it kept rising, and eventually they tried to get him out, but he drowned?"
 >
