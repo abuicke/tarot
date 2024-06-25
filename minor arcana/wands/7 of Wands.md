@@ -15,6 +15,7 @@
 ### Reversed
 
 1) Accepting defeat
+2) Hopelessness, feeling beaten down, discouraged, frustrated.
 
 
 
