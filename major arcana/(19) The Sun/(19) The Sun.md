@@ -17,8 +17,7 @@
 
 ### Reversed
 
-1) Dissociation
-2) Depression
+1) Dissociation, depression, listlessness, low-energy.
 2) An unhappy turn of events (what seemed promising is now not going as hoped)
 
 
