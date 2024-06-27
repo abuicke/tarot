@@ -1,12 +1,14 @@
-# (0) The Fool
+# (0) The Fool 
 
-#### Key Word:
+**Key Word:** Potential  
+**Song:**   
+**Hexagrams:** 
 
 
 
 ### Upright
 
-1) 
+1) A feeling that progress is finally possible. There is a path forward to manifest one's potential.
 
 
 
@@ -17,4 +19,13 @@
 
 
 ### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
