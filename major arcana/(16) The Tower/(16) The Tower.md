@@ -9,7 +9,7 @@
 ### Upright
 
 1) The current situation is torn down, destroyed.
-2) Allowing your true feelings about a situation to overwhelm and destroy your mental conception of it. This is assuming your mental conception is somehow not aligned with the reality<sup>1,2</sup>.
+2) Allowing your true feelings about a situation to overwhelm and destroy your mental conceptions of it. This is assuming your mental conceptions are somehow not aligned with the reality<sup>1,2</sup>.
 3) Grief, the grieving process.
 
 
@@ -21,10 +21,6 @@
 
 
 ### Extra
-
->As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)<sup>3</sup>
->
->**Gerd Ziegler**, *Mirror of the Soul*
 
 >He goes, "Right, right" He goes "Tom?"
 >
@@ -42,7 +38,7 @@
 >
 >"Yeah...?"
 >
->He goes "Well that wouldn't have happened to me."
+>He goes, "Well, that wouldn't have happened to me."
 >
 >"Ri...right..."
 >
@@ -59,7 +55,6 @@
 ### Footnotes
 
 1. "Force meets Form, especially the influx of unbounded Vital Force into mental structures, either to invigorate or shatter them." - *Liber Theta* (College of Thelema, 2012), p. 29
-2. This is the process of integration. By feeling and *understanding* painful emotions, they are processed and become part of us (*wisdom*), no longer exerting influence over us subconsciously. This is why in the sequence of the Tarot the chaotic tumult of The Tower is followed by the beautiful, peaceful serenity of The Star (Chokmah). Imagine are harrowing battle giving way to a peaceful night sky.
-3. I have so far not found this to be true.
+2. This is the process of integration. By feeling and *understanding* painful emotions, they are processed and become part of us (*wisdom*), no longer exerting influence over us subconsciously. This is why, in the sequence of the Tarot, the chaotic tumult of The Tower is followed by the beautiful, peaceful serenity of The Star (Chokmah). Imagine a harrowing battle giving way to a peaceful night sky.
 
 
