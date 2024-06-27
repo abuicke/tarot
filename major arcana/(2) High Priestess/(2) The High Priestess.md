@@ -6,7 +6,7 @@
 
 ### Upright
 
-1) The clear, quiet invoice inside a person which tells them with absolute surity exactly what to do, what will happen, or what has happened.
+1) The clear, quiet invoice inside a person which tells them with absolute surety exactly what to do, what will happen, or what has happened.
 
 
 
