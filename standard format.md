@@ -28,6 +28,14 @@
 >
 >**Sadhguru**, [*5 Mystical Spaces of Agastya, The Great Indian Sage*](https://www.youtube.com/watch?v=wv-aai4rw5I&t=411s)
 
+>example quote for sighting an edition of a book
+>
+>**Israel Regardie**, *A Garden Pomegranates* (Llewellyn, 1995), p. xxv
+
+>single verse bible quote
+>
+>*John 8:12 (KJV)*
+
 
 
 ### Footnotes
@@ -35,5 +43,8 @@
 1. "You have power over your mind - not outside events. Realize this, and you will find strength." - **Marcus Aurelius**, *Meditations* (Book 6, Chapter 8)
 2. "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." - **Marcus Aurelius**, *Meditations* (Book 8, Chapter 47)
 3. See the old name of the this card—*Justice*.
+4. [*Example footnote of how to reference a video in footnotes*](https://www.youtube.com/watch?v=fj2uWxn_8SQ) by Satya Ji
+5. "quoting Liber Theta" - *Liber Theta* (College of Thelema, 2012), p. 29
+6. See *how to reference a book when it's not quoted* by Dr Julia Seton
 
 
