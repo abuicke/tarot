@@ -1,7 +1,7 @@
 # 9 of Cups
 
 **Key Word:** Optimism  
-**Song:** [Fast Car by Tracey Chapman](https://www.youtube.com/watch?v=AIOAlaACuv4)  
+**Song:**   
 **Hexagrams:** 
 
 
@@ -14,9 +14,7 @@
 
 ### Reversed
 
-1) An **unhappy situation**. 
-
-Since this card is a nine, and therefore represents Yesod in its suit (a matrix), it gives me the feeling it's a situation that cannot be rectified without breaking it apart.<sup>1</sup>
+1) An **unhappy situation**. Since this card is a nine, and therefore represents Yesod in its suit (a matrix), it gives me the feeling it's a situation that cannot be rectified without breaking it apart.<sup>1</sup>
 
 
 
