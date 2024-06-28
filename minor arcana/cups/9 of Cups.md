@@ -18,6 +18,10 @@
 
 Since this card is a nine, and therefore represents Yesod in its suit (a matrix), it gives me the feeling it's a situation that cannot be rectified without breaking it apart.<sup>1</sup>
 
+2) testing
+3) formatting
+4) on github
+
 
 
 ### Extra
