@@ -1,7 +1,8 @@
 # 3 of Disks
 
 **Key Word:**   
-**Song:** [Fast Car by Tracey Chapman](https://www.youtube.com/watch?v=AIOAlaACuv4)
+**Song:**   
+**Hexagrams:** 
 
 
 

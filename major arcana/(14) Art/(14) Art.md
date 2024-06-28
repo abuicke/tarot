@@ -1,7 +1,7 @@
 # (XIV) Art
 
 **Key Word:** Iteration  
-**Song:** [Fast Car by Tracy Chapman](https://www.youtube.com/watch?v=AIOAlaACuv4)  
+**Song:**   
 **Hexagrams:** 28. Ta Kuo/Preponderance of the Great
 
 
