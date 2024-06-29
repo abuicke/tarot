@@ -1,6 +1,9 @@
-# (XX) The Aeon 
+# (XX) The Aeon
 
-#### Key Word:
+**Key Word:** Transition  
+**Song:**   
+**Hexagrams:** 
+
 
 
 ### Upright
@@ -8,10 +11,21 @@
 1) 
 
 
+
 ### Reversed
 
-1) 
+1) An expected change/transition has not happened.
 
 
-### Extra
+
+### Extra﻿
+
+
+
+
+
+### Footnotes
+
+1. 
+
 
