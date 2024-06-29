@@ -18,6 +18,7 @@
 
 1) Depression. Lack of feeling. Feelings of disconnection and disharmony with others.
 2) Experiencing anxiety and fear when trying to relate to others emotionally.
+3) Feeling disconnected, not in sync.
 
 
 
