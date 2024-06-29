@@ -9,6 +9,8 @@
 
 ### Upright
 
+This card represents physical vitality, the *living* quality of nature. It is the flourishing and growth of the natural world all around us (as a result of the one Will<sup>1,2</sup> which underlies it). The fundamental energy of nature is *life*, and that is what this card represents.
+
 1) 
 
 
@@ -33,6 +35,7 @@
 
 ### Footnotes
 
-1. 
+1. Chokmah, which the Knight represents.
+2. "The King is one with the land. Each thing that is, is right; for it is a consequence of an omnipotent and divine Will." - *Liber Theta* (College of Thelema, 2012), p. 76
 
 
