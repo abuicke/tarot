@@ -1,6 +1,6 @@
 # Knight of Disks
 
-**Key Word:** Nutrition  
+**Key Word:** Vitality  
 **Rules:** 20° ♌︎ to 20° ♍︎  
 **Planetary:** [Mars], Sun, Venus  
 **Nature:** [Power], Defeat and Success  
