@@ -6,10 +6,10 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 ## The Elements & The Four Worlds
 
-**Fire/Atziluth** - Creating, Generating, Inseminating (Creation)  
-**Water/Briah** - Grasping, Understanding, Knowing (Intuition)  
-**Air/Yetzirah** - Dissecting, Examining, Categorizing (Mentation)  
-**Earth/Assiah** - Embodying, Being, Doing (Crystallization)  
+**Fire/Atziluth/Spiritual** - Creating, Generating, Inseminating (Creation)  
+**Water/Briah/Moral** - Grasping, Understanding, Knowing (Intuition)  
+**Air/Yetzirah/Intellectual** - Dissecting, Examining, Categorizing (Mentation)  
+**Earth/Assiah/Actual** - Embodying, Being, Doing (Crystallization)  
 
 
 ## Fire/Light/Yang 🔥
