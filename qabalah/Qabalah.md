@@ -203,11 +203,11 @@ Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, S
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**
 
-### Qlipoth (of the human experience)
+#### Qlipoth (of the human experience)
 
-Kether -   
-Chokmah -   
-Binah -   
+Kether - Megalomania  
+Chokmah - Schizophrenia  
+Binah - Bipolar  
 Chesed - Mania  
 Geburah - Cruelty  
 Tiphareth - Fanaticism (Ideological Possession)  
@@ -216,7 +216,7 @@ Hod - Narcissism
 Yesod - Hedonism  
 Malkuth - Suicide
 
-It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced at different levels, such as in emotion (Netzach), thought (Hod) or instinctual drives (Yesod); but they exist as independent principles.
+It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced spiritually, intellectually, emotionally or physically; but they exist as independent principles.
 
 The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is electrically charged, feeling an overwhelming draw towards the object of their attraction (sexual attraction being the most powerful, and the quintessence of this sphere). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction. This etheric/electric body is also how trauma is "stored in the body", impressions left by past experiences which have the ability to replay as painful aversions at any moment.
 
