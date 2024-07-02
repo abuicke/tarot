@@ -11,7 +11,7 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
     - [Water/Darkness/Yin 💧](#waterdarknessyin-)
     - [Air 💨](#air-)
     - [Earth 🌱](#earth-)
-6. [The Three Gunas](#the-three-gunas)
+6. [The Three Gunas](#the-three-gunas2)
     - [Tamas (Inertia)](#tamas-inertia)
     - [Rajas (Activity)](#rajas-activity)
     - [Sattva (Dissolution)](#sattva-dissolution)
@@ -66,7 +66,7 @@ According to Bardon, this is a virtual element. It comes about only as the inter
 The Earth element adopts the remaining two qualities of Fire and Water not taken up by Air, being dryness and coolness. Like Air, it is also a virtual element, but one which itself houses all the other elements within its form.<sup>1</sup> It is created out of the interaction between Fire, Water and Air; and through it's consolidating action brings them into the world of physical matter. It is therefore responsible for the existence of the elements on the material plane as the earth, air, water and fire of everyday life.
 
 
-## The Three Gunas <sup>2</sup>
+## The Three Gunas<sup>2</sup>
 
 #### Tamas (Inertia)
 
@@ -376,7 +376,7 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 
 ## Footnotes
 1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-2. Based on [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
+2. See: [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
 3. From the point of view of the third-eye, seeing and creating are one and the same.
 4. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition), p. 13
 5. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
