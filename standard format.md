@@ -45,6 +45,6 @@
 3. See the old name of the this card—*Justice*.
 4. [*Example footnote of how to reference a video in footnotes*](https://www.youtube.com/watch?v=fj2uWxn_8SQ) by Satya Ji
 5. "quoting Liber Theta" - *Liber Theta* (College of Thelema, 2012), p. 29
-6. See *how to reference a book when it's not quoted* by Dr Julia Seton
+6. See *How to Reference a Book* by Dr Julia Seton
 
 

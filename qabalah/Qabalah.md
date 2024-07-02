@@ -217,7 +217,7 @@ Malkuth - Suicide
 
 It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced spiritually, intellectually, emotionally or physically; but they exist as independent principles.
 
-The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
+The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences<sup>8</sup> which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
 
 
 ## The Sephiroth (of the human psyche)
@@ -261,7 +261,7 @@ Yesod - Swadhisthana
 Malkuth - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>8</sup>
+## The Sephiroth (of the five koshas)<sup>9</sup>
 
 Kether - Atman  
 Chokmah - Anandamaya Kosha (as wisdom)  
@@ -292,7 +292,7 @@ Malkuth - Feet, Bones, Skin
 ## The Sephiroth (of society)
 
 Kether - God (The Church)  
-Chokmah - Eternity<sup>9</sup>, Divine Mandate  
+Chokmah - Eternity<sup>10</sup>, Divine Mandate  
 Binah - Art & Culture  
 Chesed - Law and Order  
 Geburah - Conquest, Military, Imperialism  
@@ -368,7 +368,7 @@ Call to mind the image of pure invisible "white" light coming apart into the col
 ### The Abyss and the Triads
 
 **The Supernal Triad and the Moral Triad**  
-Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>10</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>11</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/plain%20english%20qabalah.png" alt="Plain English Tree if Life" width="90%"/>
 
@@ -381,8 +381,9 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 5. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
 6. See First Law of Thermodynamics (Law of Energy Conservation) 
 7. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
-8. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
-9. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-10. See *Liber 777*, row 6, column 187, second formula.
+8. See *The Body Keeps the Score* by Bessel Van Der Kolk
+9. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+10. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+11. See *Liber 777*, row 6, column 187, second formula.
 
 
