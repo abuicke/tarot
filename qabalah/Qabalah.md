@@ -66,7 +66,7 @@ According to Bardon, this is a virtual element. It comes about only as the inter
 The Earth element adopts the remaining two qualities of Fire and Water not taken up by Air, being dryness and coolness. Like Air, it is also a virtual element, but one which itself houses all the other elements within its form.<sup>1</sup> It is created out of the interaction between Fire, Water and Air; and through it's consolidating action brings them into the world of physical matter. It is therefore responsible for the existence of the elements on the material plane as the earth, air, water and fire of everyday life.
 
 
-## The Three Gunas<sup>2</sup>
+## The Three Gunas <sup>2</sup>
 
 #### Tamas (Inertia)
 
