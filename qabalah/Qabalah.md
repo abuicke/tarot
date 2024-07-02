@@ -21,7 +21,6 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
     - [The Sephiroth (between the worlds)](#the-sephiroth-between-the-worlds)
     - [The Sephiroth (of the human being)](#the-sephiroth-of-the-human-being)
     - [The Sephiroth (of the human experience)](#the-sephiroth-of-the-human-experience)
-    - [Qlipoth (of the human experience)](#qlipoth-of-the-human-experience)
     - [The Sephiroth (of the human psyche)](#the-sephiroth-of-the-human-psyche)
     - [The Sephiroth (of love)](#the-sephiroth-of-love)
     - [The Sephiroth (of the chakra system)](#the-sephiroth-of-the-chakra-system)
@@ -218,7 +217,7 @@ Malkuth - Suicide
 
 It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced spiritually, intellectually, emotionally or physically; but they exist as independent principles.
 
-The qualities attributed to Yesod of the human experience have the nature of a strong, magnetic attraction. Drives, impulses and compulsions feel as though a person is electrically charged, feeling an overwhelming draw towards the object of their attraction (sexual attraction being the most powerful, and the quintessence of this sphere). This can also manifest as the opposite, a powerful revulsion and aversion to whatever is not desired. The samskaras are then the retained impressions of these experiences. It is not surprising then that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs and sexual attraction. It is therefore also not surprising that if one pays attention to the feelings of sexual arousal, it has a distinct electrical/magnetic sensation, as though the person has become "charged up" and is drawn to the object of their desire almost by a physical force of magnetic attraction. This etheric/electric body is also how trauma is "stored in the body", impressions left by past experiences which have the ability to replay as painful aversions at any moment.
+The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences which continue to exert their influence on a person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
 
 
 ## The Sephiroth (of the human psyche)
