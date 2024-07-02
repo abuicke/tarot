@@ -4,6 +4,38 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/tree%20of%20life.png" alt="Tree of Life" width="50%"/>
 
+## Table of Contents
+
+1. [The Elements & The Four Worlds](#the-elements--the-four-worlds)
+    - [Fire/Light/Yang 🔥](#firelightyang-)
+    - [Water/Darkness/Yin 💧](#waterdarknessyin-)
+    - [Air 💨](#air-)
+    - [Earth 🌱](#earth-)
+6. [The Three Gunas](#the-three-gunas)
+    - [Tamas (Inertia)](#tamas-inertia)
+    - [Rajas (Activity)](#rajas-activity)
+    - [Sattva (Dissolution)](#sattva-dissolution)
+7. [The Sephiroth](#the-sephiroth)
+8. [The Sephiroth (of the macrocosm)](#the-sephiroth-of-the-macrocosm)
+9. [The Sephiroth (of manifestation)](#the-sephiroth-of-manifestation)
+10. [The Sephiroth (between the worlds)](#the-sephiroth-between-the-worlds)
+11. [The Sephiroth (of the human being)](#the-sephiroth-of-the-human-being)
+12. [The Sephiroth (of the human experience)](#the-sephiroth-of-the-human-experience)
+    - [Qlipoth (of the human experience)](#qlipoth-of-the-human-experience)
+13. [The Sephiroth (of the human psyche)](#the-sephiroth-of-the-human-psyche)
+14. [The Sephiroth (of love)](#the-sephiroth-of-love)
+15. [The Sephiroth (of the chakra system)](#the-sephiroth-of-the-chakra-system)
+16. [The Sephiroth (of the five koshas)](#the-sephiroth-of-the-five-koshas)
+17. [The Sephiroth (of the physical body)](#the-sephiroth-of-the-physical-body)
+18. [The Sephiroth (of society)](#the-sephiroth-of-society)
+19. [The Sephiroth (of geometry)](#the-sephiroth-of-geometry)
+20. [The Sephiroth (of human knowledge and culture)](#the-sephiroth-of-human-knowledge-and-culture)
+21. [The Cards](#the-cards)
+22. [The Plain English Qabalah](#the-plain-english-qabalah)
+    - [The Plain English Paths](#the-plain-english-paths)
+23. [The Abyss and the Triads](#the-abyss-and-the-triads)
+24. [Footnotes](#footnotes)
+
 ## The Elements & The Four Worlds
 
 **Fire/Atziluth/Spiritual** - Creating, Generating, Inseminating (Creation)  
@@ -171,7 +203,7 @@ Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, S
 Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
 Malkuth - **Embodiment**
 
-### Qlipoth
+### Qlipoth (of the human experience)
 
 Kether -   
 Chokmah -   
