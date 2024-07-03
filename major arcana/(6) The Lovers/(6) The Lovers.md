@@ -9,15 +9,15 @@
 ### Upright
 
 1) **Choices**, Gemini, opposites.
-2) A relationship (whether good or bad)
-3) The attraction between two opposing forces
+2) A **relationship** (whether good or bad)
+3) The **attraction** between two opposing forces
 4) Feeling drawn to an ex-partner.
 
 
 
 ### Reversed
 
-1) Issues with relationships, e.g. lack of communication between friends, feeling distant and isolated from those you have a relationship with.
+1) **Issues with relationships**, e.g. lack of communication between friends, feeling distant and isolated from those you have a relationship with.
 
 
 
