@@ -1,6 +1,6 @@
 # (VI) The Lovers
 
-**Key Word:** Choices  
+**Key Word:** Relationships 
 **Song:** [Empty Cans by The Streets](https://www.youtube.com/watch?v=z2i0Nw3NDBU)  
 **Hexagrams:** 31. Hsien/Influence (Wooing)
 
