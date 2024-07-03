@@ -2,7 +2,7 @@
 
 **Key Word:** Choices  
 **Song:** [Empty Cans by The Streets](https://www.youtube.com/watch?v=z2i0Nw3NDBU)  
-**Hexagrams:** 31, Hsien/Influence (Wooing)
+**Hexagrams:** 31. Hsien/Influence (Wooing)
 
 
 
