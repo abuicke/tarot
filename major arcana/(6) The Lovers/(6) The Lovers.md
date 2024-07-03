@@ -17,7 +17,7 @@
 
 ### Reversed
 
-1) 
+1) Issues with relationships, e.g. lack of communication between friends.
 
 
 
@@ -25,7 +25,7 @@
 
 #### Shiva and Shakti
 
-The triangles represent the interaction and union of the masculine (Shiva) and feminine (Shakti) divine principles. This is Chokmah (Shiva) and Shakti (Binah) coming together to create Tiphareth via the path of Zayin. This is the creation of opposites giving rise to manifestation. It is worth remembering that a triangle is the symbol of Binah.
+The triangles represent the interaction and union of the masculine (Shiva) and feminine (Shakti) divine principles. This is Chokmah (Shiva) and Shakti (Binah) coming together to create Tiphareth via the path of Zayin<sup>1</sup>. This is the creation of opposites giving rise to manifestation. It is worth remembering that a triangle is the symbol of Binah.
 
 If one looks at the image, it can be seen through intimation and intuition how the manifest arises from the unmanifest, by a process of constant mirroring. The centre point is the numinous, out of which that which is manifest appears by the path of Zayin. You can see in this particular Sri Yantra that the four elements are also represented by the four gates emerging from the circle.
 
@@ -37,13 +37,14 @@ If one looks at the image, it can be seen through intimation and intuition how t
 
 #### Consciousness vs Awareness
 
->*Consciousness*<sup>1</sup> is *Awareness*<sup>2</sup> with *choices*.
+>*Consciousness*<sup>2</sup> is *Awareness*<sup>3</sup> with *choices*.
 >
 >**Tom Campbell**
 
 ### Footnotes
 
-1. See Tiphareth
-2. See Chokmah
+1. "Zayin" is the Hebrew word for "sword". Notice the swords blades in the background of this card.
+2. Tiphareth
+3. Chokmah
 
 
