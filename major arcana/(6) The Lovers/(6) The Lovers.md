@@ -17,7 +17,7 @@
 
 ### Reversed
 
-1) Issues with relationships, e.g. lack of communication between friends.
+1) Issues with relationships, e.g. lack of communication between friends, feeling distant and isolated from those you have a relationship with.
 
 
 
