@@ -21,7 +21,7 @@
 
 ### Extra
 
->If every human being would overcome anger and thoughts right now, you would be a free man and a free woman. You're only in bondage to your anger and to thoughts because it's all evil; there's no love in it at all. If you can overcome thoughts right now, you can walk on water. It's the thoughts, and all thoughts are from the devil, from evil, from your imagination. Isn't that amazing? You're just locked into thoughts, that's all it is. You trust the thoughts over the truth—isn't that amazing? 
+>If every human being would overcome anger and thoughts right now, you would be a free man and a free woman. You're only in bondage to your anger and to thoughts, because it's all evil; there's no love in it at all. If you can overcome thoughts right now, you can walk on water. It's the thoughts, and all thoughts are from the devil, from evil, from your imagination. Isn't that amazing? You're just locked into thoughts, that's all it is. You trust the thoughts over the truth—isn't that amazing? 
 >
 >**Jesse Lee Peterson**, [*Overcome anger and thoughts, and be free*](https://www.youtube.com/shorts/VDQxtyovPeg)
 
