@@ -29,6 +29,6 @@
 
 ### Footnotes
 
-1. The level to which one is actually restrited may be quite different from the degree to which *they feel* they are. The sense of imprisonement may be self-imposed (psychological) in nature.
+1. The level to which one is actually restricted may be quite different from the degree to which *they feel* they are. The sense of imprisonment may be self-imposed (psychological) in nature.
 
 
