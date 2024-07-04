@@ -15,7 +15,7 @@
 
 ### Reversed
 
-1) 
+1) Freedom from bondage. Whatever has been oppressing a person, making them feel like a prisoner, is gone.
 
 
 
