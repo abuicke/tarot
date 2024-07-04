@@ -16,7 +16,7 @@
 
 ### Reversed
 
-1) Lack of stability—up and down mood, situation, consistency.
+1) Up and down moods, cycling between elation and depression.
 
 
 
