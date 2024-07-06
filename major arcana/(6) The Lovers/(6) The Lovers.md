@@ -19,6 +19,7 @@
 
 1) Issues with relationships
 2) Lack of communication between friends, feeling isolated.
+3) Growing distance between you and others, realising one's relationships aren't as close as previously hoped.
 
 
 
