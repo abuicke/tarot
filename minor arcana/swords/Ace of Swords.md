@@ -1,7 +1,7 @@
 # Ace of Swords
 
 **Key Word:** Illumination  
-**Song:**   
+**Song:** [I Can See Clearly Now by Johnny Nash](https://youtube.com/watch?v=b0cAWgTPiwM)  
 **Hexagrams:** 
 
 
