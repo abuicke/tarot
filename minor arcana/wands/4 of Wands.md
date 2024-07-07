@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) Trying to create a stabe direction or way forward.
+1) Trying to create a stable direction or way forward.
 2) Seeking support to manifest an intention.
 
 
@@ -21,9 +21,9 @@
 
 ### Extra
 
->The original current of Will [Chokmah] manifested fully (as system, order, law, government) [Chesed]. Plateau, settlement, arrangement, completion.
+>The original current of Will [Chokmah] manifested fully (as system, order, law, government) [Chesed].
 >
->*Liber Theta*, 4 of Wands
+>*Liber Theta* (College of Thelema, 2012), p. 39
 
 
 
