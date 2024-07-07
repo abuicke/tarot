@@ -26,7 +26,7 @@
 
 >It is instructive to compare planetary Saturn’s effect on Hod in this card, with Mercury’s effect on Supernal Saturn in the 3 of Cups. Other similar reciprocal examples occur throughout this essay.
 >
->Liber Theta, p. 47
+>*Liber Theta* (College of Thelema, 2012), p. 47
 
 
 
