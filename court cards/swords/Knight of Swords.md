@@ -16,7 +16,7 @@
 
 ### Reversed
 
-1) Not possessing a firm plan of attack; not having a plan/goal/objective which can be viraciously pursued with utmost vigor.
+1) Not possessing a firm plan of attack; not having a plan/goal/objective which can be voraciously pursued with utmost vigour.
 
 
 
