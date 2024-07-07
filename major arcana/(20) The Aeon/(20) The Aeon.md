@@ -9,6 +9,7 @@
 ### Upright
 
 1) A revelation in perspective; a brand new mode of viewing one's self and others.
+2) Taking of a definite and decisive step in relation to a situation.<sup>1</sup>
 
 
 
@@ -26,6 +27,6 @@
 
 ### Footnotes
 
-1. 
+1. "Always represents the taking of a definite and decisive step." - *Liber Theta* (College of Thelema, 2012), p. 33
 
 
