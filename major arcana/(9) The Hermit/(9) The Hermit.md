@@ -22,9 +22,9 @@
 
 The light in his lamp is the Sun of Tiphareth, it has made it's grand journey across the Abyss into Manifestation.
 
->Tiphereth is the lantern, or Guiding Light; Chesed the summit of the Ruach, opening onto the infinite heavens above.
+>Tiphareth is the lantern, or Guiding Light; Chesed the summit of the Ruach, opening onto the infinite heavens above.
 >
->*Liber Theta* (p. 22, The Hermit)
+>*Liber Theta* (College of Thelema, 2012), p. 22
 
 
 
