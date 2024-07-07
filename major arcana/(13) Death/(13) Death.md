@@ -20,16 +20,14 @@
 
 ### Extra
 
->As a rule, the card Death does not mean physical death. It generally points to radical external transformation. (The card XVI, The Tower, is the expression of internal change.)<sup>3</sup>
->
->**Gerd Ziegler**, *Mirror of the Soul*
+
 
 
 
 ### Footnotes
 
 1. [Most Powerful Transformation](https://www.youtube.com/shorts/KukVbQo-7KQ)
-2. "The old personality slain to complete the transfer of consciousness to Tiphereth." - *Liber Theta*, (XIII) Death
-3. I have so far not found this to be true.
+2. "The old personality slain to complete the transfer of consciousness to Tiphareth." - *Liber Theta* (College of Thelema, 2012), p. 26
+
 
 
