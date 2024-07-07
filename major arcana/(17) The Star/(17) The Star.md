@@ -26,6 +26,5 @@
 
 ### Footnotes
 
-1. Taken from *The Occult I Ching* by Maja D'Aoust. It appears to have a quite a different meaning (and name) in *The Book of Changes* by Richard Wilhelm.
-
+1. *The Occult I Ching* (Destiny Books, 2019), pp. 163-167
 
