@@ -1,8 +1,8 @@
-# (VIII) Adjustment
+# (VIII) Atu Name
 
 **Key Word:** Truth  
-**Song:**   
-**Hexagrams:** 42. Yi (Increase/Augment), 61. Chung Fu (Inner Truth)
+**Song:** [song](https://youtube.com/watch?v=b0cAWgTPiwM)  
+**Hexagrams:** 30. Li / The Clinging (Fire), 42. Yi / Increase (Augment), 61. Chung Fu / Inner Truth
 
 
 
