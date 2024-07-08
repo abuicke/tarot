@@ -2,7 +2,7 @@
 
 **Key Word:** Illumination  
 **Song:** [I Can See Clearly Now by Johnny Nash](https://youtube.com/watch?v=b0cAWgTPiwM)  
-**Hexagrams:** 30. Li/The Clinging (Fire)
+**Hexagrams:** 30. Li / The Clinging (Fire)
 
 
 
