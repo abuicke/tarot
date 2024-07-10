@@ -47,5 +47,6 @@
 5. "quoting Liber Theta" - *Liber Theta* (College of Thelema, 2012), p. 29
 6. "quoting the Book of Changes" - *The I Ching or Book of Changes* (Princeton University Press, 1983), p. 250
 7. See *How to Reference a Book* by Dr Julia Seton
+8. See: Queen of Swords
 
 
