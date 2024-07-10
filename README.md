@@ -1,4 +1,4 @@
-# The Capricornian Online Tarot
+# Liber High-T
 
 If you find value in my work, please show some support by donating
 
