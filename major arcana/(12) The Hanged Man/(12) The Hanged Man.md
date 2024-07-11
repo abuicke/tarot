@@ -19,7 +19,7 @@
 
 1) Trusting in one's own intuition again.
 2) Being liberated from one's own narrow-mindedness and limited purview.
-3) Aligning one's self with God's plan instead of your own plans.
+3) Aligning one's self with God's plan instead of one's own plans.
 4) Full surrender to the Higher Self.
 
 
