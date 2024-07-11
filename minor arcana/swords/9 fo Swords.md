@@ -8,12 +8,13 @@
 ### Upright
 
 1) Physical pain
+2) Suffering
 
 
 
 ### Reversed
 
-1) 
+1) End of suffering
 
 
 
