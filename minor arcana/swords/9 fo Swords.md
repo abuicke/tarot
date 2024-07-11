@@ -1,7 +1,8 @@
 # 9 of Swords
 
 **Key Word:** Anguish  
-**Song:** [nightmares by easy life](https://www.youtube.com/watch?v=-dQnXExTp2w)
+**Song:** [nightmares by easy life](https://www.youtube.com/watch?v=-dQnXExTp2w)  
+**Hexagrams:** 36. Ming I / Darkening of the Light
 
 
 
