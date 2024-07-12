@@ -2,7 +2,7 @@
 
 **Key Word:** Boldness  
 **Song:**   
-**Hexagrams:** 
+**Hexagrams:** 43. Kuai / Break-through (Resoluteness)
 
 
 
