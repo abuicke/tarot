@@ -9,7 +9,7 @@
 
 ### Upright
 
-1) 
+1) Expressing one's nature, one's true self.
 
 
 
@@ -17,6 +17,7 @@
 
 1) Out of the light, into darkness.
 2) Depression.
+3) Feeling impeded in the expression of one's personality. Feeling stifled, hindered.
 
 
 
