@@ -1,6 +1,6 @@
 # 4 of Wands
 
-**Key Word:**   
+**Key Word:** Stability  
 **Song:**   
 **Hexagrams:** 
 
@@ -10,6 +10,7 @@
 
 1) Trying to create a stable direction or way forward.
 2) Seeking support to manifest an intention.
+3) A positive routine, achieving goals, establishing good patterns.
 
 
 
