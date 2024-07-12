@@ -1,5 +1,7 @@
 # Tarot
 
+>**ΚΕΥΑΛΗ ΟΗ**
+>
 >**WHEEL AND—WOA!**
 >
 >The Great Wheel of Samsara.
