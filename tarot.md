@@ -20,9 +20,9 @@
 
 The small cards of the Tarot are made up of four suits: wands, cups, swords and disks.
 
-**Wands** are **Fire**: passions, hopes, intentions, plans, goals, desires, motivations, drives.
-**Cups** are **Water**: feelings, experiences, affect, connection, moral issues, matters of the heart.
-**Swords** are **Air**: thoughts, conceptions, interpretations, ideas, models, communication, descriptions, symbols.
-**Disks** are **Earth**: material, physical health, money, living situation, physical vitality, impermanence, building, bringing the goals and desires of Wands, through the mental models and conceptions of Swords into the final form of matter in the physical world.
+**Wands** are **Fire**: passions, hopes, intentions, plans, goals, desires, motivations, drives.  
+**Cups** are **Water**: feelings, experiences, affect, connection, moral issues, matters of the heart.  
+**Swords** are **Air**: thoughts, conceptions, interpretations, ideas, models, communication, descriptions, symbols.  
+**Disks** are **Earth**: material, physical health, money, living situation, physical vitality, impermanence, building, bringing the goals and desires of Wands, through the mental models and conceptions of Swords into the final form of matter in the physical world.  
 
 
