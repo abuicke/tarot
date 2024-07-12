@@ -11,6 +11,6 @@ Unsurprisingly, things don't work out as well in the remaining suits, as they ar
 ### Footnotes
 
 1. "Valor, zeal, passion; opposition, obstacles, and difficulties, yet courage and self-confidence to meet them; possible victory, depending on the energy and courage exercised" - *Liber Theta* (College of Thelema, 2012), p. 41
-2. "The present title, 'Failure,' is far too drastic. The older title ['Success Unfulfilled']...usually should be construed to mean, 'Success Unfulfilled Thus Far.' It often includes the idea of patience, and endurance through the passage of time, and the need for labor and effort, which are those elements required on the plane of Earth in order to achieve Victory." - **Frater Π**, *Liber Theta* (College of Thelema, 2012), p. 58
+2. "The present title, 'Failure,' is far too drastic. The older title ['Success Unfulfilled']...usually should be construed to mean, 'Success Unfulfilled **Thus Far**.' It often includes the idea of patience, and endurance through the passage of time, and the need for labor and effort, which are those elements required on the plane of Earth in order to achieve Victory." - **Frater Π**, *Liber Theta* (College of Thelema, 2012), p. 58
 
 
