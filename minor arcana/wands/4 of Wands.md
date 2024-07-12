@@ -11,6 +11,7 @@
 1) Trying to create a stable direction or way forward.
 2) Seeking support to manifest an intention.
 3) A positive routine, achieving goals, establishing good patterns.
+4) A desired direction for the future.
 
 
 
