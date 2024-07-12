@@ -2,7 +2,7 @@
 
 **Key Word:** Stability  
 **Song:**   
-**Hexagrams:** 
+**Hexagrams:** 42. I / Increase
 
 
 
