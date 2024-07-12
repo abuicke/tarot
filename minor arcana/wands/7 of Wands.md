@@ -1,6 +1,6 @@
 # 7 of Wands
 
-**Key Word:**   
+**Key Word:** Boldness  
 **Song:**   
 **Hexagrams:** 
 
@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) 
+1) Taking a chance (on something one desires). Boldness.<sup>1</sup>
 
 
 
@@ -27,6 +27,6 @@
 
 ### Footnotes
 
-1. 
+1. "The male, warlike power of Mars combined with the daring of the lion produces incredible force and impact." - **Gerd Ziegler**, *Tarot: Mirror of the Soul* (HarperCollins, 1989), p. 109
 
 
