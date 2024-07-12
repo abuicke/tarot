@@ -7,7 +7,7 @@
 
 ### Upright
 
-1) Self-indulfent feelings (esp. with regard to romance). Drunk on fasntasy.
+1) Self-indulgent feelings (esp. with regard to romance). Drunk on fantasy.
 
 
 
