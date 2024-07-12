@@ -46,7 +46,7 @@
 4. [*Example footnote of how to reference a video in footnotes*](https://www.youtube.com/watch?v=fj2uWxn_8SQ) by Satya Ji
 5. "quoting Liber Theta" - *Liber Theta* (College of Thelema, 2012), p. 29
 6. "quoting the Book of Changes" - *The I Ching or Book of Changes* (Princeton University Press, 1983), p. 250
-7. See *How to Reference a Book* by Dr Julia Seton
+7. See: *How to Reference a Book* by Dr Julia Seton
 8. See: Queen of Swords
 
 
