@@ -72,8 +72,8 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 Earth  
 Durga, Kali  
 Satan  
-The Queens of the Tarot
-Alchemical Salt
+The Queens of the Tarot  
+Alchemical Salt  
 Pillar of Severity (Boaz)  
 The Fixed Signs  
 Power, Immortality (of the body), Strength
@@ -83,8 +83,8 @@ Power, Immortality (of the body), Strength
 Sun  
 Lakshmi  
 Lucifer  
-The Knights of the Tarot
-Alchemical Sulphur
+The Knights of the Tarot  
+Alchemical Sulphur  
 Pillar of Mercy (Jachin)  
 The Cardinal Signs  
 Wealth, Passion, Life  
@@ -94,8 +94,8 @@ Wealth, Passion, Life
 Moon  
 Saraswati  
 Christ  
-The Princes of the Tarot
-Alchemical Mercury
+The Princes of the Tarot  
+Alchemical Mercury  
 Pillar of Mildness (Consciousness)  
 The Mutable Signs  
 Knowing, Transcendence, Immortality (of the spirit)
