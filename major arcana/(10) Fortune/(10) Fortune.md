@@ -1,8 +1,8 @@
 # (X) Fortune 
 
 **Key Word:** Cycles  
-**Song:** [Circles by Post Malone](https://www.youtube.com/watch?v=jznXk9fOw7g)
-
+**Song:** [Circles by Post Malone](https://www.youtube.com/watch?v=jznXk9fOw7g)  
+**Hexagrams:** 
 
 
 ### Upright
