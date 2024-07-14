@@ -31,7 +31,7 @@
 
 The triangles represent the interaction and union of the masculine (Shiva) and feminine (Shakti) divine principles. This is Chokmah (Shiva) and Binah (Shakti) coming together to create Tiphareth (Ganesha) (via the path of Zayin<sup>3</sup>). This is the creation of opposites giving rise to manifestation. It is worth remembering that a triangle is the symbol of Binah.
 
-If one looks at the image, it can be seen through intimation and intuition how the manifest arises from the unmanifest, by a process of constant mirroring<sup>4</sup>. The centre point is the numinous, out of which that which is manifest appears by the path of Zayin. You can see in this particular Sri Yantra that the four elements are also represented by the four gates emerging from the circle.
+If one looks at the image above, it can be seen through intimation and intuition how the manifest arises from the unmanifest, by a process of constant mirroring<sup>4</sup>. The centre point is the numinous, out of which that which is manifest appears by the path of Zayin. You can see in this particular Sri Yantra that the four elements are also represented by the four gates emerging from the circle.
 
 >There are four gates to one palace
 >
