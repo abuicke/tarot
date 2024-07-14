@@ -8,10 +8,11 @@
 
 ### Upright
 
-1) **Choices**, Gemini, opposites.
-2) A **relationship** (whether good or bad)
-3) The **attraction** between two opposing forces
-4) Feeling drawn to an ex-partner.
+1) **Choices**
+2) **Opposites**
+3) A **relationship** (whether good or bad)
+4) The **attraction** between two opposing forces
+5) Feeling drawn to an ex-partner.
 
 
 
