@@ -2,7 +2,7 @@
 
 **Key Word:** Crystallization  
 **Song:**   
-**Hexagrams:** 60. Chieh / Limitation
+**Hexagrams:** 60. Chieh / Limitation<sup>1</sup>
 
 
 
@@ -37,6 +37,6 @@
 
 ### Footnotes
 
-1. 
+1. This hexagram strongly correlates with the meaning of Saturn, and of Binah, on the Tree of Life. "Limitation" is also the name I have given to Binah in the Plain English Qabalah.
 
 
