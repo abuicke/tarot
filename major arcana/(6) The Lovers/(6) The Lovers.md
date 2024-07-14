@@ -27,7 +27,7 @@
 
 #### Shiva and Shakti
 
-<img src="https://raw.githubusercontent.com/abuicke/tarot/master/major%20arcana/(6)%20The%20Lovers/sri%20yantra.jpg" alt="Sri Yantra" width="75%"/>
+<img src="https://raw.githubusercontent.com/abuicke/tarot/master/major%20arcana/(6)%20The%20Lovers/sri%20yantra.jpg" alt="Sri Yantra" width="40%"/>
 
 The triangles represent the interaction and union of the masculine (Shiva) and feminine (Shakti) divine principles. This is Chokmah (Shiva) and Shakti (Binah) coming together to create Tiphareth via the path of Zayin<sup>3</sup>. This is the creation of opposites giving rise to manifestation. It is worth remembering that a triangle is the symbol of Binah.
 
