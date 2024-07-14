@@ -39,7 +39,7 @@ If one looks at the image above, it can be seen through intimation and intuition
 
 #### Consciousness vs Awareness
 
->*Consciousness*<sup>5</sup> is *Awareness*<sup>6</sup> with *choices*.
+>Consciousness<sup>5</sup> is awareness<sup>6</sup> with choices.
 >
 >**Tom Campbell**
 
