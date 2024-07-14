@@ -2,14 +2,14 @@
 
 **Key Word:** Crystallization  
 **Song:**   
-**Hexagrams:** 
+**Hexagrams:** 60. Chieh / Limitation
 
 
 
 ### Upright
 
 1) The end of a Saturn return.
-2) Saturn; Crystallization of a goal—which can produce unintended complexities and hurdles—*The devil is in the details*.
+2) **Saturn**; crystallization of a goal—which can produce unintended complexities and hurdles—*The devil is in the details*.
 
 
 
