@@ -8,8 +8,7 @@
 
 ### Upright
 
-1) **Choices**
-2) **Opposites**<sup>1,2</sup>
+1) Choices, **opposites**<sup>1,2</sup>
 3) A **relationship** (whether good or bad)
 4) The **attraction** between two opposing forces
 5) Feeling drawn to an ex-partner.
