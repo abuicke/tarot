@@ -1,7 +1,8 @@
 # (VII) The Chariot
 
 **Key Word:** Destiny  
-**Song:** 
+**Song:**   
+**Hexagrams**: 
 
 
 
