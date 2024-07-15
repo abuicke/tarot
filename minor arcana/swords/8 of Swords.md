@@ -1,7 +1,9 @@
 # 8 of Swords
 
 **Key Word:** Insanity  
-**Song:** [Mind Playing Tricks On Me by Geto Boys](https://www.youtube.com/watch?v=IJtHdkyo0hc)
+**Song:** [Mind Playing Tricks On Me by Geto Boys](https://www.youtube.com/watch?v=IJtHdkyo0hc)  
+**Hexagrams:** 47. K'un / Oppression (Exhaustion)
+
 
 
 
