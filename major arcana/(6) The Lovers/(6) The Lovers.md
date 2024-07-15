@@ -52,7 +52,7 @@ You can see in this particular Sri Yantra that the four elements are represented
 1. [Alan Watts Explains What Awakening Means](https://www.youtube.com/watch?v=g92i9ilnqfA)
 2. It's interesting to note the link between "opposites" and "relationships" (see footnote above).
 3. The triangle is the symbol of Binah
-4. "Zayin" is the Hebrew word for "sword". Notice the sword blades in the background of this card.
+4. *Zayin* is the Hebrew word for "sword". Notice the sword blades in the background of this card.
 5. See: Queen of Cups. Although Water (Binah) as a whole is a mirror.
 6. "Every woman’s body contains a cell of archaic night, where all knowing must stop. This is the profound meaning behind striptease, a sacred dance of pagan origins which, like prostitution, Christianity has never been able to stamp out. Erotic dancing by males cannot be comparable, for a nude woman carries off the stage a final concealment, that chthonian darkness from which we come." - **Camille Paglia**, *Sexual Personae* (Yale University Press, 2001), pp. 22-23
 7. Tiphareth
