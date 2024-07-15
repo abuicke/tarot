@@ -30,6 +30,6 @@
 
 ### Footnotes
 
-1. See also: Prince of Swords reversed.
+1. See: Prince of Swords reversed.
 
 
