@@ -7,7 +7,7 @@
 
 ### Upright
 
-1) 
+1) Feeling limited in one's capacities. Struggles with communication.
 
 
 
