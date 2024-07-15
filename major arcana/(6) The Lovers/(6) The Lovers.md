@@ -31,7 +31,9 @@
 
 The triangles<sup>3</sup> represent the interaction of the masculine (Shiva) and feminine (Shakti) principles. This is Chokmah (Shiva) and Binah (Shakti) coming together to create Tiphareth (Ganesha) via the path of Zayin<sup>4</sup>. This is the creation of **opposites**, giving rise to manifestation.
 
-If one looks at the image above, it can be seen through intimation and intuition how the manifest arises from the unmanifest, by a process of constant mirroring<sup>5</sup>. At the centre is an inverted triangle, the Yoni, concealing<sup>6</sup> the numinous, out of which the manifest appears. You can see in this particular Sri Yantra that the four elements are represented by the four gates emerging from the circle.
+If one looks at the image above, it can be seen through intimation and intuition how the manifest arises from the unmanifest, by a process of constant mirroring<sup>5</sup>. At the centre is an inverted triangle, the Yoni, concealing<sup>6</sup> the numinous, out of which the manifest appears. 
+
+You can see in this particular Sri Yantra that the four elements are represented by the four gates emerging from the circle.
 
 >There are four gates to one palace
 >
