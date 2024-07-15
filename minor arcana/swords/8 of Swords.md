@@ -8,6 +8,8 @@
 ### Upright
 
 1) Feeling limited in one's capacities. Struggles with communication.
+2) Incessant negative thoughts.
+3) Feeling pressured and boxed in, overwhelmed by details, overthinking.
 
 
 
