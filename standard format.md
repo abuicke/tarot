@@ -49,6 +49,7 @@
 7. "quoting the Book of Thoth" - **Aleister Crowley**, *The Book of Thoth* (Weiser, 2008), pp. 161-162
 8. See: *How to Reference a Book* by Dr Julia Seton
 9. See: Queen of Swords
-10. *Zayin* is the Hebrew word for "sword". Notice the sword blades in the background of this card.
+10. See: Prince of Swords (reversed)
+11. *Zayin* is the Hebrew word for "sword". Notice the sword blades in the background of this card.
 
 
