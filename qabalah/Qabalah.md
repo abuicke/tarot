@@ -124,8 +124,8 @@ It is important to note that the Sephiroth do not exist independently, one is bu
 ## The Sephiroth (of the macrocosm)
 
 Kether - Brahma  
-Chokmah - The Causal Plane, The Great Father, Shiva, Lingam  
-Binah - The Causal Plane, The Great Mother, Shakti, Kali, Yoni, Sacred Geometry  
+Chokmah - The Causal Plane, The Great Father, Shiva, Lingam, The Face of the Divine  
+Binah - The Causal Plane, The Great Mother, Shakti, Kali, Yoni, Sacred Geometry, The Womb of Creation  
 Chesed - Natural Law (Dhamma/Dharma) Karma (as cause), Vishnu, Cosmic Order (upholding the good)  
 Geburah - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropy arising from Chesed)  
 Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>4</sup>  
