@@ -2,7 +2,7 @@
 
 **Key Word:** Illusion  
 **Song:** [Suicidal Thoughts by The Notorious B.I.G.](https://www.youtube.com/watch?v=v1mKGlYL9jg)  
-**Hexagrams:** 29. K'an/The Abysmal (Water)
+**Hexagrams:** 29. K'an / The Abysmal (Water)
 
 
 
