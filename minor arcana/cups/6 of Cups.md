@@ -1,7 +1,7 @@
 # 6 of Cups
 
 **Key Word:** Joy  
-**Song:** [Breakfast At Tiffany's by Deep Blue Something](https://www.youtube.com/watch?v=1ClCpfeIELw)
+**Song:** [Breakfast At Tiffany's by Deep Blue Something](https://www.youtube.com/watch?v=1ClCpfeIELw). 
 **Hexagrams:** 
 
 
