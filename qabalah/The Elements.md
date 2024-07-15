@@ -2,7 +2,7 @@
 
 ## Water
 
-Water (Binah) is the gateway (the water of life, the water of manifestation in all the creation myths) bringing the goals and desires of Fire (Chokmah, Wands), through the mental models and conceptions of Air (Yetzirah, Swords) into the final form of matter (Earth) in the physical world. Water (Binah), the Divine Feminine principle, orchestrates the entire play of creation. She is the mirror<sup>1,2</sup> of the divine, so that he may know himself<sup>3</sup>, and thus give rise to the entire drama of being through which the *process* (Air, Manifesttion) of His *Understanding* takes place.
+Water (Binah) is the gateway (the water of life, the water of manifestation in all the creation myths) bringing the goals and desires of Fire (Chokmah, Wands), through the mental models and conceptions of Air (Yetzirah, Swords) into the final form of matter (Earth) in the physical world. Water, the Divine Feminine principle, orchestrates the entire play of creation. She is the mirror<sup>1,2</sup> of the divine, so that he may know himself<sup>3</sup>, and thus give rise to the entire drama of being through which the *process* (Air, Manifesttion) of His *Understanding* takes place.
 
 
 ### Footnotes
