@@ -11,6 +11,7 @@
 1) Harmonious, positive emotion. Fullness of feeling, dynamic and well balanced.
 2) Joyous, emotionally enriching experiences.
 3) Ease of connection with others.
+4) Joyous ease; feelings of openess and connectedness with other people.
 
 
 
