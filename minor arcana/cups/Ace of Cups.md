@@ -1,3 +1,31 @@
 # Ace of Cups
 
-1. Emotional nourishment.
+**Key Word:**   
+**Song:**   
+**Hexagrams:** 
+
+
+
+### Upright
+
+1) Emotional nourishment.
+
+
+
+### Reversed
+
+1) 
+
+
+
+### Extra
+
+
+
+
+
+### Footnotes
+
+1. 
+
+
