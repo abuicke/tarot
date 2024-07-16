@@ -27,7 +27,7 @@
 
 >Get calm in thought. Our thoughts are the things with which we admit vibrations into our body which produce harmonious or inharmonious emotions. As we think, so we feel, and if these thoughts are harmonious, we respond constructively; if they are inharmonious, then destructive changes begin within our body.
 >
->**Julia Seton**, *The Psychology of the Solar Plexus and Subconscious Mind*
+>**Julia Seton**, *The Psychology of the Solar Plexus and Subconscious Mind* (Lushena Books, 2023), p. 42
 
 >A person who vibrates is actually a wise person because all great people who come up with great statements experience life first as a vibration. Then it becomes an emotion. Vibration overtakes thought, and then thought moves along with that experience. That's why there's beauty in that thought; there's poetry in it. It's not a mathematical arrangement of words or purely logical. It has a rhythm, a flow. It's very interesting that there's such darkness around something as simple as your own feeling and life energy. Positively embracing your own life energy means you can't be manipulated.
 >
