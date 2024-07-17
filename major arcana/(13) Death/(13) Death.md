@@ -2,7 +2,7 @@
 
 **Key Word:** Transformation<sup>1</sup>  
 **Song:**   
-**Hexagrams:** 
+**Hexagrams:** 18. Ku/Work on What Has Been Spoiled (Decay)
 
 
 
@@ -14,7 +14,7 @@
 
 ### Reversed
 
-1) Resurrection - reconstitution after a major transformation
+1) Resurrection—reconstitution after a major transformation.
 
 
 
