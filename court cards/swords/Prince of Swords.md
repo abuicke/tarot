@@ -4,6 +4,7 @@
 **Rules:** 20° ♑︎ to 20° ♒︎  
 **Planetary:** [Sun], Venus, Mercury  
 **Nature:** [Power], Defeat and Success  
+**Song:**   
 **Hexagram:** 57. Sun/The Gentle (Penetrating, Wind)
 
 
