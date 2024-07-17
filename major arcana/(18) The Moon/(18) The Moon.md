@@ -2,7 +2,7 @@
 
 **Key Word:** Hidden  
 **Song:** [Nightmare (Original Sinister Strings Remix) by Brainbug](https://www.youtube.com/watch?v=bvsqEFWZ9tw)  
-**Hexagrams:** 
+**Hexagrams:** 36. Ming I / Darkening of the Light
 
 
 
