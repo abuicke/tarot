@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) 
+1) Love, the love of a partner (a woman).
 
 
 
@@ -26,6 +26,6 @@ Parvati is the gentle and nurturing aspect of Shakti, often portrayed as the lov
 
 ### Footnotes
 
-1. I'm trying to convey a general murkiness. The situation has become unnatractive on every level—ugly thoughts, ugly mood, ugly feelings, ugly habits, poor hygiene. It's the ugliness and spiritual grime that accompanies depression. A feeling of being low-vibration, energetically heavy and unclean. Essentially, the person or situation is not being nourished in the correct things.
+1. I'm trying to convey a general murkiness. The situation has become unattractive on every level—ugly thoughts, ugly mood, ugly feelings, ugly habits, poor hygiene. It's the ugliness and spiritual grime that accompanies depression. A feeling of being low-vibration, energetically heavy and unclean. Essentially, the person or situation is not being nourished in the correct things.
 
 
