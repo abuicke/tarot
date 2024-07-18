@@ -1,6 +1,6 @@
 # (XV) The Devil 
 
-**Key Word:** Illusion  
+**Key Word:** Illusion (Maya)  
 **Song:** [Suicidal Thoughts by The Notorious B.I.G.](https://www.youtube.com/watch?v=v1mKGlYL9jg)  
 **Hexagrams:** 29. K'an / The Abysmal (Water)
 
@@ -8,8 +8,8 @@
 
 ### Upright
 
-1) **Trapped/Imprisoned**—esp. in the physical body (restrained mobility, pain).<sup>1</sup>
-2) Hampered by **physical limitation**.
+1) **Trapped/Imprisoned**<sup>1</sup>—especially in the physical body (restrained mobility, pain).
+2) Hampered by physical limitation.
 
 
 
