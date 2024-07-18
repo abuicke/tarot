@@ -16,7 +16,7 @@
 
 ### Reversed
 
-1) 
+1) Accepting limitations; accepting a certain approach will not work.
 
 
 
