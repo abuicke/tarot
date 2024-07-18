@@ -14,6 +14,7 @@
 3) Feeling pressured and boxed in, overwhelmed by details, overthinking.
 4) Intense, claustrophobic panic.
 5) Intimidated by circumstances.
+6) Feeling limited, constrained.
 
 
 
