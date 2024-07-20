@@ -1,31 +1,36 @@
 # (III) The Empress
 
-**Key Word:** Growth  
-**Song:**   
-**Hexagrams:** 
+**Key Word:** Femininity<sup>1</sup>  
+**Song:** [La vie en rose by Edith Piaf]  
+**Hexagrams:** 2. K'un / The Receptive
 
 
 
 ### Upright
 
 1) Love, the love of a partner (a woman).
+2) The sensual aspects of life, fragrance, food, fashion, beauty, colour, aesthetics.
+3) The feminine principle<sup>2</sup>, life for life's sake, that which is beautiful in the world.
 
 
 
 ### Reversed
 
-1) Ill health, lethargy, grossness, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices), bad mood, negative thinking (depression resulting therefrom)<sup>1</sup>
+1) Ill health, lethargy, grossness, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices), bad mood, negative thinking (depression resulting therefrom)<sup>3</sup>
 
 
 
 ### Extra
 
-Parvati is the gentle and nurturing aspect of Shakti, often portrayed as the loving and devoted wife of Shiva (Chokmah). She represents fertility, love, beauty, and devotion. As a mother goddess, she is also known as Annapurna, the goddess of nourishment.
+Parvati is the gentle and nurturing aspect of Shakti (Binah), often portrayed as the loving and devoted wife of Shiva (Chokmah). She represents fertility, love, beauty, and devotion. As a mother goddess, she is also known as Annapurna, the goddess of nourishment<sup>4</sup>.
 
 
 
 ### Footnotes
 
-1. I'm trying to convey a general murkiness. The situation has become unattractive on every level—ugly thoughts, ugly mood, ugly feelings, ugly habits, poor hygiene. It's the ugliness and spiritual grime that accompanies depression. A feeling of being low-vibration, energetically heavy and unclean. Essentially, the person or situation is not being nourished in the correct things.
+1. The feminine principle
+2. [Day of the Feminine - Sadhguru on International Women's Day](https://www.youtube.com/watch?v=SpZr7TNVDl0)
+3. I'm trying to convey a general murkiness. The situation has become unattractive on every level—ugly thoughts, ugly mood, ugly feelings, ugly habits, poor hygiene. It's the ugliness and spiritual grime that accompanies depression. A feeling of being low-vibration, energetically heavy and unclean. Essentially, the person or situation is not being nourished in the correct things.
+4. See: Queen of Disks
 
 
