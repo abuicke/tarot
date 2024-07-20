@@ -16,7 +16,7 @@
 
 ### Reversed
 
-1) Ill health, lethargy, grossness, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices), bad mood, negative thinking (depression resulting therefrom)<sup>4</sup>
+1) Ill health, lethargy, grossness, slothfulness, low-energy, layabout, lack of self-care (hygiene, healthy choices), bad mood, negative thinking (depression resulting therefrom).<sup>4</sup>
 
 
 
