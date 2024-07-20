@@ -9,7 +9,7 @@
 ### Upright
 
 1) Love, the love of a partner (a woman).
-2) The sensual aspects of life, fragrance, food, fashion, beauty, colour, aesthetics.
+2) The sensual aspects of life, fragrance, food, fashion, beauty, music, colour, aesthetics.
 3) The feminine principle<sup>2</sup>, life for life's sake, that which is beautiful in the world.
 
 
