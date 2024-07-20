@@ -1,7 +1,7 @@
 # (III) The Empress
 
 **Key Word:** Femininity<sup>1</sup>  
-**Song:** [La vie en rose by Edith Piaf]  
+**Song:** [La vie en rose by Edith Piaf](https://www.youtube.com/watch?v=-0KvBnIvTFs)  
 **Hexagrams:** 2. K'un / The Receptive
 
 
