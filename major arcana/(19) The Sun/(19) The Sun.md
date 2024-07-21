@@ -18,7 +18,7 @@
 ### Reversed
 
 1) Dissociation, depression, listlessness, lethargy.
-2) An unhappy turn of events (what seemed promising is now not going as hoped)
+2) An unhappy turn of events (what seemed promising is now not going as hoped).
 
 
 
