@@ -8,8 +8,7 @@
 
 ### Upright
 
-1) Pursuing success, feelings of impending victory.
-2) Striving towards success. Success. Victory.
+1) Success. Victory.
 
 
 
