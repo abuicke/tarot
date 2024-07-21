@@ -8,9 +8,10 @@
 
 ### Upright
 
-1) Love, the love of a partner (a woman).
-2) The sensual aspects of life, fragrance, food, fashion, beauty, music<sup>2</sup>, colour, aesthetics.
-3) The feminine principle<sup>3</sup>, life for life's sake, that which is beautiful in the world.
+1) **Love**, the love of a partner (a woman).
+2) The **sensual** aspects of life, fragrance, food, fashion, beauty, music<sup>2</sup>, colour, aesthetics.
+3) The **feminine** principle<sup>3</sup>, life for life's sake, that which is beautiful in the world.
+4) Nourished by **beauty**.
 
 
 
@@ -22,7 +23,7 @@
 
 ### Extra
 
-Parvati is the gentle and nurturing aspect of Shakti (Binah), often portrayed as the loving and devoted wife of Shiva (Chokmah). She represents fertility, love, beauty, and devotion. As a mother goddess, she is also known as Annapurna, the goddess of nourishment<sup>5</sup>.
+Parvati is the gentle and nurturing aspect of Shakti (Binah), often portrayed as the loving and devoted wife of Shiva (Chokmah). She represents fertility, love, beauty, and devotion. As a mother goddess, she is also known as Annapurna, the goddess of **nourishment**<sup>5</sup>.
 
 
 
