@@ -14,7 +14,7 @@
 
 ### Reversed
 
-1) Impeded change<sup>1</sup>
+1) Failing to change physically (e.g. weight, sleep routine, physical health, diet), change impeded<sup>1</sup>.
 
 
 
