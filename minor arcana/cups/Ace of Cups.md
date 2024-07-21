@@ -9,6 +9,7 @@
 ### Upright
 
 1) Emotional nourishment.
+2) Emotional support, friendship.
 
 
 
