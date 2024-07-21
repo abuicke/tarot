@@ -18,7 +18,7 @@
 ### Reversed
 
 1) Everything exposed, secrets/hidden things coming to light (esp. in an ugly and sudden way).
-2) Dissociation (the unconscious exerting influence over the conscious).
+2) Dissociation (resisting the unconscious).
 
 
 
