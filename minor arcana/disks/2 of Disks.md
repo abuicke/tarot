@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) Physical change; change in routine (workout, sleep schedule, eating habits, diet).
+1) Physical change, change in routine (workout, sleep schedule, eating habits, diet), (the aim of) improving health.
 
 
 
