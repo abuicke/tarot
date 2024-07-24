@@ -8,8 +8,8 @@
 
 ### Upright
 
-1) **Trapped/Imprisoned**<sup>1</sup>—especially in the physical body (restrained mobility, pain).
-2) Hampered by physical limitation.
+1) **Trapped**/**Imprisoned**<sup>1</sup>—especially in the physical body (restrained mobility, pain).
+2) Physical **limitation**.
 
 
 
