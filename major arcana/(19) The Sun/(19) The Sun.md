@@ -1,7 +1,7 @@
 # (XIX) The Sun 
 
 **Key Word:** Enlightenment  
-**Song:** [Sunlight feat. Years & Years by The Magician](https://www.youtube.com/watch?v=TFXlWfzW9Uo)  
+**Song:** [Here Comes The Sun by The Beatles](https://www.youtube.com/watch?v=GKdl-GCsNJ0)  
 **Hexagrams:** 25. Wu Wang/The Innocence (The Unexpected), 30. Li/The Clinging, Fire, 58. Tui/The Joyous, Lake
 
 
