@@ -1,8 +1,8 @@
 # (0) The Fool 
 
 **Key Word:** Potential  
-**Song:**   
-**Hexagrams:** 
+**Song:** [Gobbledigook by Sigur Rós](https://www.youtube.com/watch?v=puC0UeWLjM8)  
+**Hexagrams:** 1. Ch'ien / The Creative
 
 
 
