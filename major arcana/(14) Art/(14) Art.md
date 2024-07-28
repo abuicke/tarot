@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) The Holy Guardian Angel
+1) The Holy Guardian Angel (heart chakra, Tiphareth center).
 2) The process of shaping (something) through trial and error.
 3) Willing to push through difficulties (for the sake of continuous improvement).
 
