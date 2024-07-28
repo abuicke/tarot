@@ -8,8 +8,8 @@
 
 ### Upright
 
-1) Physical pain
-2) Suffering
+1) Physical **pain**
+2) Depression, apathy, **suffering**.
 
 
 
