@@ -18,7 +18,7 @@
 ### Reversed
 
 1) Everything exposed, secrets/hidden things coming to light (esp. in an ugly and sudden way).
-2) Dissociation (resisting the unconscious).
+2) Return of the repressed<sup>2</sup> (resisting the unconscious, resisting what the unconscious wants to express). This can result in dissociation, pain, inflammation, digestive issues, hypochondria, paranoia, worry, fear etc.
 
 
 
@@ -35,5 +35,6 @@
 ### Footnotes
 
 1. See: The Sun
+2. [https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100417134](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100417134)
 
 
