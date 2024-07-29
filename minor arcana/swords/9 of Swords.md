@@ -10,6 +10,7 @@
 
 1) Physical **pain**
 2) Depression, apathy, **suffering**.
+3) **Paranoid** delusions, obsessive illogical worries.
 
 
 
