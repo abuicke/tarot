@@ -9,6 +9,7 @@
 ### Upright
 
 1) Full, rich joy.
+2) Support from friends.
 
 
 
