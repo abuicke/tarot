@@ -10,6 +10,7 @@
 
 1) A feeling that progress is finally possible. There is a path forward to manifest one's potential.
 2) The expectation that everything can be achieved with time.
+3) Harnessing potential (visualization, magic)<sup>1</sup>.
 
 
 
@@ -27,6 +28,6 @@
 
 ### Footnotes
 
-1. 
+1. You can see why The Magus logically follows this card in the sequence of the Tarot. It is the shaping of this raw potential into a *form* (Beth, a house, a structure, Kether to Binah).
 
 
