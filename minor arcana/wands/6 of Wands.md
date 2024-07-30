@@ -2,7 +2,7 @@
 
 **Key Word:** Victory  
 **Song:** [We Are The Champions by Queen](https://www.youtube.com/watch?v=04854XqcfCY)  
-**Hexagrams:** 
+**Hexagrams:** 55. Fēng / Abundance (Fullness)
 
 
 
