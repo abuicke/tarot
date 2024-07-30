@@ -1,6 +1,8 @@
 # 2 of Swords
 
-#### Key Word: Peace
+**Key Word:** Peace  
+**Song:**   
+**Hexagrams:** 11. T'ai / Peace
 
 
 
