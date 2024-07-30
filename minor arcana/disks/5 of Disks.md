@@ -1,20 +1,21 @@
 # 5 of Disks
 
-**Key Word:**   
+**Key Word:** Gridlock  
 **Song:**   
-**Hexagrams:** 39, Chien/Obstruction; [59, Huan/Dispersion (Dissolution)]
+**Hexagrams:** 39. Chien/Obstruction, 59. Huan/Dispersion (Dissolution)
 
 
 
 ### Upright
 
-1) Stultification of energies. Gridlock.
+1) Stultification of energies. **Gridlock**.
 
 
 
 ### Reversed
 
-1) The end of stultification. Energies moving freely again.
+1) The end of stultification. Energies **moving freely** again.
+2) Release from (bodily) trauma.<sup>1</sup>
 
 
 
@@ -26,7 +27,7 @@
 
 ### Footnotes
 
-1. 
+1. See: *The Body Keeps The Score* by Bessel van der Kolk
 
 
 

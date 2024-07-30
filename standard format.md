@@ -9,7 +9,7 @@
 ### Upright
 
 1) **Guided from within**—not cast about by external circumstances.<sup>1</sup>
-2) **Regaining your centre**, regaining a sense of stability and self-ownership.
+2) **Regaining your centre**, regaining a sense of stability and self-ownership. Following your **truth**.
 3) Seeing that your reactions come from inside of you, they are not forced on you by the outside world.<sup>2,3</sup>
 
 
