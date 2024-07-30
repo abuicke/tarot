@@ -1,7 +1,7 @@
 # 9 of Cups
 
 **Key Word:** Happiness  
-**Song:**   
+**Song:** [Shine by Bishop Gunn](https://youtube.com/watch?v=F3A_coTcUek)  
 **Hexagrams:** 
 
 
