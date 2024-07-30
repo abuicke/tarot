@@ -9,7 +9,7 @@
 ### Upright
 
 1) An issue has been put to rest. A resolution had been reached.
-2) Resolution to a conflict.
+2) **Resolution** to a conflict.
 
 
 
