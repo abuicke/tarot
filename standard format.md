@@ -2,7 +2,7 @@
 
 **Key Word:** Truth  
 **Song:** [song](https://youtube.com/watch?v=b0cAWgTPiwM)  
-**Hexagrams:** 30. Li / The Clinging (Fire), 42. Yi / Increase (Augment), 61. Chung Fu / Inner Truth
+**Hexagrams:** 55. Fēng / Abundance (Fullness), 42. Yi / Increase (Augment), 61. Chung Fu / Inner Truth
 
 
 
