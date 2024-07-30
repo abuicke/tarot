@@ -2,7 +2,7 @@
 
 **Key Word:** Gridlock  
 **Song:**   
-**Hexagrams:** 39, Chien/Obstruction; [59, Huan/Dispersion (Dissolution)]
+**Hexagrams:** 39. Chien/Obstruction, 59. Huan/Dispersion (Dissolution)
 
 
 
