@@ -1,13 +1,14 @@
 # 9 of Wands
 
 **Key Word:** Unification  
-**Song:** 
+**Song:**   
+**Hexagrams:** 
 
 
 
 ### Upright
 
-1) Unifying the autonomic (unconscious) and the conscious mind.<sup>1</sup>
+1) **Unifying** the autonomic (unconscious) and the conscious mind.<sup>1</sup>
 2) Bringing harmony to the mind (by **resolving internal conflict**<sup>2</sup>).
 3) Feelings of **self-empowerment**; confidence in one's self and one's abilities.
 
