@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) Striving towards success (of a physical goal).
+1) Striving towards success (of a physical goal)—meeting impediments and setbacks along the way.
 
 
 
