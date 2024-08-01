@@ -9,6 +9,7 @@
 ### Upright
 
 1) Striving towards success (of a physical goal)—meeting impediments and setbacks along the way.
+2) Impediments to physical change.
 
 
 
