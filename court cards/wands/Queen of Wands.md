@@ -9,15 +9,14 @@
 ### Upright
 
 1) Self-knowledge
-2) Magical invocation, especially of a female deity, especially an invocation which exerts an influence over elemental water.
-
-This card appeared in *my influence* in a Celtic Cross reading during a week when I turned a dancing meditation into a spontaneous invocation of Shakti. The effects were energy, stability of mood, pleasant and euphoric sensations (even in response to things that were usually painful like cold showers). In this way the water principle (element) was catalysed within me and made harmonious (see *6 of Cups*). For this reason I believe the Queen of Wands relates to this specific type of magical invocation, one connected with Binah (Shakti) and with the water principle (Queen).
+2) Magical invocation of a female deity, especially one related to Binah.<sup>1</sup>
 
 
 
 ### Reversed
 
-1) A lack of self-knowledge
+1) A lack of self-knowledge.
+2) Inhibited, lacking zest, unsure of one's self—one's flame has "gone out".
 
 
 
@@ -35,6 +34,6 @@ This card appeared in *my influence* in a Celtic Cross reading during a week whe
 
 ### Footnotes
 
-1.
+1. This card appeared in *my influence* in a Celtic Cross reading during a week when I was very focused on the principle of Shakti, and even turned a dancing meditation into a spontaneous invocation of her. The effects were energy, stability of mood, pleasant and euphoric sensations (even in response to things that were usually painful like cold showers).
 
 
