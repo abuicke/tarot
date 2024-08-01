@@ -1,6 +1,6 @@
 # (XIII) Death 
 
-**Key Word:** Transformation<sup>1</sup>  
+**Key Word:** Transformation<sup>1,2</sup>  
 **Song:**   
 **Hexagrams:** 18. Ku/Work on What Has Been Spoiled (Decay)
 
@@ -8,7 +8,7 @@
 
 ### Upright
 
-1) An evolution in consciousness<sup>2<sup>
+1) An evolution in consciousness<sup>3<sup>
 
 
 
@@ -27,7 +27,8 @@
 ### Footnotes
 
 1. [Most Powerful Transformation](https://www.youtube.com/shorts/KukVbQo-7KQ)
-2. "The old personality slain to complete the transfer of consciousness to Tiphareth." - *Liber Theta* (College of Thelema, 2012), p. 26
+2. Also decomposition, disintegration.
+3. "The old personality slain to complete the transfer of consciousness to Tiphareth." - *Liber Theta* (College of Thelema, 2012), p. 26
 
 
 
