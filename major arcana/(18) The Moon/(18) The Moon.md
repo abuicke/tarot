@@ -19,6 +19,7 @@
 
 1) Everything exposed, secrets/hidden things coming to light (esp. in an ugly and sudden way).
 2) Return of the repressed<sup>2</sup> (resisting the unconscious, resisting what the unconscious wants to express). This can result in dissociation, pain, inflammation, digestive issues, hypochondria, paranoia, worry, fear etc.
+3) Sudden release of unconscious energy—resulting in mania, anxiety, insomnia etc.
 
 
 
