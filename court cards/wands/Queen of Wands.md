@@ -16,7 +16,7 @@
 ### Reversed
 
 1) A lack of self-knowledge.
-2) Inhibited, lacking zest, unsure of one's self—one's flame has "gone out".
+2) Inhibited, timid, lacking zest, unsure of one's self—one's flame has "gone out".
 
 
 
