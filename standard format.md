@@ -36,6 +36,10 @@
 >
 >*John 8:12 (KJV)*
 
+>gospel of Thomas saying
+>
+>*Gospel of Thomas*, Saying 7
+
 
 
 ### Footnotes
