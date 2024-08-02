@@ -21,7 +21,9 @@
 
 ### Extra
 
-
+>Blessed is the lion which becomes man when consumed by man; and cursed is the man whom the lion consumes, and the lion becomes man.
+>
+>*Gospel of Thomas*, Saying 7
 
 
 
