@@ -10,6 +10,8 @@
 
 1) Full, rich joy.
 2) Support from friends.
+3) Making new friends.
+4) Social harmony.
 
 
 
