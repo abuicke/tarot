@@ -4,7 +4,9 @@ Chesed is always in the shadow of each prince.
 
 This is because the opposites of nature are made up of the balance between Geburah (each prince's failure) and Tiphareth (his success).
 
->*Each act of man is the twist and double of an hare. Love and death are the greyhounds that course him. God bred the hounds and taketh His pleasure in the sport.* - **The Book of Lies** by Aleister Crowley
+>*Each act of man is the twist and double of an hare. Love and death are the greyhounds that course him. God bred the hounds and taketh His pleasure in the sport.*
+>
+>**Aleister Crowley**, *The Book of Lies* (Celephaïs Press, 2019), p. 64
 
 Geburah constantly breaks the order of Chesed, and in the perpetual cycle of Geburah breaking Chesed and Chesed trying to restore its order, we get the beautiful, perfectly balanced (Lamed), harmonious dynamism of Tiphareth.
 
