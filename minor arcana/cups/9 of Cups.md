@@ -9,7 +9,7 @@
 ### Upright
 
 1) An **optimistic** outlook for the future. Seeing what you have and what's working for you instead of paying attention to what you lack.
-2) **Happiness**; contentment.
+2) **Happiness**, **contentment**.
 
 
 
