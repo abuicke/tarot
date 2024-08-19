@@ -220,18 +220,18 @@ It should be noted that terms such as *Joy* and *Pain* do not only refer to huma
 The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences<sup>8</sup> which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
 
 
-## The Sephiroth (of the human psyche)
+## The Sephiroth (of Jungian psychology)
 
-Kether -   
+Kether - Self  
 Chokmah -   
-Binah -   
-Chesed -  
+Binah - Collective Unconscious  
+Chesed -   
 Geburah -   
-Tiphareth - Jungian Self (the union of opposites)  
-Netzach -   
-Hod -   
+Tiphareth - Ego  
+Netzach - Libido  
+Hod - Archetypal Images  
 Yesod - Subconscious  
-Malkuth - Unconscious  
+Malkuth - Personal Unconscious  
 
 
 ## The Sephiroth (of love)
