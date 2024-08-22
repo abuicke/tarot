@@ -223,15 +223,17 @@ The qualities attributed to Yesod of the human experience have the nature of an 
 ## The Sephiroth (of Jungian psychology)
 
 Kether - Self  
-Chokmah -   
+Chokmah - Consciousness  
 Binah - Collective Unconscious  
-Chesed -   
-Geburah -   
-Tiphareth - Ego  
-Netzach - Libido  
-Hod - Archetypal Images  
-Yesod - Subconscious  
-Malkuth - Personal Unconscious  
+Chesed - Memory  
+Geburah - Will  
+Tiphareth - Ego/Self-Consciousness  
+Netzach - Emotions  
+Hod - Intellect  
+Yesod - Subconscious/Libido  
+Malkuth - Unconscious  
+
+Zayin - Intuition
 
 
 ## The Sephiroth (of love)
