@@ -238,7 +238,7 @@ Zayin - Intuition
 
 ## The Sephiroth (of love)
 
-Kether - 
+Kether -   
 Chokmah - Love (as divine union)  
 Binah - Love (as bliss)  
 Chesed - Love (as joy)  
