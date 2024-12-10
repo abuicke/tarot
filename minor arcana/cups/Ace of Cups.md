@@ -15,7 +15,7 @@
 
 ### Reversed
 
-1) Emotional blockage (can manifest as a tangible energy block).
+1) Emotional blockage (can manifest as a tangible energy block leading to adverse symptoms<sup>1</sup>).
 
 
 
@@ -27,6 +27,6 @@
 
 ### Footnotes
 
-1. 
+1. [Conversion Disorder](https://en.wikipedia.org/wiki/Conversion_disorder)
 
 
