@@ -15,7 +15,7 @@
 
 ### Reversed
 
-1) 
+1) Emotional blockage (can manifest as a tangible energy block).
 
 
 
