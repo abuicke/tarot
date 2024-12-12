@@ -10,6 +10,7 @@
 ### Upright
 
 1) Focusing one's attention on the day-to-day practical steps to achieve one's goals.<sup>1,2</sup>
+2) Study (academics)
 
 
 
