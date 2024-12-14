@@ -13,6 +13,7 @@
 3) A strong, clear perspective, which penetrates through matters quickly and easily, not giving way to emotional upset or volatility.
 4) Enhanced perceptual abilities
 5) Mental acuity
+6) Mental peace and clarity
 
 
 
