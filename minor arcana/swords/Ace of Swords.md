@@ -12,6 +12,7 @@
 2) An increased broadness and openness in one's perspective. A person's perspective encapsulates more than it did before.
 3) A strong, clear perspective, which penetrates through matters quickly and easily, not giving way to emotional upset or volatility.
 4) Enhanced perceptual abilities
+5) Mental acuity
 
 
 
