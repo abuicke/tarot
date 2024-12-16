@@ -14,6 +14,7 @@
 4) Enhanced perceptual abilities
 5) Mental acuity
 6) Mental peace and clarity
+7) Heightened awareness; clarity through meditation.
 
 
 
