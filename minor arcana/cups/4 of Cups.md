@@ -9,6 +9,7 @@
 ### Upright
 
 1) Indulgence. Excessive drinking, eating and leisure.
+2) Lazing about, idleness, luxury, sloth, over-eating, listlessness.
 
 
 
