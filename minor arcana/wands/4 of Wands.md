@@ -17,7 +17,7 @@
 
 ### Reversed
 
-1) 
+1) A stable foundation/pattern/routine has fallen away.
 
 
 
