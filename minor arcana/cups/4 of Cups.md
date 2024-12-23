@@ -12,6 +12,7 @@
 2) Lazing about, idleness, luxury, sloth, over-eating, listlessness.
 3) Something which was looked forward to and anticipated wasn't as pleasurable as hoped. The emptiness of pleasure, leisure and luxury.
 4) The hope of pleasure leading to dissapointment when it's not as enjoyable as hoped.
+5) Leisure and pleasure without enjoyment, feeling gross and excessively indulgent.
 
 
 
