@@ -257,7 +257,7 @@ Kether - Love (as existence)
 Chokmah - Love (as divine union)  
 Binah - Love (as bliss)  
 Chesed - Love (as joy)  
-Geburah - 
+Geburah - Love (as energy)  
 Tiphareth - Love (as meaning)  
 Netzach - Love (as attraction, excitement, fantasy)  
 Hod - Love (as idolization)  
