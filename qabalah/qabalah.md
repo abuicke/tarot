@@ -22,6 +22,7 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
     - [The Sephiroth (of the human being)](#the-sephiroth-of-the-human-being)
     - [The Sephiroth (of the human experience)](#the-sephiroth-of-the-human-experience)
     - [The Sephiroth (of the human psyche)](#the-sephiroth-of-the-human-psyche)
+    - [The Sephiroth (of anthroposophy)](#the-sephiroth-of-anthroposophy)
     - [The Sephiroth (of love)](#the-sephiroth-of-love)
     - [The Sephiroth (of the chakra system)](#the-sephiroth-of-the-chakra-system)
     - [The Sephiroth (of the five koshas)](#the-sephiroth-of-the-five-koshas)
@@ -236,12 +237,27 @@ Malkuth - Unconscious
 Zayin - Intuition
 
 
+## The Sephiroth (of anthroposophy)
+
+Kether - Atman (Spirit Human)  
+Chokmah - Buddhi (Life Spirit)  
+Binah - Manas (Spirit Self)  
+Chesed - Lucifer  
+Geburah - Ahriman  
+Tiphareth - Christ, Ego, the I  
+Netzach - Instincts and Emotions  
+Hod - Intellect  
+Yesod - Astral Body  
+Malkuth - Etheric & Physical Body
+
+
 ## The Sephiroth (of love)
 
-Kether -   
+Kether - Love (as existence)  
 Chokmah - Love (as divine union)  
 Binah - Love (as bliss)  
 Chesed - Love (as joy)  
+Geburah - 
 Tiphareth - Love (as meaning)  
 Netzach - Love (as attraction, excitement, fantasy)  
 Hod - Love (as idolization)  
