@@ -127,6 +127,8 @@ Malkuth - The World, The Universe, Physical Realtiy, Material Reality
 
 There are three pillars on the Tree of Life, one deonating forms, one denoting energies, and the central pillar denoting different levels of being and consciousness. However, there is also a zig-zag pattern at play, whereby Chokmah-Geburah-Netzach are all forms of energy, while Binah-Chesed-Hod are all forms of structure, the central pillar constantly restoring balance to these principles. In this way, the Tree of Life follows the same pattern as the Taijitu glyph of the Tao, where the pillars do not remain separate. As energy descends, each quality participates in the other, beginning as pure masculine and feminine principles, but then becoming the masculine-feminine and the feminine-masculine, and then the masculine-femine-masculine and the feminine-masculine-feminine, each type being resolved in the central pillar, creating a denser and more refined level of reality.
 
+The fundmanetal interplay between the pillars reflects the triune nature of the Divine also exposited in Samkhya (the three gunas), the alchemical primes, the father-mother-child paradigm of many religions (e.g. Ancient Egypt, Thelema), the Trinity.
+
 ## The Sephiroth (as verbs)
 
 Kether - **Being**  
