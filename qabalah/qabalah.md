@@ -6,7 +6,8 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 ## Table of Contents
 
-1. [The Elements & The Four Worlds](#the-elements--the-four-worlds)
+1. [The Elements](#the-elements)
+    - [The Elements & The Four Worlds](#the-elements--the-four-worlds)
     - [Fire/Light/Yang 🔥](#firelightyang-)
     - [Water/Darkness/Yin 💧](#waterdarknessyin-)
     - [Air 💨](#air-)
@@ -16,6 +17,7 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
     - [Rajas (Activity)](#rajas-activity)
     - [Sattva (Dissolution)](#sattva-dissolution)
 7. [The Sephiroth](#the-sephiroth)
+    - [The Sephiroth (as verbs)](#the-sephiroth-as-verbs)
     - [The Sephiroth (of the macrocosm)](#the-sephiroth-of-the-macrocosm)
     - [The Sephiroth (of manifestation)](#the-sephiroth-of-manifestation)
     - [The Sephiroth (between the worlds)](#the-sephiroth-between-the-worlds)
@@ -35,6 +37,14 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
     - [The Plain English Paths](#the-plain-english-paths)
 23. [The Abyss and the Triads](#the-abyss-and-the-triads)
 24. [Footnotes](#footnotes)
+
+## The Elements
+
+Fire - Intuition, Knowing, Gnosis
+Water - Perception
+Air - Analysis, Mentation, Conception
+Earth - Action, Crystallization
+
 
 ## The Elements & The Four Worlds
 
@@ -103,6 +113,21 @@ Knowing, Transcendence, Immortality (of the spirit)
 
 
 ## The Sephiroth
+
+Kether - Godhead, Pure Being, Awareness  
+Chokmah - Logos, Energy, Divine Will  
+Binah - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
+Chesed - Space (metaphysically), Memory, Akash  
+Genurah - Energy, Motion, Will  
+Tiphareth - Anima Mundi, Solar Logos, The Self-Conscious Individual, Meaning, God Within the World, Ego  
+Netzach - Qualia, Energy, Emotion, Motivation  
+Hod - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
+Yesod - Structure, Etheric Body, Life Energies  
+Malkuth - The World, The Universe, Physical Realtiy, Material Reality  
+
+There are three pillars on the Tree of Life, one deonating forms, one denoting energies, and the central pillar denoting different levels of being and consciousness. However, there is also a zig-zag pattern at play, whereby Chokmah-Geburah-Netzach are all forms of energy, while Binah-Chesed-Hod are all forms of structure, the central pillar constantly restoring balance to these principles. In this way, the Tree of Life follows the same pattern as the Taijitu glyph of the Tao, where the pillars do not remain separate. As energy descends, each quality participates in the other, beginning as pure masculine and feminine principles, but then becoming the masculine-feminine and the feminine-masculine, and then the masculine-femine-masculine and the feminine-masculine-feminine, each type being resolved in the central pillar, creating a denser and more refined level of reality.
+
+## The Sephiroth (as verbs)
 
 Kether - **Being**  
 Chokmah - **Creating**, Witnessing<sup>3</sup>  
