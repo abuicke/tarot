@@ -117,8 +117,8 @@ Knowing, Transcendence, Immortality (of the spirit)
 Kether - Godhead, Pure Being, Awareness  
 Chokmah - Logos, Energy, Divine Will  
 Binah - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
-Chesed - Space (metaphysically), Memory, Akash  
-Genurah - Energy, Motion, Will  
+Chesed - Space (metaphysically), Expansion, Memory, Akash  
+Genurah - Energy, Motion, Will, Contraction, Correction, Destruction  
 Tiphareth - Anima Mundi, Solar Logos, The Self-Conscious Individual, Meaning, God Within the World, Ego  
 Netzach - Qualia, Energy, Emotion, Motivation  
 Hod - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
