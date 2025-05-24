@@ -117,9 +117,11 @@ Knowing, Transcendence, Immortality (of the spirit)
 Kether - Godhead, Pure Being, Awareness  
 Chokmah - Logos, Energy, Divine Will  
 Binah - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
-Chesed - Space (metaphysically), Expansion, Memory, Akash  
-Geburah - Energy, Motion, Will, Contraction, Correction, Destruction  
-Tiphareth - Anima Mundi, Solar Logos, The Self-Conscious Individual, Meaning, God Within the World, Ego (Self)  
+
+Chesed - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
+Geburah - **Energy**, Motion, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
+Tiphareth - **Light**, Anima Mundi, Solar Logos, The Self-Conscious Individual, **Life**, Meaning, God Within the World, Ego (Self), **Intelligence**  
+
 Netzach - Qualia, Energy, Emotion, Motivation  
 Hod - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
 Yesod - Structure, Etheric Body, Life Energies  
