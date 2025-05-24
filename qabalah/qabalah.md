@@ -122,10 +122,10 @@ Knowing, Transcendence, Immortality (of the spirit)
 **Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
 **Tiphareth** - **Light**, Anima Mundi, **Life**, Solar Logos, **Existence**, **Intelligence**, The Self-Conscious Individual, Meaning, God Within the World, Ego (Self)  
 
-**Netzac** - Qualia, Energy (as impulse to act, propulsion, bosons?), Emotion, Motivation, Instinct  
+**Netzach** - Qualia, Energy (as impulse to act, propulsion, bosons?), Emotion, Motivation, Instinct  
 **Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
 **Yesod** - Structure, Etheric Body, Life Energies  
-**Malkuth** - The World, The Universe, Physical Realtiy, Material Reality  
+**Malkuth** - The World, The Universe, Physical Reality, Material Reality  
 
 There are three pillars on the Tree of Life, one denoting forms, one denoting energies, and the central pillar denoting different levels of being and consciousness. However, there is also a zig-zag pattern at play, whereby Chokmah-Geburah-Netzach are all forms of energy, while Binah-Chesed-Hod are all forms of structure, the central pillar constantly restoring balance to these principles. In this way, the Tree of Life follows the same pattern as the Taijitu glyph of the Tao, where the pillars do not remain separate. As energy descends, each quality participates in the other, beginning as pure masculine and feminine principles, but then becoming the masculine-feminine and the feminine-masculine, and then the masculine-femine-masculine and the feminine-masculine-feminine, each type being resolved in the central pillar, creating a denser and more refined level of reality.
 
