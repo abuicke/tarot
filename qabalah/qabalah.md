@@ -122,7 +122,7 @@ Knowing, Transcendence, Immortality (of the spirit)
 **Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
 **Tiphareth** - **Light**, Anima Mundi, **Life**, Solar Logos, **Existence**, **Intelligence**, The Self-Conscious Individual, Meaning, God Within the World, Ego (Self)  
 
-**Netzac** - Qualia, Energy, Emotion, Motivation  
+**Netzac** - Qualia, Energy (as impulse to act, propulsion, bosons?), Emotion, Motivation, Instinct  
 **Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
 **Yesod** - Structure, Etheric Body, Life Energies  
 **Malkuth** - The World, The Universe, Physical Realtiy, Material Reality  
