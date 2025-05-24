@@ -114,18 +114,18 @@ Knowing, Transcendence, Immortality (of the spirit)
 
 ## The Sephiroth
 
-Kether - Godhead, Pure Being, Awareness  
-Chokmah - Logos, Energy, Divine Will  
-Binah - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
+**Kether** - Godhead, Pure Being, Awareness  
+**Chokmah** - Logos, Energy, Divine Will  
+**Binah** - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
 
-Chesed - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
-Geburah - **Energy**, Motion, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
-Tiphareth - **Light**, Anima Mundi, Solar Logos, The Self-Conscious Individual, **Life**, Meaning, God Within the World, Ego (Self), **Intelligence**  
+**Chesed** - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
+**Geburah** - **Energy**, Motion, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
+**Tiphareth** - **Light**, Anima Mundi, Solar Logos, The Self-Conscious Individual, **Life**, Meaning, God Within the World, Ego (Self), **Intelligence**  
 
-Netzach - Qualia, Energy, Emotion, Motivation  
-Hod - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
-Yesod - Structure, Etheric Body, Life Energies  
-Malkuth - The World, The Universe, Physical Realtiy, Material Reality  
+**Netzac** - Qualia, Energy, Emotion, Motivation  
+**Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
+**Yesod** - Structure, Etheric Body, Life Energies  
+**Malkuth** - The World, The Universe, Physical Realtiy, Material Reality  
 
 There are three pillars on the Tree of Life, one denoting forms, one denoting energies, and the central pillar denoting different levels of being and consciousness. However, there is also a zig-zag pattern at play, whereby Chokmah-Geburah-Netzach are all forms of energy, while Binah-Chesed-Hod are all forms of structure, the central pillar constantly restoring balance to these principles. In this way, the Tree of Life follows the same pattern as the Taijitu glyph of the Tao, where the pillars do not remain separate. As energy descends, each quality participates in the other, beginning as pure masculine and feminine principles, but then becoming the masculine-feminine and the feminine-masculine, and then the masculine-femine-masculine and the feminine-masculine-feminine, each type being resolved in the central pillar, creating a denser and more refined level of reality.
 
