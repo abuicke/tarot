@@ -40,10 +40,10 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 ## The Elements
 
-Fire - Intuition, Knowing, Gnosis
-Water - Perception
-Air - Analysis, Mentation, Conception
-Earth - Action, Crystallization
+Fire - Intuition, Knowing, Gnosis  
+Water - Perception  
+Air - Analysis, Mentation, Conception  
+Earth - Action, Crystallization  
 
 
 ## The Elements & The Four Worlds
