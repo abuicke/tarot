@@ -48,10 +48,10 @@ Earth - Action, Crystallization
 
 ## The Elements & The Four Worlds
 
-**Fire/Atziluth/Spiritual** - Creating, Generating, Inseminating (Creation)  
-**Water/Briah/Moral** - Grasping, Understanding, Knowing (Intuition)  
-**Air/Yetzirah/Intellectual** - Dissecting, Examining, Categorizing (Mentation)  
-**Earth/Assiah/Actual** - Embodying, Being, Doing (Crystallization)  
+**Fire/Atziluth/Spiritual** - Creating, Generating, Inseminating (**Creation**)  
+**Water/Briah/Moral** - Grasping, Understanding, Knowing (**Intuition**)  
+**Air/Yetzirah/Intellectual** - Dissecting, Examining, Categorizing (**Mentation**)  
+**Earth/Assiah/Actual** - Embodying, Being, Doing (**Crystallization**)  
 
 
 ## Fire/Light/Yang 🔥
