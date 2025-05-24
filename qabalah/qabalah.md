@@ -120,7 +120,7 @@ Knowing, Transcendence, Immortality (of the spirit)
 
 **Chesed** - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
 **Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
-**Tiphareth** - **Light**, Anima Mundi, Solar Logos, The Self-Conscious Individual, **Life**, Meaning, God Within the World, Ego (Self), **Intelligence**  
+**Tiphareth** - **Light**, Anima Mundi, **Life**, Solar Logos, **Existence**, The Self-Conscious Individual, **Intelligence**, Meaning, God Within the World, Ego (Self)  
 
 **Netzac** - Qualia, Energy, Emotion, Motivation  
 **Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
