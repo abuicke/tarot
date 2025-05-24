@@ -119,7 +119,7 @@ Knowing, Transcendence, Immortality (of the spirit)
 **Binah** - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
 
 **Chesed** - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
-**Geburah** - **Energy**, Motion, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
+**Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
 **Tiphareth** - **Light**, Anima Mundi, Solar Logos, The Self-Conscious Individual, **Life**, Meaning, God Within the World, Ego (Self), **Intelligence**  
 
 **Netzac** - Qualia, Energy, Emotion, Motivation  
