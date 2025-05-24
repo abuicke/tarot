@@ -121,7 +121,7 @@ Knowing, Transcendence, Immortality (of the spirit)
 
 **Chesed** - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
 **Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
-**Tiphareth** - **Light**, Anima Mundi, **Life**, Solar Logos, **Existence**, **Intelligence**, The Self-Conscious Individual, Meaning, God Within the World, Ego (Self)  
+**Tiphareth** - **Light**, Anima Mundi, **Life (Sustaining)**, Solar Logos, **Existence**, **Intelligence**, Synthesis, The Self-Conscious Individual, Dynamic Equilibrium*, Meaning, God Within the World, Ego (Self)  
 
 **Netzach** - Qualia, Energy (as impulse to act, propulsion, bosons?), Emotion, Motivation, Instinct  
 **Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
@@ -131,6 +131,8 @@ Knowing, Transcendence, Immortality (of the spirit)
 There are three pillars on the Tree of Life, one denoting forms, one denoting energies, and the central pillar denoting different levels of being and consciousness. However, there is also a zig-zag pattern at play, whereby Chokmah-Geburah-Netzach are all forms of energy, while Binah-Chesed-Hod are all forms of structure, the central pillar constantly restoring balance to these principles. In this way, the Tree of Life follows the same pattern as the Taijitu glyph of the Tao, where the pillars do not remain separate. As energy descends, each quality participates in the other, beginning as pure masculine and feminine principles, but then becoming the masculine-feminine and the feminine-masculine, and then the masculine-femine-masculine and the feminine-masculine-feminine, each type being resolved in the central pillar, creating a denser and more refined level of reality.
 
 The fundamental interplay between the pillars reflects the triune nature of the Divine also exposited in Samkhya (the three gunas), the alchemical primes, the father-mother-child paradigm of many religions (e.g. Ancient Egypt, Thelema), the Trinity.
+
+\* This is a vital one. In my visions of Tiphareth, it is a highly active sphere of energy, with many currents running through it. Constantly being taken off balance by the forces of Geburah and Chesed, and constantly finding balance and restoring order. It's the union of opposites.
 
 ## The Sephiroth (as verbs)
 
