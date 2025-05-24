@@ -1,6 +1,6 @@
 # The Qabalah
 
-*The Living Tree: A Contemporary Cosmology of the Qabalah*
+*The Living Tree: A Contemporary Cosmology of the Qabalah*  
 Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/tree%20of%20life.png" alt="Tree of Life" width="50%"/>
