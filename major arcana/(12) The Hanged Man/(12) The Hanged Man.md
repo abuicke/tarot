@@ -12,6 +12,7 @@
 2) **Giving up**. Seeing that no more progress can be made in the current state or situation.
 3) Reaching an **impasse**.
 4) (Being) **stuck**, a situation that can't progress in it's current form.
+5) Achieving a new perspective as the result of being stuck. Forced to pay attention as the result of immobility.
 
 
 
