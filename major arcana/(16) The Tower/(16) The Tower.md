@@ -50,7 +50,7 @@
 >
 >**Tom Hardy**, [*What was your first contact with Charlie?*](https://www.youtube.com/watch?v=RstefCPs3kU)
 
-
+The Tower is The Tower of Babel from the Bible. It is a metaphor for the every day process of the lower psyche (the lower human personality), where a person is bounced back and forth between feelings and justifications, lusts and abstractions, back and forth, into something that feels like it's going somewhere, but will never reach the individuality (Tiphareth) it truly craves to be—constantly building a tower that's destined to come crashing down under its own weight. In the allegory of the Tower of Babel, the people were defeated by speaking many different languages, which could also be considered the many disparate voices of the lower psyche and the unconscious, all quarelling with each other.
 
 ### Footnotes
 
