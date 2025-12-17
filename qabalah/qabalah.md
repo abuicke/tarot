@@ -277,10 +277,10 @@ Binah - Manas (Spirit Self)
 Chesed - Lucifer  
 Geburah - Ahriman  
 Tiphareth - Christ, Ego, the I  
-Netzach - Instincts and Emotions  
-Hod - Intellect  
-Yesod - Astral Body  
-Malkuth - Etheric & Physical Body
+Netzach - Astral Body (Feelings)  
+Hod - Astral Body (Intellect)  
+Yesod - Etheric  
+Malkuth - Physical Body
 
 
 ## The Sephiroth (of love)
