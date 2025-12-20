@@ -10,6 +10,7 @@
 
 1) **Trapped**/**Imprisoned**<sup>1</sup>—especially in the physical body (restrained mobility, pain).
 2) Physical **limitation**.
+3) The evil eye.
 
 
 
