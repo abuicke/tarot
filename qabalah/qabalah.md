@@ -271,16 +271,16 @@ Zayin - Intuition
 
 ## The Sephiroth (of anthroposophy)
 
-Kether - Atman (Spirit Human)  
+Kether - Atma (Spirit Man)  
 Chokmah - Buddhi (Life Spirit)  
 Binah - Manas (Spirit Self)  
-Chesed - Lucifer  
-Geburah - Ahriman  
-Tiphareth - Christ, Ego, the I  
-Netzach - Astral Body (Feelings)  
-Hod - Astral Body (Intellect)  
-Yesod - Etheric  
-Malkuth - Physical Body
+Chesed - Lucifer (Cosmic)  
+Geburah - Ahriman (Cosmic)  
+Tiphareth - Christ, Ego, Human, the I  
+Netzach - Astral Body (Feelings), Soul Body, Animal, Sentient Soul, Lucifer (Personal)  
+Hod - Astral Body (Intellect), Soul Body, Animal, Sentient Soul, Ahriman (Personal)  
+Yesod - Etheric Body, Life Body, Plant, Intellectual Soul  
+Malkuth - Physical Body, Mineral Body, Mineral, Consciousness Soul
 
 
 ## The Sephiroth (of love)
