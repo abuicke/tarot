@@ -16,6 +16,8 @@
 6) Mental peace and clarity
 7) Heightened awareness; clarity through meditation.
 8) Perfect insight, complete clarity in perception (offering a new, unique persective—genius, wisdom).
+9) Fresh perspective
+10) Profound insight or realisation
 
 
 
