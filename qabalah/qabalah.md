@@ -1,7 +1,5 @@
-# The Qabalah
-
-*The Living Tree: A Contemporary Cosmology of the Qabalah*  
-Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
+# *The Living Tree*: A Contemporary Cosmology of the Qabalah
+Here in is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/tree%20of%20life.png" alt="Tree of Life" width="50%"/>
 
@@ -41,10 +39,10 @@ Here is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 ## The Elements
 
-Fire - Intuition, Knowing, Gnosis  
-Water - Perception  
-Air - Analysis, Mentation, Conception  
-Earth - Action, Crystallization  
+**Fire** - Intuition, Knowing, Gnosis  
+**Water** - Perception  
+**Air** - Analysis, Mentation, Conception  
+**Earth** - Action, Crystallization  
 
 
 ## The Elements & The Four Worlds
@@ -79,7 +77,7 @@ The Earth element adopts the remaining two qualities of Fire and Water not taken
 
 ## The Three Gunas<sup>2</sup>
 
-#### Tamas (Inertia)
+### Tamas (Inertia)
 
 Earth  
 Durga, Kali  
@@ -90,7 +88,7 @@ Pillar of Severity (Boaz)
 The Fixed Signs  
 Power, Immortality (of the body), Strength
 
-#### Rajas (Activity)
+### Rajas (Activity)
 
 Sun  
 Lakshmi  
@@ -101,7 +99,7 @@ Pillar of Mercy (Jachin)
 The Cardinal Signs  
 Wealth, Passion, Life  
 
-#### Sattva (Dissolution)
+### Sattva (Dissolution)
 
 Moon  
 Saraswati  
@@ -119,9 +117,9 @@ Knowing, Transcendence, Immortality (of the spirit)
 **Chokmah** - Logos, Energy, Divine Will  
 **Binah** - Sacred Geometry (Mathematics), Divine Archetypes, Archetypal Forms & Intelligences  
 
-**Chesed** - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
-**Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
-**Tiphareth** - **Light**, Anima Mundi, **Life (Sustaining)**, Solar Logos, **Existence**, **Intelligence**, Synthesis, The Self-Conscious Individual, Dynamic Equilibrium*, Meaning, God Within the World, Ego (Self), Harmony, Music  
+**Chesed** - Space (metaphysically), Expansion, Memory, Akash, Growth, Entropy  
+**Geburah** - Motion, Energy, Will, Contraction, Correction, Destruction, Syntropy  
+**Tiphareth** - Light, Anima Mundi, Life (Sustaining), Solar Logos, Existence, Intelligence**, Synthesis, The Self-Conscious Individual, Dynamic Equilibrium*, Meaning, God Within the World, Ego (Self), Harmony, Music  
 
 **Netzach** - Qualia, Energy (as impulse to act, propulsion, bosons?), Emotion, Motivation, Instinct  
 **Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
@@ -136,16 +134,16 @@ The fundamental interplay between the pillars reflects the triune nature of the 
 
 ## The Sephiroth (as verbs)
 
-Kether - **Being**  
-Chokmah - **Creating**, Witnessing<sup>3</sup>  
-Binah - **Understanding**, Forming, Limiting  
-Chesed - **Expanding**, Establishing, Ordering, Structuring  
-Geburah - **Destroying**, Shaping, Bounding  
-Tiphareth - **Harmonizing**, Experiencing  
-Netzach - **Feeling**, Decomposing  
-Hod - **Comprehending**, Reflecting, Channelizing  
-Yesod - **Living**, Building, Growing  
-Malkuth - **Acting**, Doing  
+**Kether** - *Being*  
+**Chokmah** - *Creating*, Witnessing<sup>3</sup>  
+**Binah** - *Understanding*, Forming, Limiting  
+**Chesed** - *Expanding*, Establishing, Ordering, Structuring  
+**Geburah** - *Destroying*, Shaping, Bounding  
+**Tiphareth** - *Harmonizing*, Experiencing  
+**Netzach** - *Feeling*, Decomposing  
+**Hod** - *Comprehending*, Reflecting, Channelizing  
+**Yesod** - *Living*, Building, Growing  
+**Malkuth** - *Acting*, Doing  
 
 It is important to note that the Sephiroth do not exist independently, one is built on another. Yesod, for example, has the qualities of each sephirah that came before it, plus its own. It is a worthwhile exercise to find the qualities a sephirah has inherited from each of its parents, which it will express in its own way.
 
