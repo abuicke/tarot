@@ -43,11 +43,13 @@ The Tree of Life, fundamentally, is a Hegelian dialectic. Energies fly from one 
 
 The most obvious example of this is to be found in the Sephiroth immediately below The Abyss—Chesed and Geburah. Chesed, in it's over-abundant Joy for life, simply overflows with energy. Being the direct the descendant of Chokmah above it, it knows nothing but generation. While this may seem a pleasing prospect, too much water will drown, too much air will suffocate, and too much fire will burn. However, Chesed cannot be relied on to be both its own ideal and its opposite. It is not a mistake or an error of Creation that Chesed knows how to do this and only this, for in the spirit of the dialectic, we need both the thesis *and* the antithesis established in their own right before we can achieve the synthesis (the middle pillar).
 
-The anithesis in this case is Geburah—the mighty enforcer of his Divine Mother, Binah. Geburah knows nothing of creation, but only of destruction. Geburah is the expert of *what* (Binah) and *how* to cut away what it finds in Chesed.
+The anithesis in this case is Geburah—the mighty enforcer of his Divine Mother, Binah. Geburah knows nothing of creation, but only of destruction. Geburah is the expert of *what*<sup>1</sup> and *how* to cut away what it finds in Chesed.
 
 Together these two forces bring about the state of Tiphareth—an incredibly dynamic and active balance (*Lamed*).
 
-It is important to see that Creation is not a literally flowing of energy from one resevoir into the other, but that Chesed and Geburah exist in the exact same place and time, as the balancing forces which give rise to Tiphareth. In the same way that gravity and electromagnetism exist in the same place as the physical universe, operating throughout it to sustain its existence.
+It is important to see that Creation is not a literal flowing of energy from one resevoir into another, but that Chesed and Geburah exist in the exact same place and time, as the balancing forces which give rise to Tiphareth. In the same way that gravity and electromagnetism exist in the same place as the physical universe, operating throughout it to sustain its existence.
+
+Equally there is a need to move up and down the Tree. Binah, as the master builder, master architect of Creation, cannot simultaneously contain the perfect, abstract proportions of mathematics, while also existing at the denser, lower levels of the Tree, or at the higher, less abstract plains of Kether and the Ain Soph. In the same way an architect must reside at the level of the master plan for a building, and cannot simultaneously build it, there is a refinement and abstraction up and down the Tree. Beginning in absolute nothingness, with no definition, and ending in complete, full crystalliization, with nothing left unsaid.
 
 ## The Elements
 
@@ -434,16 +436,17 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 
 
 ## Footnotes
-1. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-2. See: [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
-3. From the point of view of the third-eye, seeing and creating are one and the same.
-4. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition), p. 13
-5. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
-6. See First Law of Thermodynamics (Law of Energy Conservation) 
-7. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
-8. See *The Body Keeps the Score* by Bessel Van Der Kolk
-9. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
-10. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-11. See *Liber 777*, row 6, column 187, second formula.
+1. Geburah is only restrained in its destructive impulse by his mother, Binah. Binah is the master builder of the Universe, laying at the exact proportions necessary for the Creation to sustain. Geburah enfroces these proportions.
+2. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
+3. See: [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
+4. From the point of view of the third-eye, seeing and creating are one and the same.
+5. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition), p. 13
+6. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
+7. See First Law of Thermodynamics (Law of Energy Conservation) 
+8. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
+9. See *The Body Keeps the Score* by Bessel Van Der Kolk
+10. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+11. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+12. See *Liber 777*, row 6, column 187, second formula.
 
 
