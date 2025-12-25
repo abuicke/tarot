@@ -117,11 +117,11 @@ Knowing, Transcendence, Immortality (of the spirit)
 
 **Kether** - Godhead, Pure Being, Awareness  
 **Chokmah** - Logos, Energy, Divine Will  
-**Binah** - Sacred Geometry, Divine Archetypes, Archetypal Forms & Intelligences  
+**Binah** - Sacred Geometry (Mathematics), Divine Archetypes, Archetypal Forms & Intelligences  
 
 **Chesed** - **Space (metaphysically)**, **Expansion**, Memory, Akash, **Growth**, **Entropy**  
 **Geburah** - **Motion**, Energy, Will, **Contraction**, Correction, **Destruction**, **Syntropy**  
-**Tiphareth** - **Light**, Anima Mundi, **Life (Sustaining)**, Solar Logos, **Existence**, **Intelligence**, Synthesis, The Self-Conscious Individual, Dynamic Equilibrium*, Meaning, God Within the World, Ego (Self)  
+**Tiphareth** - **Light**, Anima Mundi, **Life (Sustaining)**, Solar Logos, **Existence**, **Intelligence**, Synthesis, The Self-Conscious Individual, Dynamic Equilibrium*, Meaning, God Within the World, Ego (Self), Harmony, Music  
 
 **Netzach** - Qualia, Energy (as impulse to act, propulsion, bosons?), Emotion, Motivation, Instinct  
 **Hod** - Reflexive Consciousness, Metacognition, Discursive Mind, Thinking, Abstraction, Crystallization, Symbolism  
