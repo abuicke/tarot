@@ -154,32 +154,32 @@ It is important to note that the Sephiroth do not exist independently, one is bu
 
 ## The Sephiroth (of the macrocosm)
 
-Kether - Brahma  
-Chokmah - The Causal Plane, The Great Father, Shiva, Lingam, The Face of the Divine  
-Binah - The Causal Plane, The Great Mother, Shakti, Kali, Yoni, Sacred Geometry, The Womb of Creation  
-Chesed - Natural Law (Dhamma/Dharma) Karma (as cause), Vishnu, Cosmic Order (upholding the good)  
-Geburah - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropy arising from Chesed)  
-Tiphareth - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>4</sup>  
-Netzach - The Astral Plane, Indra, Kama  
-Hod - The Astral Plane  
-Yesod - The Etheric Plane  
-Malkuth - The Physical Plane  
+**Kether** - Brahma  
+**Chokmah** - The Causal Plane, The Great Father, Shiva, Lingam, The Face of the Divine  
+**Binah** - The Causal Plane, The Great Mother, Shakti, Kali, Yoni, Sacred Geometry, The Womb of Creation  
+**Chesed** - Natural Law (Dhamma/Dharma) Karma (as cause), Vishnu, Cosmic Order (upholding the good)  
+**Geburah** - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropy arising from Chesed)  
+**Tiphareth** - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>4</sup>  
+**Netzach** - The Astral Plane, Indra, Kama  
+**Hod** - The Astral Plane  
+**Yesod** - The Etheric Plane  
+**Malkuth** - The Physical Plane  
 
 When dealing with Chesed and Geburah, we are really dealing with the aspects of Chokmah and Binah that exert influence below the Abyss, e.g. Shakti is the abstract feminine principle represented by Binah, while Durga is her manifestation below the Abyss in the form of Geburah, the fierce aspect of Shakti that combats evil and restores dharma (cosmic order).
 
 
 ## The Sephiroth (of manifestation)
 
-Kether - Space  
-Chokmah - Energy  
-Binah - Time<sup>5</sup>, Causality  
-Chesed - Entropy  
-Geburah - Physics, Force, Conservation<sup>6</sup>  
-Tiphareth - Electromagnetic field, Light (invisible)  
-Netzach - Electricity, Light (spectrum)  
-Hod - Magnetism  
-Yesod - Charged Particles  
-Malkuth - Matter
+**Kether** - Space  
+**Chokmah** - Energy  
+**Binah** - Time<sup>5</sup>, Causality  
+**Chesed** - Entropy  
+**Geburah** - Physics, Force, Conservation<sup>6</sup>  
+**Tiphareth** - Electromagnetic field, Light (invisible)  
+**Netzach** - Electricity, Light (spectrum)  
+**Hod** - Magnetism  
+**Yesod** - Charged Particles  
+**Malkuth** - Matter
 
 There's a quality of Geburah which is "the corrective nature of physics", probably best termed simply as *Physics*, which I have labelled it here. The bounding, limiting, shaping nature of Binah, becomes the violent correcting force of Geburah below the Abyss. It's the fall of an apple due to gravity, it's the flow of electricity from positive to negative, heat from hot to cold. It is the first Law of Thermodynamics.
 
@@ -194,57 +194,57 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 
 ## The Sephiroth (between the worlds)
 
-Kether - Kether in Atziluth  
-Chokmah - Kether in Briah  
-Binah - Kether in Yetzirah  
-Chesed -   
-Geburah -   
-Tiphareth - Kether Assiah  
-Netzach -   
-Hod -   
-Yesod -   
-Malkuth -   
+**Kether** - Kether in Atziluth  
+**Chokmah** - Kether in Briah  
+**Binah** - Kether in Yetzirah  
+**Chesed** -   
+**Geburah** -   
+**Tiphareth** - Kether Assiah  
+**Netzach** -   
+**Hod** -   
+**Yesod** -   
+**Malkuth** -   
 
 
 ## The Sephiroth (of the human being)
 
-Kether - Higher Self, Atman  
-Chokmah - Causal Body (as wisdom)  
-Binah - Causal Body (as bliss)  
-Chesed - Karmic Memory  
-Geburah - Karmic Destiny  
-Tiphareth - Holy Guardian Angel, Mental Body  
-Netzach - Astral Body  
-Hod - Astral Body, Mind (The faculty of self-referentiality)  
-Yesod - Etheric Body, Human Memory  
-Malkuth - Physical Body  
+**Kether** - Higher Self, Atman  
+**Chokmah** - Causal Body (as wisdom)  
+**Binah** - Causal Body (as bliss)  
+**Chesed** - Karmic Memory  
+**Geburah** - Karmic Destiny  
+**Tiphareth** - Holy Guardian Angel, Mental Body  
+**Netzach** - Astral Body  
+**Hod** - Astral Body, Mind (The faculty of self-referentiality)  
+**Yesod** - Etheric Body, Human Memory  
+**Malkuth** - Physical Body  
 
 
 ## The Sephiroth (of the human experience)
 
-Kether - **Existence**, Peace  
-Chokmah - **Awareness**<sup>7</sup>, Wisdom, Life  
-Binah - **Intuition**, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
-Chesed - **Joy**, Compassion, Mercy, Divine Revelation, Breathing In, Good Health, Memory (as karma), Luck, Good Fortune, Good Karma  
-Geburah - **Pain**, Discipline, Will, Destiny, Breathing Out, Poor Health, Misfortune, Bad Karma  
-Tiphareth - **Consciousness**<sup>7</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
-Netzach - **Experience (Qualia)**, Passion, Emotions, Desire  
-Hod - **Self-Consciousness**, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
-Yesod - **Drives**, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
-Malkuth - **Embodiment**
+**Kether** - *Existence*, Peace  
+**Chokmah** - *Awareness*<sup>7</sup>, Wisdom, Life  
+**Binah** - *Intuition*, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
+**Chesed** - *Joy*, Compassion, Mercy, Divine Revelation, Breathing In, Good Health, Memory (as karma), Luck, Good Fortune, Good Karma  
+**Geburah** - *Pain*, Discipline, Will, Destiny, Breathing Out, Poor Health, Misfortune, Bad Karma  
+**Tiphareth** - *Consciousness*<sup>7</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
+**Netzach** - *Experience (Qualia)*, Passion, Emotions, Desire  
+**Hod** - *Self-Consciousness*, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
+**Yesod** - *Drives*, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
+**Malkuth** - *Embodiment*
 
 #### Qlipoth (of the human experience)
 
-Kether - Megalomania  
-Chokmah - Schizophrenia  
-Binah - Bipolar  
-Chesed - Mania  
-Geburah - Cruelty  
-Tiphareth - Fanaticism (Ideological Possession)  
-Netzach - Gluttony  
-Hod - Narcissism  
-Yesod - Hedonism  
-Malkuth - Suicide
+**Kether** - Megalomania  
+**Chokmah** - Schizophrenia  
+**Binah** - Bipolar  
+**Chesed** - Mania  
+**Geburah** - Cruelty  
+**Tiphareth** - Fanaticism (Ideological Possession)  
+**Netzach** - Gluttony  
+**Hod** - Narcissism  
+**Yesod** - Hedonism  
+**Malkuth** - Suicide
 
 It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced spiritually, intellectually, emotionally or physically; but they exist as independent principles.
 
@@ -253,18 +253,18 @@ The qualities attributed to Yesod of the human experience have the nature of an 
 
 ## The Sephiroth (of Jungian psychology)
 
-Kether - Self  
-Chokmah - Consciousness  
-Binah - Collective Unconscious  
-Chesed - Memory  
-Geburah - Will  
-Tiphareth - Ego/Self-Consciousness  
-Netzach - Emotions  
-Hod - Intellect  
-Yesod - Subconscious/Libido  
-Malkuth - Unconscious  
+**Kether** - Self  
+**Chokmah** - Consciousness  
+**Binah** - Collective Unconscious  
+**Chesed** - Memory  
+**Geburah** - Will  
+**Tiphareth** - Ego/Self-Consciousness  
+**Netzach** - Emotions  
+**Hod** - Intellect  
+**Yesod** - Subconscious/Libido  
+**Malkuth** - Unconscious  
 
-Zayin - Intuition
+**Zayin** - Intuition
 
 
 ## The Sephiroth (of anthroposophy)
