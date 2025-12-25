@@ -39,7 +39,15 @@ Herein is discussed the many facets of the Hermetic Qabalah and The Tree of Life
 8. [Footnotes](#footnotes)
 
 ## Introduction
-The Tree of Life, fundamentally, is a Hegelian process. Energies fly from one polar extreme (excessive energy and freedom) to the other (excessive form and restriction), and find their synthesis in the middle. This process establishes the rich energy network of the 22 paths, which hold of Manifest Being itself.
+The Tree of Life, fundamentally, is a Hegelian dialectic. Energies fly from one polar extreme (excess energy and freedom) to the other (excess form and restriction), and find their synthesis in the middle. This process establishes the rich energy network of the 22 paths, which hold up Manifest Being itself.
+
+The most obvious example of this is to be found in the Sephiroth immediately below The Abyss—Chesed and Geburah. Chesed, in it's over-abundant Joy for life, simply overflows with energy. Being the direct the descendant of Chokmah above it, it knows nothing but generation. While this may seem a pleasing prospect, too much water will drown, too much air will suffocate, and too much fire will burn. However, Chesed cannot be relied on to be both its own ideal and its opposite. It is not a mistake or an error of Creation that Chesed knows how to do this and only this, for in the spirit of the dialectic, we need both the thesis *and* the antithesis established in their own right before we can achieve the synthesis (the middle pillar).
+
+The anithesis in this case is Geburah—the mighty enforcer of his Divine Mother, Binah. Geburah knows nothing of creation, but only of destruction. Geburah is the expert of *what* (Binah) and *how* to cut away what it finds in Chesed.
+
+Together these two forces bring about the state of Tiphareth—an incredibly dynamic and active balance (*Lamed*).
+
+It is important to see that Creation is not a literally flowing of energy from one resevoir into the other, but that Chesed and Geburah exist in the exact same place and time, as the balancing forces which give rise to Tiphareth. In the same way that gravity and electromagnetism exist in the same place as the physical universe, operating throughout it to sustain its existence.
 
 ## The Elements
 
