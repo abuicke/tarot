@@ -1,21 +1,22 @@
 # *The Living Tree*: A Contemporary Cosmology of the Qabalah
-Here in is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
+Herein is discussed the many facets of the Hermetic Qabalah and The Tree of Life.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/tree%20of%20life.png" alt="Tree of Life" width="50%"/>
 
 ## Table of Contents
 
-1. [The Elements](#the-elements)
+1. [Introduction](#introduction)
+2. [The Elements](#the-elements)
     - [The Elements & The Four Worlds](#the-elements--the-four-worlds)
     - [Fire/Light/Yang 🔥](#firelightyang-)
     - [Water/Darkness/Yin 💧](#waterdarknessyin-)
     - [Air 💨](#air-)
     - [Earth 🌱](#earth-)
-6. [The Three Gunas](#the-three-gunas2)
+3. [The Three Gunas](#the-three-gunas2)
     - [Tamas (Inertia)](#tamas-inertia)
     - [Rajas (Activity)](#rajas-activity)
     - [Sattva (Dissolution)](#sattva-dissolution)
-7. [The Sephiroth](#the-sephiroth)
+4. [The Sephiroth](#the-sephiroth)
     - [The Sephiroth (as verbs)](#the-sephiroth-as-verbs)
     - [The Sephiroth (of the macrocosm)](#the-sephiroth-of-the-macrocosm)
     - [The Sephiroth (of manifestation)](#the-sephiroth-of-manifestation)
@@ -31,11 +32,14 @@ Here in is discussed the many facets of the Hermetic Qabalah and The Tree of Lif
     - [The Sephiroth (of society)](#the-sephiroth-of-society)
     - [The Sephiroth (of geometry)](#the-sephiroth-of-geometry)
     - [The Sephiroth (of human knowledge and culture)](#the-sephiroth-of-human-knowledge-and-culture)
-21. [The Cards](#the-cards)
-22. [The Plain English Qabalah](#the-plain-english-qabalah)
+5. [The Cards](#the-cards)
+6. [The Plain English Qabalah](#the-plain-english-qabalah)
     - [The Plain English Paths](#the-plain-english-paths)
-23. [The Abyss and the Triads](#the-abyss-and-the-triads)
-24. [Footnotes](#footnotes)
+7. [The Abyss and the Triads](#the-abyss-and-the-triads)
+8. [Footnotes](#footnotes)
+
+## Introduction
+The Tree of Life, fundamentally, is a Hegelian process. Energies fly from one polar extreme (excessive energy and freedom) to the other (excessive form and restriction), and find their synthesis in the middle. This process establishes the rich energy network of the 22 paths, which hold of Manifest Being itself.
 
 ## The Elements
 
