@@ -43,7 +43,7 @@ The Tree of Life, fundamentally, is a Hegelian dialectic. Energies fly from one 
 
 The most obvious example of this is to be found in the Sephiroth immediately below The Abyss—Chesed and Geburah. Chesed, in it's over-abundant Joy for life, simply overflows with energy. Being the direct the descendant of Chokmah above it, it knows nothing but generation. While this may seem a pleasing prospect, too much water will drown, too much air will suffocate, and too much fire will burn. However, Chesed cannot be relied on to be both its own ideal and its opposite. It is not a mistake or an error of Creation that Chesed knows how to do this and only this, for in the spirit of the dialectic, we need both the thesis *and* the antithesis established in their own right before we can achieve the synthesis (the middle pillar).
 
-The anithesis in this case is Geburah—the mighty enforcer of his Divine Mother, Binah. Geburah knows nothing of creation, but only of destruction. Geburah is the expert of *what*<sup>1</sup> and *how* to cut away what it finds in Chesed.
+The anithesis in this case is Geburah—the mighty enforcer of his Divine Mother, Binah. Geburah knows nothing of creation, but only of destruction. Geburah is the expert of *what*<sup>[1](#fn1)</sup> and *how* to cut away what it finds in Chesed.
 
 Together these two forces bring about the state of Tiphareth—an incredibly dynamic and active balance (*Lamed*).
 
@@ -86,10 +86,10 @@ According to Bardon, this is a virtual element. It comes about only as the inter
 
 
 ## Earth 🌱
-The Earth element adopts the remaining two qualities of Fire and Water not taken up by Air, being dryness and coolness. Like Air, it is also a virtual element, but one which itself houses all the other elements within its form.<sup>2</sup> It is created out of the interaction between Fire, Water and Air; and through it's consolidating action brings them into the world of physical matter. It is therefore responsible for the existence of the elements on the material plane as the earth, air, water and fire of everyday life.
+The Earth element adopts the remaining two qualities of Fire and Water not taken up by Air, being dryness and coolness. Like Air, it is also a virtual element, but one which itself houses all the other elements within its form.<sup>[2](#fn2)</sup> It is created out of the interaction between Fire, Water and Air; and through it's consolidating action brings them into the world of physical matter. It is therefore responsible for the existence of the elements on the material plane as the earth, air, water and fire of everyday life.
 
 
-## The Three Gunas<sup>3</sup>
+## The Three Gunas<sup>[3](#fn3)</sup>
 
 ### Tamas (Inertia)
 
@@ -149,7 +149,7 @@ The fundamental interplay between the pillars reflects the triune nature of the 
 ## The Sephiroth (as verbs)
 
 **Kether** - *Being*  
-**Chokmah** - *Creating*, Witnessing<sup>4</sup>  
+**Chokmah** - *Creating*, Witnessing<sup>[4](#fn4)</sup>  
 **Binah** - *Understanding*, Forming, Limiting  
 **Chesed** - *Expanding*, Establishing, Ordering, Structuring  
 **Geburah** - *Destroying*, Shaping, Bounding  
@@ -173,7 +173,7 @@ It is important to note that the Sephiroth do not exist independently, one is bu
 **Binah** - The Causal Plane, The Great Mother, Shakti, Kali, Yoni, Sacred Geometry, The Womb of Creation  
 **Chesed** - Natural Law (Dhamma/Dharma) Karma (as cause), Vishnu, Cosmic Order (upholding the good)  
 **Geburah** - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropy arising from Chesed)  
-**Tiphareth** - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>5</sup>  
+**Tiphareth** - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>[5](#fn5)</sup>  
 **Netzach** - The Astral Plane, Indra, Kama  
 **Hod** - The Astral Plane  
 **Yesod** - The Etheric Plane  
@@ -186,9 +186,9 @@ When dealing with Chesed and Geburah, we are really dealing with the aspects of 
 
 **Kether** - Space  
 **Chokmah** - Energy  
-**Binah** - Time<sup>6</sup>, Causality  
+**Binah** - Time<sup>[6](#fn6)</sup>, Causality  
 **Chesed** - Entropy  
-**Geburah** - Physics, Force, Conservation<sup>7</sup>  
+**Geburah** - Physics, Force, Conservation<sup>[7](#fn7)</sup>  
 **Tiphareth** - Electromagnetic field, Light (invisible)  
 **Netzach** - Electricity, Light (spectrum)  
 **Hod** - Magnetism  
@@ -237,11 +237,11 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 ## The Sephiroth (of the human experience)
 
 **Kether** - *Existence*, Peace  
-**Chokmah** - *Awareness*<sup>8</sup>, Wisdom, Life  
+**Chokmah** - *Awareness*<sup>[8](#fn8)</sup>, Wisdom, Life  
 **Binah** - *Intuition*, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 **Chesed** - *Joy*, Compassion, Mercy, Divine Revelation, Breathing In, Good Health, Memory (as karma), Luck, Good Fortune, Good Karma  
 **Geburah** - *Pain*, Discipline, Will, Destiny, Breathing Out, Poor Health, Misfortune, Bad Karma  
-**Tiphareth** - *Consciousness*<sup>8</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
+**Tiphareth** - *Consciousness*<sup>[8](#fn8)</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 **Netzach** - *Experience (Qualia)*, Passion, Emotions, Desire  
 **Hod** - *Self-Consciousness*, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 **Yesod** - *Drives*, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
@@ -262,7 +262,7 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 
 It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced spiritually, intellectually, emotionally or physically; but they exist as independent principles.
 
-The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences<sup>9</sup> which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
+The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences<sup>[9](#fn9)</sup> which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
 
 
 ## The Sephiroth (of Jungian psychology)
@@ -324,7 +324,7 @@ The qualities attributed to Yesod of the human experience have the nature of an 
 **Malkuth** - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>10</sup>
+## The Sephiroth (of the five koshas)<sup>[10](#fn10)</sup>
 
 **Kether** - Atman  
 **Chokmah** - Anandamaya Kosha (as wisdom)  
@@ -355,7 +355,7 @@ The qualities attributed to Yesod of the human experience have the nature of an 
 ## The Sephiroth (of society)
 
 **Kether** - God (The Church)  
-**Chokmah** - Eternity<sup>11</sup>, Divine Mandate  
+**Chokmah** - Eternity<sup>[11](#fn11)</sup>, Divine Mandate  
 **Binah** - Art & Culture  
 **Chesed** - Law and Order  
 **Geburah** - Conquest, Military, Imperialism  
@@ -431,23 +431,23 @@ Call to mind the image of pure invisible "white" light coming apart into the col
 ### The Abyss and the Triads
 
 **The Supernal Triad and the Moral Triad**  
-Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>12</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>[12](#fn12)</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/plain%20english%20qabalah.png" alt="Plain English Tree if Life" width="90%"/>
 
 
 ## Footnotes
-1. Geburah is only restrained in its destructive impulse by his mother, Binah. Binah is the master builder of the Universe, laying at the exact proportions necessary for the Creation to sustain. Geburah enfroces these proportions.
-2. This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
-3. See: [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
-4. From the point of view of the third-eye, seeing and creating are one and the same.
-5. "Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition), p. 13
-6. Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
-7. See First Law of Thermodynamics (Law of Energy Conservation) 
-8. "Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
-9. See *The Body Keeps the Score* by Bessel Van Der Kolk
-10. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
-11. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-12. See *777 Revised*, row 6, column 187, second formula.
+1. <a id="fn1"></a>Geburah is only restrained in its destructive impulse by his mother, Binah. Binah is the master builder of the Universe, laying at the exact proportions necessary for the Creation to sustain. Geburah enfroces these proportions.
+2. <a id="fn2"></a>This is why Malkuth on Tree of Life is drawn with four colours, equally segmented, each one representing one of the four elements on the plane of Earth.
+3. <a id="fn3"></a>See: [*3 basic qualities of existence: Tamas, Rajas and Satva*](https://www.youtube.com/watch?v=MsklzXQN27M) by Sadhguru
+4. <a id="fn4"></a>From the point of view of the third-eye, seeing and creating are one and the same.
+5. <a id="fn5"></a>"Demiourgos is Greek for 'public worker'. In Platonism and Gnosticism this term is used to describe a subordinate god who creates and arranges the physical world [Tiphareth] to make it conform to a rational eternal ideal [Kether]." - *A Garden of Pomegranates* (3rd Edition), p. 13
+6. <a id="fn6"></a>Time is just another way of representing energy, it is its inversion. Time is a function of energy, the amount of energy something has is reflected in the amount of time it lasts.
+7. <a id="fn7"></a>See First Law of Thermodynamics (Law of Energy Conservation) 
+8. <a id="fn8"></a>"Consciousness is awareness with choices" - Tom Campbell (See: The Lovers)
+9. <a id="fn9"></a>See *The Body Keeps the Score* by Bessel Van Der Kolk
+10. <a id="fn10"></a>An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
+11. <a id="fn11"></a>The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
+12. <a id="fn12"></a>See *777 Revised*, row 6, column 187, second formula.
 
 
