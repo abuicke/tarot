@@ -86,10 +86,10 @@ According to Bardon, this is a virtual element. It comes about only as the inter
 
 
 ## Earth 🌱
-The Earth element adopts the remaining two qualities of Fire and Water not taken up by Air, being dryness and coolness. Like Air, it is also a virtual element, but one which itself houses all the other elements within its form.<sup>1</sup> It is created out of the interaction between Fire, Water and Air; and through it's consolidating action brings them into the world of physical matter. It is therefore responsible for the existence of the elements on the material plane as the earth, air, water and fire of everyday life.
+The Earth element adopts the remaining two qualities of Fire and Water not taken up by Air, being dryness and coolness. Like Air, it is also a virtual element, but one which itself houses all the other elements within its form.<sup>2</sup> It is created out of the interaction between Fire, Water and Air; and through it's consolidating action brings them into the world of physical matter. It is therefore responsible for the existence of the elements on the material plane as the earth, air, water and fire of everyday life.
 
 
-## The Three Gunas<sup>2</sup>
+## The Three Gunas<sup>3</sup>
 
 ### Tamas (Inertia)
 
@@ -149,7 +149,7 @@ The fundamental interplay between the pillars reflects the triune nature of the 
 ## The Sephiroth (as verbs)
 
 **Kether** - *Being*  
-**Chokmah** - *Creating*, Witnessing<sup>3</sup>  
+**Chokmah** - *Creating*, Witnessing<sup>4</sup>  
 **Binah** - *Understanding*, Forming, Limiting  
 **Chesed** - *Expanding*, Establishing, Ordering, Structuring  
 **Geburah** - *Destroying*, Shaping, Bounding  
@@ -173,7 +173,7 @@ It is important to note that the Sephiroth do not exist independently, one is bu
 **Binah** - The Causal Plane, The Great Mother, Shakti, Kali, Yoni, Sacred Geometry, The Womb of Creation  
 **Chesed** - Natural Law (Dhamma/Dharma) Karma (as cause), Vishnu, Cosmic Order (upholding the good)  
 **Geburah** - Karma (as effect), Durga, Cosmic Order (destroying the evil, i.e. the entropy arising from Chesed)  
-**Tiphareth** - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>4</sup>  
+**Tiphareth** - The Mental Plane, Christ, Rama (as Maryada Purushottama), Demiourgos<sup>5</sup>  
 **Netzach** - The Astral Plane, Indra, Kama  
 **Hod** - The Astral Plane  
 **Yesod** - The Etheric Plane  
@@ -186,9 +186,9 @@ When dealing with Chesed and Geburah, we are really dealing with the aspects of 
 
 **Kether** - Space  
 **Chokmah** - Energy  
-**Binah** - Time<sup>5</sup>, Causality  
+**Binah** - Time<sup>6</sup>, Causality  
 **Chesed** - Entropy  
-**Geburah** - Physics, Force, Conservation<sup>6</sup>  
+**Geburah** - Physics, Force, Conservation<sup>7</sup>  
 **Tiphareth** - Electromagnetic field, Light (invisible)  
 **Netzach** - Electricity, Light (spectrum)  
 **Hod** - Magnetism  
@@ -237,11 +237,11 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 ## The Sephiroth (of the human experience)
 
 **Kether** - *Existence*, Peace  
-**Chokmah** - *Awareness*<sup>7</sup>, Wisdom, Life  
+**Chokmah** - *Awareness*<sup>8</sup>, Wisdom, Life  
 **Binah** - *Intuition*, Deep Sleep, Love, Bliss, Heartbreak, Grief, Sorrow  
 **Chesed** - *Joy*, Compassion, Mercy, Divine Revelation, Breathing In, Good Health, Memory (as karma), Luck, Good Fortune, Good Karma  
 **Geburah** - *Pain*, Discipline, Will, Destiny, Breathing Out, Poor Health, Misfortune, Bad Karma  
-**Tiphareth** - *Consciousness*<sup>7</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
+**Tiphareth** - *Consciousness*<sup>8</sup>, Individuality, Presence, Meaning, Enlightenment, Synchronicity, Flow  
 **Netzach** - *Experience (Qualia)*, Passion, Emotions, Desire  
 **Hod** - *Self-Consciousness*, Conception, Intellect, Thoughts, Self-Awareness, Subject-Object Perception  
 **Yesod** - *Drives*, Impulses, Compulsions, Memory (as retained impressions, samskaras)  
@@ -262,7 +262,7 @@ There's a quality of Geburah which is "the corrective nature of physics", probab
 
 It should be noted that terms such as *Joy* and *Pain* do not only refer to human emotions; they are fundamental qualities of the cosmos and of human experience. Joy is the experience of expanding and growing, Pain is the experience of contracting and disintegrating. These things can be experienced spiritually, intellectually, emotionally or physically; but they exist as independent principles.
 
-The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences<sup>8</sup> which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
+The qualities attributed to Yesod of the human experience have the nature of an electrical charge on the one hand, and a magnetic push or pull on the other. These are our drives, impulses, compulsions and instinctual responses. They produce a feeling of electricity in the body (nervous system arousal), and either an overwhelming draw towards (Joy), or repulsion away from (Pain), an object or experience. Samskaras are the retained impressions of these experiences in the etheric body, trauma being the retained impressions of negative experiences<sup>9</sup> which continue to exert an influence on the person after the event has passed. It is not surprising that the etheric body, which correlates to Yesod, is the "electric body". Yesod is also associated with the reproductive organs, sexual attraction being a quintessential example of this magnetism and charge.
 
 
 ## The Sephiroth (of Jungian psychology)
@@ -283,100 +283,101 @@ The qualities attributed to Yesod of the human experience have the nature of an 
 
 ## The Sephiroth (of anthroposophy)
 
-Kether - Atma (Spirit Man)  
-Chokmah - Buddhi (Life Spirit)  
-Binah - Manas (Spirit Self)  
-Chesed - Lucifer (Cosmic)  
-Geburah - Ahriman (Cosmic)  
-Tiphareth - Christ, Ego, Human, the I  
-Netzach - Astral Body (Feelings), Soul Body, Animal, Sentient Soul, Lucifer (Personal)  
-Hod - Astral Body (Intellect), Soul Body, Animal, Sentient Soul, Ahriman (Personal)  
-Yesod - Etheric Body, Life Body, Plant, Intellectual Soul  
-Malkuth - Physical Body, Mineral Body, Mineral, Consciousness Soul
-
+| Sephirah      | Human Body / Vehicle                  | Spiritual Hierarchy                           | Kingdom   | Soul / Spirit Member      | Adversarial Forces    |
+| :---          | :---                                  | :---                                          | :---      | :---                      | :---                  |
+| **Keter**     | —                                     | Seraphim (Spirits of Universal Love)          | —         | Atma (Spirit Man)         | —                     |
+| **Chokmah**   | —                                     | Cherubim (Spirits of Harmony)                 | —         | Buddhi (Life Spirit)      | —                     |
+| **Binah**     | —                                     | Thrones (Spirits of Will)                     | —         | Manas (Spirit Self)       | —                     |
+| **Chesed**    | Mental Body                           | Kyriotetes (Spirits of Wisdom / Dominions)    | —         | —                         | Lucifer (Cosmic)      |
+| **Geburah**   | Mental Body                           | Dynamis (Spirits of Motion / Mights)          | —         | —                         | Ahriman (Cosmic)      |
+| **Tiphareth** | Mental Body                           | Powers/Exusiai/Elohim (Spirits of Form)       | Human     | Ego (I)                   | Christ (Cosmic)       |
+| **Netzach**   | Astral Body (Feelings), Soul Body     | Archai (Spirits of Personality/Time)          | Animal    | Sentient Soul             | Lucifer (Personal)    |
+| **Hod**       | Astral Body (Intellect), Soul Body    | Archangels (Spirits of Fire)                  | Animal    | Sentient Soul             | Ahriman (Personal)    |
+| **Yesod**     | Etheric Body, Life Body               | Angels (Sons of Life)                         | Plant     | Intellectual Soul         | —                     |
+| **Malkuth**   | Physical Body                         | Humans (Spirits of Freedom and Love)          | Mineral   | Consciousness Soul        | —                     |
 
 ## The Sephiroth (of love)
 
-Kether - Love (as existence)  
-Chokmah - Love (as divine union)  
-Binah - Love (as bliss)  
-Chesed - Love (as joy)  
-Geburah - Love (as energy)  
-Tiphareth - Love (as meaning)  
-Netzach - Love (as attraction, excitement, fantasy)  
-Hod - Love (as idolization)  
-Yesod - Love (as lust, reproductive drive)  
-Malkuth - Love (as sex)
+**Kether** - Love (as existence)  
+**Chokmah** - Love (as divine union)  
+**Binah** - Love (as bliss)  
+**Chesed** - Love (as joy)  
+**Geburah** - Love (as energy)  
+**Tiphareth** - Love (as meaning)  
+**Netzach** - Love (as attraction, excitement, fantasy)  
+**Hod** - Love (as idolization)  
+**Yesod** - Love (as lust, reproductive drive)  
+**Malkuth** - Love (as sex)
 
 
 ## The Sephiroth (of the chakra system)
 
-Kether - Sahasrara  
-Chokmah - Ajna  
-Binah - Vishuddhi (Gateway)  
-Chesed -   
-Geburah -   
-Tiphareth - Anahata (Nexus)  
-Netzach -   
-Hod - Manipura  
-Yesod - Swadhisthana  
-Malkuth - Muladhara  
+**Kether** - Sahasrara  
+**Chokmah** - Ajna  
+**Binah** - Vishuddhi (Gateway)  
+**Chesed** -   
+**Geburah** -   
+**Tiphareth** - Anahata (Nexus)  
+**Netzach** -   
+**Hod** - Manipura  
+**Yesod** - Swadhisthana  
+**Malkuth** - Muladhara  
 
 
-## The Sephiroth (of the five koshas)<sup>9</sup>
+## The Sephiroth (of the five koshas)<sup>10</sup>
 
-Kether - Atman  
-Chokmah - Anandamaya Kosha (as wisdom)  
-Binah - Anandamaya Kosha (as bliss)  
-Chesed - Anandamaya Kosha (as karma), Vijnanamaya Kosha (as insight)  
-Geburah - Vijnanamaya Kosha (as understanding)  
-Tiphareth - Vijnanamaya Kosha (as intellect)  
-Netzach - Manomaya Kosha (as emotion)  
-Hod - Manomaya Kosha (as thought)  
-Yesod - Pranamaya Kosha  
-Malkuth - Annamaya Kosha  
+**Kether** - Atman  
+**Chokmah** - Anandamaya Kosha (as wisdom)  
+**Binah** - Anandamaya Kosha (as bliss)  
+**Chesed** - Anandamaya Kosha (as karma), Vijnanamaya Kosha (as insight)  
+**Geburah** - Vijnanamaya Kosha (as understanding)  
+**Tiphareth** - Vijnanamaya Kosha (as intellect)  
+**Netzach** - Manomaya Kosha (as emotion)  
+**Hod** - Manomaya Kosha (as thought)  
+**Yesod** - Pranamaya Kosha  
+**Malkuth** - Annamaya Kosha  
 
 
 ## The Sephiroth (of the physical body)
 
-Kether - Brain  
-Chokmah - Face, Eyes  
-Binah - Throat, Mouth, Tongue, Larynx  
-Chesed - Lungs (inhalation)  
-Geburah - Lungs (exhalation)  
-Tiphareth - Heart, Blood, Solar Plexus  
-Netzach - Digestive System (decomposition)  
-Hod - Digestive system (assimilation)  
-Yesod - Genitals, Nervous System  
-Malkuth - Feet, Bones, Skin
+**Kether** - Brain  
+**Chokmah** - Face, Eyes  
+**Binah** - Throat, Mouth, Tongue, Larynx  
+**Chesed** - Lungs (inhalation)  
+**Geburah** - Lungs (exhalation)  
+**Tiphareth** - Heart, Blood, Solar Plexus  
+**Netzach** - Digestive System (decomposition)  
+**Hod** - Digestive system (assimilation)  
+**Yesod** - Genitals, Nervous System  
+**Malkuth** - Feet, Bones, Skin
 
 
 ## The Sephiroth (of society)
 
-Kether - God (The Church)  
-Chokmah - Eternity<sup>10</sup>, Divine Mandate  
-Binah - Art & Culture  
-Chesed - Law and Order  
-Geburah - Conquest, Military, Imperialism  
-Tiphareth - Cooperation, Morality, Social Fabric  
-Netzach - Celebration, Revelry, Community, Customs  
-Hod - Education  
-Yesod - Socialization  
-Malkuth - Safety, Resources, Physical Structures  
+**Kether** - God (The Church)  
+**Chokmah** - Eternity<sup>11</sup>, Divine Mandate  
+**Binah** - Art & Culture  
+**Chesed** - Law and Order  
+**Geburah** - Conquest, Military, Imperialism  
+**Tiphareth** - Cooperation, Morality, Social Fabric  
+**Netzach** - Celebration, Revelry, Community, Customs  
+**Hod** - Education  
+**Yesod** - Socialization  
+**Malkuth** - Safety, Resources, Physical Structures  
 
 
 ## The Sephiroth (of geometry)
 
-Kether - Point  
-Chokmah - Line  
-Binah - Triangle  
-Chesed -   
-Geburah -   
-Tiphareth - Circle  
-Netzach - Position (Coordinate)  
-Hod - Magnitude  
-Yesod - Matrix  
-Malkuth - Square  
+**Kether** - Point  
+**Chokmah** - Line  
+**Binah** - Triangle  
+**Chesed** -   
+**Geburah** -   
+**Tiphareth** - Circle  
+**Netzach** - Position (Coordinate)  
+**Hod** - Magnitude  
+**Yesod** - Matrix  
+**Malkuth** - Square  
 
 >[In] Binah... is expressed the symbolism of Understanding. The idea has become fertilized; the triangle has been formulated. In each case, the idea is of a certain stability which can never be upset, but from which a child can issue.
 >
@@ -385,16 +386,16 @@ Malkuth - Square
 
 ## The Sephiroth (of human knowledge and culture)
 
-Kether - Revelation  
-Chokmah - Contemplation  
-Binah - Mathematics  
-Chesed - History  
-Geburah - Warfare  
-Tiphareth - Music  
-Netzach - Poetry  
-Hod - Philosophy  
-Yesod - Comedy  
-Malkuth - Martial Arts
+**Kether** - Revelation  
+**Chokmah** - Contemplation  
+**Binah** - Mathematics  
+**Chesed** - History  
+**Geburah** - Warfare  
+**Tiphareth** - Music  
+**Netzach** - Poetry  
+**Hod** - Philosophy  
+**Yesod** - Comedy  
+**Malkuth** - Martial Arts
 
 
 ## The Cards
@@ -404,16 +405,16 @@ Trumps are paths on the Tree. Pips are Sephiroth. Court cards are triads, certai
 
 ## The Plain English Qabalah
 
-Kether - Eternity  
-Chokmah - Infinity  
-Binah - Limitation  
-Chesed - Expansion  
-Geburah - Contraction  
-Tiphareth - Cyclicity  
-Netzach - Charge  
-Hod - Polarization  
-Yesod - Stability  
-Malkuth - Activity
+**Kether** - Eternity  
+**Chokmah** - Infinity  
+**Binah** - Limitation  
+**Chesed** - Expansion  
+**Geburah** - Contraction  
+**Tiphareth** - Cyclicity  
+**Netzach** - Charge  
+**Hod** - Polarization  
+**Yesod** - Stability  
+**Malkuth** - Activity
 
 ### The Plain English Paths
 
@@ -430,7 +431,7 @@ Call to mind the image of pure invisible "white" light coming apart into the col
 ### The Abyss and the Triads
 
 **The Supernal Triad and the Moral Triad**  
-Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>11</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
+Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest counterpart of Chesed; the Eternity of Kether becomes Cyclicity<sup>12</sup>, in its manifest counterpart of Tiphareth; and the Limiting nature of Binah, becomes the corrective enforcement of Geburah. However, Chesed also inherits qualities of structure from Binah; and Geburah manifests Chokmah's energy as force.
 
 <img src="https://raw.githubusercontent.com/abuicke/tarot/master/qabalah/imgs/plain%20english%20qabalah.png" alt="Plain English Tree if Life" width="90%"/>
 
@@ -447,6 +448,6 @@ Below the Abyss, the Infinity of Chokmah becomes Expansion, in its manifest coun
 9. See *The Body Keeps the Score* by Bessel Van Der Kolk
 10. An alternative perspective: [The Parts Of The Soul Explained](https://www.youtube.com/watch?v=bMi-Hyt0Acw)
 11. The belief a society has that it will last forever. The feeling a society has that it possesses a divine mandate from God to grow and expand.
-12. See *Liber 777*, row 6, column 187, second formula.
+12. See *777 Revised*, row 6, column 187, second formula.
 
 
