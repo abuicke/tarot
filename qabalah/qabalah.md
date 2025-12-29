@@ -51,6 +51,26 @@ It is important to see that Creation is not a literal flowing of energy from one
 
 Equally there is a need to move up and down the Tree. Binah, as the master builder, master architect of Creation, cannot simultaneously contain the perfect, abstract proportions of mathematics, while also existing at the denser, lower levels of the Tree, or at the higher, less abstract plains of Kether and the Ain Soph. In the same way an architect must reside at the level of the master plan for a building, and cannot simultaneously build it, there is a refinement and abstraction up and down the Tree. Beginning in absolute nothingness, with no definition, and ending in complete, full crystalliization, with nothing left unsaid.
 
+Each sephirah on the Tree exists at each level of Creation-in each of the four worlds:
+### 1) The Word (**Atziluth**)
+### 2) The Archetype (**Briah**)
+### 3) The Form (**Yetzirah**)
+### 4) The Physical (**Assiah**)
+
+| Sephirah      | Atziluth (God Name)   | Briah (Archangel) | Yetzirah (Angelic Choir)                  | Assiah (Mundane Sphere) |
+| :---          | :---                  | :---              | :---                                      | :--- |
+| **Kether**    | Eheieh                | Metatron          | Chaioth ha-Qadosh (Holy Living Creatures) | Primum Mobile |
+| **Chokmah**   | Yah                   | Raziel            | Auphanim (Wheels)                         | The Zodiac|
+| **Binah**     | YHVH Elohim           | Tzaphkiel         | Aralim (Active Ones, Thrones)             | Saturn |
+| **Chesed**    | El                    | Tzadkiel          | Chashmalim (Brilliant Ones)               | Jupiter |
+| **Geburah**   | Elohim Gibor          | Kamael            | Seraphim (Fiery Serpents)                 | Mars |
+| **Tiphareth** | YHVH Eloah va-Daath   | Raphael           | Malakim (Kings)                           | Sun |
+| **Netzach**   | YHVH Tzabaoth         | Haniel            | Elohim (Gods)                             | Venus |
+| **Hod**       | Elohim Tzabaoth       | Mikael            | Beni Elohim (Sons of God)                 | Mercury |
+| **Yesod**     | Shaddai El Chai       | Gabriel           | Kerubim (Angels of Elements)              | Moon |
+| **Malkuth**   | Adonai ha-Aretz       | Sandalphon        | Ashim (Flames)                            | Earth/The Elements |
+
+
 ## The Elements
 
 **Fire** - Intuition, Knowing, Gnosis  
@@ -283,18 +303,18 @@ The qualities attributed to Yesod of the human experience have the nature of an 
 
 ## The Sephiroth (of anthroposophy)
 
-| Sephirah      | Human Body / Vehicle                  | Spiritual Hierarchy                           | Kingdom   | Soul / Spirit Member      | Adversarial Forces    |
-| :---          | :---                                  | :---                                          | :---      | :---                      | :---                  |
-| **Keter**     | —                                     | Seraphim (Spirits of Universal Love)          | —         | Atma (Spirit Man)         | —                     |
-| **Chokmah**   | —                                     | Cherubim (Spirits of Harmony)                 | —         | Buddhi (Life Spirit)      | —                     |
-| **Binah**     | —                                     | Thrones (Spirits of Will)                     | —         | Manas (Spirit Self)       | —                     |
-| **Chesed**    | Mental Body                           | Kyriotetes (Spirits of Wisdom / Dominions)    | —         | —                         | Lucifer (Cosmic)      |
-| **Geburah**   | Mental Body                           | Dynamis (Spirits of Motion / Mights)          | —         | —                         | Ahriman (Cosmic)      |
-| **Tiphareth** | Mental Body                           | Powers/Exusiai/Elohim (Spirits of Form)       | Human     | Ego (I)                   | Christ (Cosmic)       |
-| **Netzach**   | Astral Body (Feelings), Soul Body     | Archai (Spirits of Personality/Time)          | Animal    | Sentient Soul             | Lucifer (Personal)    |
-| **Hod**       | Astral Body (Intellect), Soul Body    | Archangels (Spirits of Fire)                  | Animal    | Sentient Soul             | Ahriman (Personal)    |
-| **Yesod**     | Etheric Body, Life Body               | Angels (Sons of Life)                         | Plant     | Intellectual Soul         | —                     |
-| **Malkuth**   | Physical Body                         | Humans (Spirits of Freedom and Love)          | Mineral   | Consciousness Soul        | —                     |
+| Sephirah      | Human Body Vehicle                    | Spiritual Hierarchy                       | Kingdom   | Soul/Spirit Member        | Adversarial Forces    |
+| :---          | :---                                  | :---                                      | :---      | :---                      | :---                  |
+| **Keter**     | —                                     | Seraphim (Spirits of Universal Love)      | —         | Atma (Spirit Man)         | —                     |
+| **Chokmah**   | —                                     | Cherubim (Spirits of Harmony)             | —         | Buddhi (Life Spirit)      | —                     |
+| **Binah**     | —                                     | Thrones (Spirits of Will)                 | —         | Manas (Spirit Self)       | —                     |
+| **Chesed**    | Mental Body                           | Kyriotetes (Spirits of Wisdom/Dominions)  | —         | —                         | Lucifer (Cosmic)      |
+| **Geburah**   | Mental Body                           | Dynamis (Spirits of Motion/Mights)        | —         | —                         | Ahriman (Cosmic)      |
+| **Tiphareth** | Mental Body                           | Powers/Exusiai/Elohim (Spirits of Form)   | Human     | Ego (I)                   | Christ (Cosmic)       |
+| **Netzach**   | Astral Body (Feelings), Soul Body     | Archai (Spirits of Principalities/Time)   | Animal    | Sentient Soul             | Lucifer (Personal)    |
+| **Hod**       | Astral Body (Intellect), Soul Body    | Archangels (Spirits of Fire)              | Animal    | Sentient Soul             | Ahriman (Personal)    |
+| **Yesod**     | Etheric Body, Life Body               | Angels (Sons of Life)                     | Plant     | Intellectual Soul         | —                     |
+| **Malkuth**   | Physical Body                         | Humans (Spirits of Freedom and Love)      | Mineral   | Consciousness Soul        | —                     |
 
 ## The Sephiroth (of love)
 
