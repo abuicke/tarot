@@ -15,6 +15,7 @@
 ### Reversed
 
 1) Conflict with family
+2) Discord in a relationship. Loss of hope in a connection. Feeling of disconnection and disappointment.
 
 
 
