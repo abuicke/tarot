@@ -22,6 +22,12 @@
 
 
 
+### Card Description
+
+
+
+
+
 ### Extra
 
 >When you are angry, everything feels unjust, you know, isn't it? Every small thing you think some great injustice is happening to you when you are angry.<sup>4</sup>
