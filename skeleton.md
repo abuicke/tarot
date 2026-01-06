@@ -1,14 +1,14 @@
-# 
+# Title
 
-**Key Word:**   
-**Song:**   
-**Hexagrams:** 
+**Key Word:** Rick-rolled  
+**Song:** [Never Gonna Give You Up](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+**Hexagrams:** 13. 同人 T'ung Jên / Fellowship with Men
 
 
 
 ### Upright
 
-1) 
+1) first upright<sup>[1](#fn1)</sup>
 
 
 
@@ -32,6 +32,6 @@
 
 ### Footnotes
 
-1. 
+1. <a id="fn1"></a>first footnote
 
 
