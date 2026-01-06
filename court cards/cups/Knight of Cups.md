@@ -11,7 +11,7 @@
 
 1) A desire for deeper, more open-hearted and spiritual connections with other people.
 2) Reaching out to a spiritual community.
-3) Steiner's 6th cultural epoch. Building a spiritual community.
+3) Building a spiritual community.<sup>[1](#fn1)</sup>
 
 
 
@@ -41,6 +41,7 @@
 
 ### Footnotes
 
-1. 
+1. <a id="fn1"></a>Rudolf Steiner's 6th cultural epoch.
+2. 
 
 
