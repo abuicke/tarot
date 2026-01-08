@@ -18,7 +18,7 @@
 1) Out of the light, into darkness.
 2) Depression.
 3) Feeling impeded in the expression of one's personality. Feeling stifled, hindered.
-4) Impeded in one's attempts to manifest the qualities of the Prince of Wands. Impeded in one's abilities to alchemise darkness into life. Frustrated in one's desire/drive towards openness, embracing life, opening the heart, being in rhythm with life. Issues/bloackages/impediments with or brought about by spiritual practices which target these results, specifically the development of the heart.
+4) Impeded in one's attempts to manifest the qualities of the Prince of Wands. Impeded in one's abilities to alchemise darkness into life. Frustrated in one's desire/drive towards openness, embracing life, opening the heart, being in rhythm with life. Issues/bloackages/impediments with or brought about by spiritual practices which target these results, specifically the development of the heart.<sup>[1](#fn1)</sup>
 
 
 
@@ -36,7 +36,7 @@ Confident and powerful. Steadfast in his movements. Assured of his direction, kn
 
 ### Footnotes
 
-1. The work of Rudolf Steiner's 6 Subsidiaries
+1. <a id="fn1"></a>The work of Rudolf Steiner's 6 Subsidiaries
 
 >*Man has another lotus flower, the one with the twelve leaves. It has its seat in the region of the heart. Once only six leaves were visible. The acquisition of six virtues will bring the six other leaves to unfold in the future. These six virtues are: Thought control, initiative power, mental balance, positivity that allows one to see the best side of every thing, a mind free of prejudice, and finally, harmony of the soul's life.*
 >
