@@ -12,6 +12,7 @@
 1) A desire for deeper, more open-hearted and spiritual connections with other people.
 2) Reaching out to a spiritual community.
 3) Building a spiritual community.<sup>[1](#fn1)</sup>
+4) Connecting with a like-minded community.
 
 
 
