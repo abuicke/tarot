@@ -23,7 +23,9 @@
 
 ### Card Description
 
+Jesus walking on the water, calming the storm while the apostles are the on the boat, potentially holding a red wand or staff.
 
+![3 of Wands](./designs/3.1.1-400h.png)
 
 
 
