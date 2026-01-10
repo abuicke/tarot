@@ -1,9 +1,8 @@
 # 3 of Wands
 
-**Key Word:**   
-**Song:**   
-**Hexagrams:** 
-
+**Key Word:** Equanimity  
+**Song:** [Wildfires by SAULT](https://www.youtube.com/watch?v=GRC4Ac6IB1w)  
+**Hexagrams:** 52. 艮 Kên / Keeping Still (Mountain)
 
 
 ### Upright
