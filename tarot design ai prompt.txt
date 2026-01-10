@@ -1,0 +1,1 @@
+The card should have the correct Tarot card proportions (the same as the standard U.S. Games Rider Waite deck), with a simple white border and black text at the bottom which says "III of Wands".
