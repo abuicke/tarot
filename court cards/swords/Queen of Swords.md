@@ -4,7 +4,7 @@
 **Rules:** 20° ♍︎ to 20° ♎︎  
 **Planetary:** [Mercury], Moon, Saturn  
 **Nature:** [Wealth], Peace and Sorrow  
-**Hexagrams:** 20. Kuan/Contemplation (View)<sup>1</sup>
+**Hexagrams:** 20. 觀 Kuan / Contemplation (View)<sup>1</sup>
 
 
 
