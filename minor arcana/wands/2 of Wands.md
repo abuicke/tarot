@@ -20,7 +20,7 @@
 
 ### Card Description
 
-The God Thor smashing through a wooden door, his hammer in hand with lightening emanating from it, pieces of the door are splintering and flying through the air all around him. The POV of the card is from the inside of the door, from a person standing immediately behind it, facing it directly. Thor is occupying the sinister base of the card, with his eyes aimed slightly down and to his left, intent on destroying whatever lays before him.
+The God Thor smashing through a wooden door, his hammer in hand (potentially with lightening emanating from it), pieces of the door are splintering and flying through the air all around him. The POV of the card is from the inside of the door, from a person standing immediately behind it, facing it directly. Thor is occupying the sinister base of the card, with his eyes aimed slightly down and to his left, intent on destroying whatever lays before him.
 
 ![2 of Wands](./designs/2.1.2-400h.png)
 
