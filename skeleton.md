@@ -1,9 +1,8 @@
 # Title
 
 **Key Word:** Rick-rolled  
-**Song:** [Never Gonna Give You Up](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-**Hexagrams:** 13. 同人 T'ung Jên / Fellowship with Men
-
+**Song:** [Never Gonna Give You Up by Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+**Hexagrams:** 13. 同人 T'ung Jên / Fellowship with Men (alterantive english)
 
 
 ### Upright
