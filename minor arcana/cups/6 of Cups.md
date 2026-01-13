@@ -5,7 +5,6 @@
 **Hexagrams:** 
 
 
-
 ### Upright
 
 1) Harmonious, positive emotion. Fullness of feeling, dynamic and well balanced.
