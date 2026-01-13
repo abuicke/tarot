@@ -5,7 +5,6 @@
 **Hexagrams:** 42. I / Increase
 
 
-
 ### Upright
 
 1) Trying to create a stable direction or way forward.
