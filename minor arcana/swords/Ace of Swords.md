@@ -22,7 +22,7 @@
 
 ### Reversed
 
-1) False seeing; a false sense of spiritual elevation and clarity; *Luciferic* spiritual insight.
+1) False seeing, a false sense of spiritual elevation and clarity; *Luciferic* spiritual insight.
 
 
 
