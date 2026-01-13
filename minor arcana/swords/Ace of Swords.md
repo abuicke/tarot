@@ -5,10 +5,9 @@
 **Hexagrams:** 30. Li / The Clinging (Fire)
 
 
-
 ### Upright
 
-1) A new way of thinking, especially one which expands a person's purview. A higher perspective<sup>1</sup> (or level of consciousness) has been reached, and as such, the light (of one's consciousness) casts its boundaries further out than it previously could.
+1) A new way of thinking, especially one which expands a person's purview. A higher perspective<sup>[1](#fn1)</sup> (or level of consciousness) has been reached, and as such, the light (of one's consciousness) casts its boundaries further out than it previously could.
 2) An increased broadness and openness in one's perspective. A person's perspective encapsulates more than it did before.
 3) A strong, clear perspective, which penetrates through matters quickly and easily, not giving way to emotional upset or volatility.
 4) Enhanced perceptual abilities
@@ -23,7 +22,13 @@
 
 ### Reversed
 
-1) 
+1) False seeing; a false sense of spiritual elevation and clarity; *Luciferic* spiritual insight.
+
+
+
+### Card Description
+
+
 
 
 
@@ -35,6 +40,6 @@
 
 ### Footnotes
 
-1. See: Queen of Swords
+1. <a id="fn1"></a>See: Queen of Swords
 
 
