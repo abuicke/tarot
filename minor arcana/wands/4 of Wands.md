@@ -1,7 +1,7 @@
 # 4 of Wands
 
 **Key Word:** Stability  
-**Song:**   
+**Song:** [Hungry like the Wolf by Duran Duran](https://www.youtube.com/watch?v=oJL-lCzEXgI)  
 **Hexagrams:** 42. I / Increase
 
 
