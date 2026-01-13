@@ -12,6 +12,7 @@
 2) Joyous, emotionally enriching experiences.
 3) Ease of connection with others.
 4) Joyous ease; feelings of openness and connectedness with other people.
+5) The seed of happiness; potential for great **joy**; the beginning of a new, positive outlook.
 
 
 
@@ -20,6 +21,12 @@
 1) Depression. Lack of feeling. Feelings of disconnection and disharmony with others.
 2) Experiencing anxiety and fear when trying to relate to others emotionally.
 3) Feeling disconnected, not in sync.
+
+
+
+### Card Description
+
+
 
 
 
