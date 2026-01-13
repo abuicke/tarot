@@ -23,7 +23,7 @@
 
 ### Extra
 
->The original current of Will [Chokmah] manifested fully (as system, order, law, government) [Chesed].
+>The original current of Will<sup>[1](#fn1)</sup> manifested fully (as system, order, law, government)<sup>[2](#fn2)</sup>.
 >
 >*Liber Theta* (College of Thelema, 2012), p. 39
 
@@ -31,6 +31,7 @@
 
 ### Footnotes
 
-1. 
+1. <a id="fn1"></a>Chokmah
+2. <a id="fn2"></a>Chesed
 
 
