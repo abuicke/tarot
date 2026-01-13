@@ -12,6 +12,7 @@
 2) Seeking support to manifest an intention.
 3) A positive routine, achieving goals, establishing good patterns.
 4) A desired direction for the future.
+5) Established in one's direction. Knowing where one wants to go and how they're going to get there.
 
 
 
