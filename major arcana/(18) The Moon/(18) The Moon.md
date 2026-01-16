@@ -30,6 +30,12 @@
 >
 >**Carl Jung**, *Visions: Notes of the Seminar Given in 1930-1934, Vol. II*, pp. 1272-1273
 
+>Let me express it schematically, as follows: On the Old Moon certain pictures were present. These should have passed over to the Earth as something everywhere perceptible. But Lucifer and Ahriman retained them for themselves. Lucifer and Ahriman wrested from the Earth certain of its constituents and made them into Imaginations, so that these Earth-substances became, not Earthly formations, but Moon formations. Into our Fourth Sphere, therefore, there has been instilled a sphere that is really a Moon-sphere, but is filled with Earthly substantiality and is therefore a bogus creation in the Universe. To the seven Spheres, an Eighth, created in opposition to the progressive Spirits, has been added. The necessary consequence of this is that the Spirits of Form must do battle on the Earth for every morsel of substantiality capable of mineralisation, lest it should be wrested from them by Lucifer and Ahriman and borne into the Eighth Sphere.
+>
+>**Rudolf Steiner**, *The Occult Movement in the Nineteenth Century (GA 254), Lecture V*
+
+![Rudolf Steiner 8th Sphere Diagram](/reference%20material/steiner_8th_sphere_drawing.gif)
+
 **Question:** Does The Moon signify the connection between the etheric body and the emotions? If so, it signifies the deepest buried feelings within us. The etheric body being the source of raw, instinctual impulses on the level of fight-or-flight and sexual arousal (all forms of nervous system arousal I believe, which ties it in clearly with trauma, not least because the etheric body is also where memory is stored). It represents how these primitive instincts rise up into the domain of conscious (or partially conscious) feeling. It also establishes the relation between feeling and form. Also consider that this Atu's ascribed letter, Qoph, represents the back of the head, the autonomic and instinctual processes in man.
 
 
