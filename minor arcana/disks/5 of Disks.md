@@ -5,7 +5,6 @@
 **Hexagrams:** 39. Chien/Obstruction, 59. Huan/Dispersion (Dissolution)
 
 
-
 ### Upright
 
 1) Stultification of energies. **Gridlock**.
