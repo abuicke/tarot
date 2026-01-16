@@ -5,12 +5,11 @@
 **Hexagrams:** 36. Ming I / Darkening of the Light
 
 
-
 ### Upright
 
 1) Morbid lustfulness (pornography, degenerative sex).
 2) Compulsions
-3) Spiritual challenges (to overcome compulsions, to see them and the bring them into the light<sup>1</sup>).
+3) Spiritual challenges (to overcome compulsions, to see them and the bring them into the light<sup>[1](#fn1)</sup>).
 4) Resurfacing of repressed emotions. Experiencing repressed emotions consciously.
 5) Deception
 
@@ -19,8 +18,14 @@
 ### Reversed
 
 1) Everything exposed, secrets/hidden things coming to light (esp. in an ugly and sudden way).
-2) Return of the repressed<sup>2</sup> (resisting the unconscious, resisting what the unconscious wants to express). This can result in dissociation, pain, inflammation, digestive issues, hypochondria, paranoia, worry, fear etc.
+2) Return of the repressed<sup>[2](#fn2)</sup> (resisting the unconscious, resisting what the unconscious wants to express). This can result in dissociation, pain, inflammation, digestive issues, hypochondria, paranoia, worry, fear etc.
 3) Sudden release of unconscious energy—resulting in mania, anxiety, insomnia etc.
+
+
+
+### Card Description
+
+
 
 
 
@@ -42,7 +47,7 @@
 
 ### Footnotes
 
-1. See: The Sun
-2. [https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100417134](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100417134)
+1. <a id="fn1"></a>See: The Sun
+2. <a id="fn2"></a>[https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100417134](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100417134)
 
 
