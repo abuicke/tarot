@@ -15,7 +15,14 @@
 ### Reversed
 
 1) The end of stultification. Energies **moving freely** again.
-2) Release from (bodily) trauma.<sup>1</sup>
+2) Release from (bodily) trauma.<sup>[1](#fn1)</sup>
+3) Energy blockage(s) resolved, energy(s) freed up.
+
+
+
+### Card Description
+
+
 
 
 
@@ -27,7 +34,6 @@
 
 ### Footnotes
 
-1. See: *The Body Keeps The Score* by Bessel van der Kolk
-
+1. <a id="fn1"></a>See: *The Body Keeps The Score* by Bessel van der Kolk
 
 
