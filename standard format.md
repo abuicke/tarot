@@ -39,6 +39,10 @@ Jesus walking on the water, calming the storm while the apostles are the on the 
 >
 >**Israel Regardie**, *A Garden Pomegranates* (Llewellyn, 1995), p. xxv
 
+>People who are unconscious always create unconsciousness, and in this way they influence others; they can get them into an unconscious condition so that they will behave exactly according to their intention. That is the real essence of witchcraft.
+>
+>**Carl Jung**, *Visions: Notes of the Seminar Given in 1930-1934, Vol. II*, pp. 1272-1273
+
 >single verse bible quote
 >
 >*John 8:12 (KJV)*
